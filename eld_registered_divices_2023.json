@@ -1,0 +1,5749 @@
+﻿[
+    {
+        "device": "Magellan HOS Compliance",
+        "model": "MGNHOS002",
+        "software": "1.0.1706 or higher",
+        "identifier": "MGNHOS",
+        "company": "Magellan GPS"
+    },
+    {
+        "device": "FleetUp",
+        "model": "3NX-a",
+        "software": "1.0 or Higher",
+        "identifier": "TLT3NX",
+        "company": "FleetUp"
+    },
+    {
+        "device": "CommandGPS ELD",
+        "model": "AGCM01",
+        "software": "1.4.72 or higher",
+        "identifier": "AGCM01",
+        "company": "Linxup"
+    },
+    {
+        "device": "Maven ELD",
+        "model": "MELD_Android",
+        "software": "3.19.2 or higher",
+        "identifier": "MMELDA",
+        "company": "Maven Machines, Inc."
+    },
+    {
+        "device": "BIT ELD for Apple",
+        "model": "BIT17001",
+        "software": "5.0.1 or higher",
+        "identifier": "BITELD",
+        "company": "Blue Ink Tech"
+    },
+    {
+        "device": "Azuga E-Logs",
+        "model": "AZ-TAB-E8-ELD",
+        "software": "2.1.25 or higher",
+        "identifier": "AZELD1",
+        "company": "Azuga"
+    },
+    {
+        "device": "Produce Pro Software DriverHOS",
+        "model": "DHOS100",
+        "software": "2.0 or higher",
+        "identifier": "PPHOS1",
+        "company": "Produce Pro, Inc."
+    },
+    {
+        "device": "ELD24K",
+        "model": "IOSIX ELD",
+        "software": "V 1.0",
+        "identifier": "TMX121",
+        "company": "Cromton Systems, Corp"
+    },
+    {
+        "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
+        "model": "Xirgo XT6300 Series",
+        "software": "Workplan 4/HOS 3",
+        "identifier": "TX6300",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "PowerFleet MDT7000",
+        "model": "MDT7000",
+        "software": "4.31.50 and above",
+        "identifier": "CW7000",
+        "company": "PowerFleet (Formerly CarrierWeb LLC)"
+    },
+    {
+        "device": "Trendfire ELD+",
+        "model": "TT-ELD-S1A",
+        "software": "2.2.11 or higher",
+        "identifier": "TTELD1",
+        "company": "Trendfire Technologies Inc."
+    },
+    {
+        "device": "Contractors E Logs - 3030",
+        "model": "LMU-3030",
+        "software": "3/2/12",
+        "identifier": "LMU030",
+        "company": "EquipmentShare"
+    },
+    {
+        "device": "SHIELD",
+        "model": "SHI767",
+        "software": "V 1.0 or higher",
+        "identifier": "SHI767",
+        "company": "United Bus Technology"
+    },
+    {
+        "device": "Ingtech Delta",
+        "model": "Delta001",
+        "software": "1.0 and higher",
+        "identifier": "DELTA1",
+        "company": "INGTECH"
+    },
+    {
+        "device": "Contractors E Logs - MC3",
+        "model": "MC3",
+        "software": "3/3/00",
+        "identifier": "MC3ELD",
+        "company": "EquipmentShare"
+    },
+    {
+        "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
+        "model": "VT400",
+        "software": "Workplan 4/HOS 3",
+        "identifier": "TVT400",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "CLD",
+        "model": "0.1",
+        "software": "0.0.62",
+        "identifier": "eldcld",
+        "company": "Consolidated Bulk Carriers Corp"
+    },
+    {
+        "device": "SHIELD",
+        "model": "SHI767_PT30",
+        "software": "V 1.0 or higher",
+        "identifier": "SHI768",
+        "company": "United Bus Technology"
+    },
+    {
+        "device": "ELD365",
+        "model": "ELD386",
+        "software": "2.1.399",
+        "identifier": "ATS001",
+        "company": "ELD365"
+    },
+    {
+        "device": "GPSWEBPRO",
+        "model": "PT30",
+        "software": "2.2 and up",
+        "identifier": "GWPELD",
+        "company": "GPSWEB PRO"
+    },
+    {
+        "device": "Budget Trucker",
+        "model": "G3000",
+        "software": "1824.190131.1",
+        "identifier": "HOS001",
+        "company": "Budget Trucker"
+    },
+    {
+        "device": "EROAD ELD",
+        "model": "Ehubo 2",
+        "software": "v1.46.300 or higher",
+        "identifier": "EROAD1",
+        "company": "EROAD"
+    },
+    {
+        "device": "BELLFAM ELD",
+        "model": "BRS",
+        "software": "2.7.13 or higher",
+        "identifier": "BRS114",
+        "company": "Bellfam"
+    },
+    {
+        "device": "EZ DriverLog",
+        "model": "BlueLink",
+        "software": "4/4/09",
+        "identifier": "WLI001",
+        "company": "EZ TRACK"
+    },
+    {
+        "device": "ELD CONNECT",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS124",
+        "company": "ELDCONNECT LLC"
+    },
+    {
+        "device": "48 ELD",
+        "model": "4RS",
+        "software": "2.0 or higher",
+        "identifier": "4RS123",
+        "company": "48 ELD"
+    },
+    {
+        "device": "1701 NCX ELD",
+        "model": "NCX1701",
+        "software": "2.3.1",
+        "identifier": "RFS6T7",
+        "company": "National Carrier Exchange"
+    },
+    {
+        "device": "Geotab Drive for Mack Trucks",
+        "model": "TGW 2.1",
+        "software": "5.7.1903 and higher",
+        "identifier": "MACK01",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & CalAmp4230",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "VDOS ELD",
+        "model": "VDOS ELD iOS/Geotab",
+        "software": "2.5.0 or greater",
+        "identifier": "SUNBLT",
+        "company": "Sunbelt Rentals"
+    },
+    {
+        "device": "Titan GPS Logbook",
+        "model": "TT6000 ELD iOS",
+        "software": "1905.190710 and up",
+        "identifier": "THOS01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "ELDMANDATE HOS",
+        "model": "EMPT30",
+        "software": "3.0.2212.220822",
+        "identifier": "EMpt30",
+        "company": "ELD Mandate"
+    },
+    {
+        "device": "PRIMELD",
+        "model": "PRS",
+        "software": "2.0 or higher",
+        "identifier": "PRS139",
+        "company": "Primeld"
+    },
+    {
+        "device": "M2M ELD",
+        "model": "M2M Geometris (Android)",
+        "software": "1.0.2022.201130 +",
+        "identifier": "M2M018",
+        "company": "AAMP Global (Formerly M2M In Motion)"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & GenEx GNX-6",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "SPK ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "srs119",
+        "company": "SPK ELD"
+    },
+    {
+        "device": "ELD logbook ISPP",
+        "model": "CTELD2",
+        "software": "3.0.2116.210920",
+        "identifier": "CTELD2",
+        "company": "I.S.P.P. 9675868 Canada Inc."
+    },
+    {
+        "device": "Optimus Fleet ELD",
+        "model": "CalAmp V-Series™",
+        "software": "2/1/47",
+        "identifier": "OF1ELD",
+        "company": "Optimus Fleet"
+    },
+    {
+        "device": "Ready Fleet ELD",
+        "model": "iOS and Geometris",
+        "software": "1.0.1923.200113",
+        "identifier": "RFELD1",
+        "company": "Ready Wireless"
+    },
+    {
+        "device": "Atlas",
+        "model": "XEL-001",
+        "software": "2020.201026 or above",
+        "identifier": "XEL001",
+        "company": "HOS-Reporter"
+    },
+    {
+        "device": "3MD ELD",
+        "model": "3MD 100 Pacific Track iOS",
+        "software": "2120.211122.1",
+        "identifier": "3MD100",
+        "company": "3MD Solutions, LLC"
+    },
+    {
+        "device": "TruckX-Wired-ELD",
+        "model": "WELD",
+        "software": "1.30.0+",
+        "identifier": "TRXW20",
+        "company": "TruckX Inc"
+    },
+    {
+        "device": "ELD FOR YOU",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS146",
+        "company": "ELD FOR YOU LLC"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & IOSiX",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "BIT ELD Gen2",
+        "model": "BIT17003",
+        "software": "5.0.1 or higher",
+        "identifier": "BITEG2",
+        "company": "Blue Ink Tech"
+    },
+    {
+        "device": "\"\"\"Prime8\"\" ELD by Gorilla Safety\"",
+        "model": "GS0001",
+        "software": "3.3.5 And Above",
+        "identifier": "GS0001",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "E-Logbook",
+        "model": "UE910-N3G",
+        "software": "Version6.2",
+        "identifier": "TGL500",
+        "company": "I-Soft Global Software Solutions"
+    },
+    {
+        "device": "CyntrX ELD Pro",
+        "model": "Geometris and Android",
+        "software": "3.0.2116.210920 & up",
+        "identifier": "FlexCX",
+        "company": "CyntrX"
+    },
+    {
+        "device": "ClutchELD",
+        "model": "Android and ioSIX",
+        "software": "1.0 and Above",
+        "identifier": "CELD03",
+        "company": "ClutchELD"
+    },
+    {
+        "device": "Amazon Relay ELD",
+        "model": "PT-1",
+        "software": "1.33.2 or higher",
+        "identifier": "AMZN01",
+        "company": "Amazon"
+    },
+    {
+        "device": "ELD Chrome Cab-Mate One by Pedigree Technologies",
+        "model": "Cab-Mate One",
+        "software": "4.55",
+        "identifier": "CM0101",
+        "company": "Pedigree Technologies, LLC"
+    },
+    {
+        "device": "ELD Chrome Cab-Mate Open by Pedigree Technologies",
+        "model": "Cab-Mate Open",
+        "software": "4.55",
+        "identifier": "CMOP01",
+        "company": "Pedigree Technologies, LLC"
+    },
+    {
+        "device": "E-Log Plus IOSI iOSver",
+        "model": "ELP-iOS100i",
+        "software": "1905.19071",
+        "identifier": "ELP010",
+        "company": "E-Log Plus"
+    },
+    {
+        "device": "PeopleNet Connected Gateway - Trimble Instinct Driver ELD",
+        "model": "PCG Trimble Instinct",
+        "software": "10.1 or higher",
+        "identifier": "PCG003",
+        "company": "PeopleNet"
+    },
+    {
+        "device": "ProLogs",
+        "model": "Android & Geometris",
+        "software": "2021.02.28-4 and up",
+        "identifier": "101PRO",
+        "company": "Prologs Solutions, LLC"
+    },
+    {
+        "device": "HGRS ELD",
+        "model": "HRS",
+        "software": "2.0 or higher",
+        "identifier": "HRS169",
+        "company": "HGRS"
+    },
+    {
+        "device": "NexTraq ELD iOS",
+        "model": "1.0 and above",
+        "software": "1.0.1905.190710",
+        "identifier": "HOS001",
+        "company": "NexTraq"
+    },
+    {
+        "device": "SUPPORT ELD",
+        "model": "SRS",
+        "software": "2.17.0 or above",
+        "identifier": "SRS234",
+        "company": "Support ELD"
+    },
+    {
+        "device": "Titan FieldDocs ELD 2.0",
+        "model": "Titan TT6000 Android",
+        "software": "1.0.66 and up",
+        "identifier": "TT6A01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "KSK ELD",
+        "model": "KSK1.0",
+        "software": "android4.3&iOS3.3&up",
+        "identifier": "KSKA01",
+        "company": "KSK Group, Inc."
+    },
+    {
+        "device": "DriverBook ELD / iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "DRBK07",
+        "company": "DriverBook ELD"
+    },
+    {
+        "device": "POWERTRUCKS ELD",
+        "model": "PRS",
+        "software": "2.20.20 or above",
+        "identifier": "PRS211",
+        "company": "Miran Support LLC"
+    },
+    {
+        "device": "DriverConnect",
+        "model": "DC 200 Fleet",
+        "software": "Android6.4;iOS2.3",
+        "identifier": "RMDC00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "Total ELD",
+        "model": "ATSAP1",
+        "software": "203 or higher",
+        "identifier": "TLELD1",
+        "company": "ATS Fleet Management, LLC"
+    },
+    {
+        "device": "Webfleet - Pacific Track and iOS",
+        "model": "WF-IOSP",
+        "software": "1.0 and Above",
+        "identifier": "WFIOS3",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "NexTraq ELD Android",
+        "model": "1.0 and above",
+        "software": "1.0.1905.190710",
+        "identifier": "HOS001",
+        "company": "NexTraq"
+    },
+    {
+        "device": "TT ELD 30",
+        "model": "PT30",
+        "software": "4/4/00",
+        "identifier": "TTAH47",
+        "company": "TT ELD Inc"
+    },
+    {
+        "device": "TT ELD 1010",
+        "model": "IOS-1010-WBG",
+        "software": "4/4/00",
+        "identifier": "TTAH48",
+        "company": "TT ELD Inc"
+    },
+    {
+        "device": "Orient Star ELD",
+        "model": "ORS",
+        "software": "2.0 or higher",
+        "identifier": "ORS217",
+        "company": "Orient Star ELD"
+    },
+    {
+        "device": "Webfleet ioSIX and Android",
+        "model": "WF-ANDI",
+        "software": "1.0 and Above",
+        "identifier": "WFAND2",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "GOLDEN ELD",
+        "model": "GRS",
+        "software": "2.13 or above",
+        "identifier": "GRS199",
+        "company": "GOLDEN ELD"
+    },
+    {
+        "device": "ELD SEVEN",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS244",
+        "company": "MIORA GROUP INC"
+    },
+    {
+        "device": "GPSTab ELD Edition",
+        "model": "GELDN01",
+        "software": "4/1/05",
+        "identifier": "GNA001",
+        "company": "Utech Inc."
+    },
+    {
+        "device": "3PL TEK ELD",
+        "model": "3RS",
+        "software": "2.0 or higher",
+        "identifier": "3RS266",
+        "company": "3PL TEK INC"
+    },
+    {
+        "device": "TrackEnsure ELD",
+        "model": "PT30",
+        "software": "3.01.42 and higher",
+        "identifier": "TE0101",
+        "company": "TrackEnsure Incorporated"
+    },
+    {
+        "device": "Vector ELD Android",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "VCTR10",
+        "company": "Vector ELD"
+    },
+    {
+        "device": "Orion ELD (Android Version)",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "STAR01",
+        "company": "Orion ELD"
+    },
+    {
+        "device": "kinesis ELD",
+        "model": "KNSS 0010",
+        "software": "215 or higher",
+        "identifier": "KNSS10",
+        "company": "Kinesis ELD"
+    },
+    {
+        "device": "Club ELD / iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "01CLUB",
+        "company": "Club ELD"
+    },
+    {
+        "device": "Vista ELD ( Android)",
+        "model": "PT30",
+        "software": "1.0.01 or higher",
+        "identifier": "VELD11",
+        "company": "Vista ELD"
+    },
+    {
+        "device": "Driver•i",
+        "model": "D430",
+        "software": "3.5.21.rc.7 and up",
+        "identifier": "DRI430",
+        "company": "Netradyne"
+    },
+    {
+        "device": "ISPP ELD DCE",
+        "model": "ISPPC 2210",
+        "software": "215 or Higher",
+        "identifier": "ISPP22",
+        "company": "I.S.P.P. 9675868 Canada Inc."
+    },
+    {
+        "device": "Sprint ELD Android",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "SPR1NT",
+        "company": "Sprint ELD"
+    },
+    {
+        "device": "Orion ELD (iOS Version)",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "STAR01",
+        "company": "Orion ELD"
+    },
+    {
+        "device": "STS ELOG",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS261",
+        "company": "Smart Trucking Solutions INC"
+    },
+    {
+        "device": "My20",
+        "model": "MY20ELD02",
+        "software": "22.6.1 or higher",
+        "identifier": "KNXL02",
+        "company": "Konexial"
+    },
+    {
+        "device": "Omnitracs XRS ELD SYSTEM",
+        "model": "XRS",
+        "software": "6.20 or Later",
+        "identifier": "XRSAN1",
+        "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "TrackEnsure ELD",
+        "model": "PT30",
+        "software": "3.0.56 or higher",
+        "identifier": "TE0101",
+        "company": "TrackEnsure Incorporated"
+    },
+    {
+        "device": "TRUCKFORD ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS263",
+        "company": "Truckford ELD"
+    },
+    {
+        "device": "GPSTab ELD Edition",
+        "model": "GELDN01",
+        "software": "3.3.1",
+        "identifier": "GNA002",
+        "company": "Utech Inc."
+    },
+    {
+        "device": "OnroadELD",
+        "model": "OELD",
+        "software": "1.0 or higher",
+        "identifier": "ORD312",
+        "company": "Onroad Networks"
+    },
+    {
+        "device": "Saucon Prox-M ELD Android",
+        "model": "PROXMAND22",
+        "software": "1.0.2 (3) and higher",
+        "identifier": "PROXM2",
+        "company": "Saucon Technologies, Inc"
+    },
+    {
+        "device": "ELD2020 Android",
+        "model": "ELD2020A",
+        "software": "2.6.10.3231- higher",
+        "identifier": "ELD20A",
+        "company": "Hutch Systems Inc"
+    },
+    {
+        "device": "CAPTAIN ELD",
+        "model": "CPI",
+        "software": "2.14.31 or above",
+        "identifier": "CPI682",
+        "company": "TRANS ATLANTIC GSV, INC."
+    },
+    {
+        "device": "Alert Gps Inc. ELD",
+        "model": "Alert ELD",
+        "software": "1.0.28 and above",
+        "identifier": "ALERT1",
+        "company": "Alert Gps Inc"
+    },
+    {
+        "device": "FleetUp",
+        "model": "3G",
+        "software": "1.0.0",
+        "identifier": "AAAAAA",
+        "company": "FleetUp"
+    },
+    {
+        "device": "NexTraq Elogs",
+        "model": "NTELD 1.1 or higher",
+        "software": "1.2.70.0A or higher",
+        "identifier": "NTELD1",
+        "company": "NexTraq"
+    },
+    {
+        "device": "FC BigRoad ELD",
+        "model": "DL-100 / DL-200",
+        "software": "33.1 or higher",
+        "identifier": "FCBR20",
+        "company": "BigRoad Inc"
+    },
+    {
+        "device": "E-LOG",
+        "model": "1403",
+        "software": "17081801",
+        "identifier": "ELOG01",
+        "company": "RM2J inc."
+    },
+    {
+        "device": "Linxup ELD",
+        "model": "AGLX01",
+        "software": "1.4.72 or higher",
+        "identifier": "AGLX01",
+        "company": "Linxup"
+    },
+    {
+        "device": "PeopleNet Mobile Gateway - Trimble Driver ELD",
+        "model": "PMG001",
+        "software": "10.1 or higher",
+        "identifier": "PMG001",
+        "company": "PeopleNet"
+    },
+    {
+        "device": "BIT OBD ELD for Apple",
+        "model": "BIT17002",
+        "software": "5.0.1 or higher",
+        "identifier": "BITELD",
+        "company": "Blue Ink Tech"
+    },
+    {
+        "device": "DT4000",
+        "model": "REV 6",
+        "software": "6.08.00 and Higher",
+        "identifier": "DT4R06",
+        "company": "DriverTech LLC"
+    },
+    {
+        "device": "infoTRAK ELD",
+        "model": "infoTRAK Bluelink",
+        "software": "3.7 and Higher",
+        "identifier": "ISELD9",
+        "company": "e-Infospectrum Inc."
+    },
+    {
+        "device": "Geowiz ELD",
+        "model": "IO100",
+        "software": "v 5.5.0.0 and higher",
+        "identifier": "FF44EE",
+        "company": "GeoSpace Labs"
+    },
+    {
+        "device": "Ez ELD Tracking Management System",
+        "model": "EZELD4230",
+        "software": "0.0.1",
+        "identifier": "EZTELD",
+        "company": "EZ TRACK"
+    },
+    {
+        "device": "FleetRover WiFi",
+        "model": "FleetRover ELD-WiFi",
+        "software": "1.44.7.2",
+        "identifier": "FR1427",
+        "company": "FleetRover"
+    },
+    {
+        "device": "Dumax ELD",
+        "model": "AT3646",
+        "software": "1.1",
+        "identifier": "AT-000",
+        "company": "DUMAX GPS"
+    },
+    {
+        "device": "Uptake ELD",
+        "model": "UP001",
+        "software": "1.1 or above",
+        "identifier": "UPELD1",
+        "company": "Uptake Technologies, Inc"
+    },
+    {
+        "device": "ISR FleetTrack&#174; HOS ELD Module",
+        "model": "HOS100",
+        "software": "Version 1.90",
+        "identifier": "ISR500",
+        "company": "ISR Corporation"
+    },
+    {
+        "device": "DispatchCrude.com",
+        "model": "DCT-317",
+        "software": "4.7.54.1",
+        "identifier": "DCT317",
+        "company": "Capital Technology Solutions"
+    },
+    {
+        "device": "EveryFleet",
+        "model": "LMU-4230",
+        "software": "v1",
+        "identifier": "VC4230",
+        "company": "EveryFleet"
+    },
+    {
+        "device": "Switchboard",
+        "model": "SB1",
+        "software": "1.27 or above",
+        "identifier": "SWITCH",
+        "company": "Switchboard"
+    },
+    {
+        "device": "Descartes Telematics - G Tablet",
+        "model": "DSG ELD TT GO",
+        "software": "18.05 or higher",
+        "identifier": "DSGGT1",
+        "company": "The Descartes Systems Group Inc"
+    },
+    {
+        "device": "TruckRec",
+        "model": "161B",
+        "software": "2",
+        "identifier": "C203EB",
+        "company": "Cesiumai USA Inc."
+    },
+    {
+        "device": "TruckRec",
+        "model": "T401",
+        "software": "2",
+        "identifier": "C202EW",
+        "company": "Cesiumai USA Inc."
+    },
+    {
+        "device": "Synovia Solutions ELD",
+        "model": "SM7P",
+        "software": "1.5.51.1A or higher",
+        "identifier": "SYN002",
+        "company": "Synovia Solutions, LLC"
+    },
+    {
+        "device": "MapAnything ELD Lite",
+        "model": "com.mapanything.eldlite",
+        "software": "1.0.1625.6584",
+        "identifier": "HOS001",
+        "company": "MapAnything ELD Lite"
+    },
+    {
+        "device": "Geometris with Android",
+        "model": "-G3000",
+        "software": "1.0.1905.190529",
+        "identifier": "G4HHOS",
+        "company": "G4H LLC"
+    },
+    {
+        "device": "Start Fleet ELD",
+        "model": "CalAmp V-Series™",
+        "software": "1.0.6413.23",
+        "identifier": "SFSELD",
+        "company": "Start Fleet"
+    },
+    {
+        "device": "Labatt OBC",
+        "model": "OBC",
+        "software": "4.0 or higher",
+        "identifier": "LABAT1",
+        "company": "Labatt Food Service"
+    },
+    {
+        "device": "CTE-LOG ELD",
+        "model": "CRS",
+        "software": "2.11.12 or up.",
+        "identifier": "CRS102",
+        "company": "CTE LOG ELD LLC"
+    },
+    {
+        "device": "USA TRANSCO ELD",
+        "model": "URS",
+        "software": "2.0 or higher",
+        "identifier": "URS101",
+        "company": "Assem Bitleuova"
+    },
+    {
+        "device": "DREAM ELD",
+        "model": "DRS",
+        "software": "2.6.1",
+        "identifier": "DRS126",
+        "company": "DREAM ELD"
+    },
+    {
+        "device": "Verizon Connect Reveal ELD Logbook iOS - Formerly Fleetmatics Logbook",
+        "model": "XIRGO XT-6300 Series",
+        "software": "ELD 3.36.2 or higher",
+        "identifier": "RIXI20",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "Hours of Service",
+        "model": "Android & Trackit",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Atlas",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "TrackOn Lite ELD",
+        "model": "TOLWL01",
+        "software": "TOLA1.0",
+        "identifier": "TWLA01",
+        "company": "TrackOn LLC."
+    },
+    {
+        "device": "ELD365 ELOG",
+        "model": "ELOG365",
+        "software": "194 or higher",
+        "identifier": "ELD365",
+        "company": "ELD365"
+    },
+    {
+        "device": "CloudELD",
+        "model": "SmartTab",
+        "software": "1.0.00",
+        "identifier": "ETSELD",
+        "company": "LiRCTek Inc"
+    },
+    {
+        "device": "SwissLog Lite",
+        "model": "G3000",
+        "software": "3.0.2116.210920",
+        "identifier": "IIMP30",
+        "company": "IIMSWISS CORP."
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MA3400",
+        "software": "4.0 and above",
+        "identifier": "MA34M1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "FRIZ ELD",
+        "model": "FRS",
+        "software": "2.0 or higher",
+        "identifier": "FRS118",
+        "company": "FRIZ LOGISTICS,INC"
+    },
+    {
+        "device": "Datasmart ELD",
+        "model": "DSTTG-1710",
+        "software": "3.0.2116.210920",
+        "identifier": "DSE001",
+        "company": "Datasmart ELD"
+    },
+    {
+        "device": "DriverLog",
+        "model": "Piccolo BLE/USB",
+        "software": "3.0.7 and up",
+        "identifier": "WLI001",
+        "company": "Wireless Links"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & Geometris",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Astus",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "SmartDrive Compliance",
+        "model": "SmartRecorder 4, GO8, GO9",
+        "software": "5.7.2002.1145 +",
+        "identifier": "SDSISR",
+        "company": "SmartDrive Systems"
+    },
+    {
+        "device": "CONNECTED TO THE ROAD ELD",
+        "model": "CRS",
+        "software": "2.0 or higher",
+        "identifier": "CRS129",
+        "company": "Connected to the road"
+    },
+    {
+        "device": "SynodicELD",
+        "model": "SYNELD-V010420",
+        "software": "v01.01.0420",
+        "identifier": "SY1076",
+        "company": "Synodic Inc."
+    },
+    {
+        "device": "SAE OnBoard",
+        "model": "SAE OnBoard",
+        "software": "2.0.1.90+",
+        "identifier": "OBA000",
+        "company": "Systems Application Enterprises, Inc."
+    },
+    {
+        "device": "Ready Fleet ELD",
+        "model": "Android and Geometris",
+        "software": "1.0.1923.200113",
+        "identifier": "RFELD1",
+        "company": "Ready Wireless"
+    },
+    {
+        "device": "Ready Fleet ELD",
+        "model": "Android and Calamp 3640",
+        "software": "1.0.1923.200113",
+        "identifier": "RFELD1",
+        "company": "Ready Wireless"
+    },
+    {
+        "device": "MATRACK MA-ELD",
+        "model": "MA3401",
+        "software": "2.19.19 or higher",
+        "identifier": "MRS151",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "Log n Drive (Android & Pacific Track PT30)",
+        "model": "Pacific Track PT30",
+        "software": "3.0.2116.210920",
+        "identifier": "CSE001",
+        "company": "Computer Software Engineers"
+    },
+    {
+        "device": "CyntrX ELD Pro",
+        "model": "Pacific Track and Android",
+        "software": "3.0.2116.210920 & up",
+        "identifier": "FlexCX",
+        "company": "CyntrX"
+    },
+    {
+        "device": "ODTMobile ELD",
+        "model": "DQTELD-I",
+        "software": "1.4 or higher",
+        "identifier": "I00001",
+        "company": "DQ Technologies"
+    },
+    {
+        "device": "ODTMobile ELD",
+        "model": "DQTELD-A",
+        "software": "1.4 or higher",
+        "identifier": "A00001",
+        "company": "DQ Technologies"
+    },
+    {
+        "device": "Contractors E Logs - MC4",
+        "model": "MC-4",
+        "software": "3/2/12",
+        "identifier": "MC4ELD",
+        "company": "EquipmentShare"
+    },
+    {
+        "device": "E-Log Plus iOSI",
+        "model": "ELP-iOSI100",
+        "software": "1.0.1905.190710",
+        "identifier": "ELP010",
+        "company": "E-Log Plus"
+    },
+    {
+        "device": "E-Log Plus iOS",
+        "model": "ELPiOS",
+        "software": "1905.19071",
+        "identifier": "ELP010",
+        "company": "E-Log Plus"
+    },
+    {
+        "device": "XELD",
+        "model": "GSIPTH",
+        "software": "3.0.1 and higher",
+        "identifier": "AT3103",
+        "company": "Darex Company"
+    },
+    {
+        "device": "PS Enterprise ELD",
+        "model": "LMU5531, LMU5541, DTNACTP2, CVD605",
+        "software": "4.12.0+",
+        "identifier": "PS5000",
+        "company": "Platform Science"
+    },
+    {
+        "device": "Penske Driver™ App – HOS Module for iOS",
+        "model": "PTL-Driver-HOS-iOS-2",
+        "software": "9.0 or higher",
+        "identifier": "PTLI02",
+        "company": "Penske Truck Leasing"
+    },
+    {
+        "device": "ELD LINK",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS173",
+        "company": "ELD LINK"
+    },
+    {
+        "device": "BluAgent ELD",
+        "model": "iOS & CALAMP 4230",
+        "software": "1803.0226",
+        "identifier": "BA0001",
+        "company": "BLUAGENT TECHNOLOGIES, INC"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & PT40",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "TheTMS ELD Product Solution",
+        "model": "1.118",
+        "software": "1.111",
+        "identifier": "60215",
+        "company": "THETMS Inc"
+    },
+    {
+        "device": "HERO ELD",
+        "model": "HRS",
+        "software": "2.0 or higher",
+        "identifier": "HRS205",
+        "company": "Aitim INC"
+    },
+    {
+        "device": "EPG Connect",
+        "model": "EPG ELD 1",
+        "software": "1/2/02",
+        "identifier": "EPGELD",
+        "company": "EPG Solutions"
+    },
+    {
+        "device": "DAILY ELD",
+        "model": "DRS",
+        "software": "2.0 or higher",
+        "identifier": "DRS231",
+        "company": "DAILY ELD LLC"
+    },
+    {
+        "device": "EVO ELD 1",
+        "model": "EVO 1",
+        "software": "1.0.0",
+        "identifier": "G711H2",
+        "company": "Evo ELD Inc."
+    },
+    {
+        "device": "SAMURAI ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS209",
+        "company": "Samurai ELD"
+    },
+    {
+        "device": "Chamelogs",
+        "model": "G01",
+        "software": "1.0.95+",
+        "identifier": "CELD01",
+        "company": "Chameleon Innovation Technology"
+    },
+    {
+        "device": "Transmission",
+        "model": "Transmission 1.0",
+        "software": "1",
+        "identifier": "TMSN01",
+        "company": "Transmission, LLC"
+    },
+    {
+        "device": "XPERT LOGS ELD",
+        "model": "XRS",
+        "software": "2",
+        "identifier": "XRS201",
+        "company": "Xpert Logs"
+    },
+    {
+        "device": "ELD Chrome Cab-Mate Flex by Pedigree Technologies",
+        "model": "Cab-Mate Flex",
+        "software": "4.55",
+        "identifier": "CMFL01",
+        "company": "Pedigree Technologies, LLC"
+    },
+    {
+        "device": "Trak iT ELD",
+        "model": "Trak iT ELD",
+        "software": "2.1 or higher",
+        "identifier": "TRAKIT",
+        "company": "Trak iT Wireless Inc"
+    },
+    {
+        "device": "GALLOP ELD",
+        "model": "GRS",
+        "software": "2.0 or higher",
+        "identifier": "GRS237",
+        "company": "GALLOP ELD"
+    },
+    {
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety Pacific Track and iOS\"",
+        "model": "Gorilla Fleet Intelligence ELD PI",
+        "software": "3.3.5 And Above",
+        "identifier": "GS0004",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Digital Fleet",
+        "model": "DF-ELD",
+        "software": "8.5.0 and newer",
+        "identifier": "DIGI05",
+        "company": "Digital Fleet, LLC"
+    },
+    {
+        "device": "BluAgent ELD",
+        "model": "Pacifik Track PT30",
+        "software": "3.0.2118.211028",
+        "identifier": "BA0001",
+        "company": "BLUAGENT TECHNOLOGIES, INC"
+    },
+    {
+        "device": "TRUCKSTAFF ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS227",
+        "company": "Truckstaff ELD"
+    },
+    {
+        "device": "Titan FieldDocs ELD 2.0",
+        "model": "Titan TT1800 iOS",
+        "software": "1.56 and up",
+        "identifier": "TT8I01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "RAINIER ELD",
+        "model": "RRS",
+        "software": "2.0 or Higher",
+        "identifier": "RRS208",
+        "company": "Rainiereld INC"
+    },
+    {
+        "device": "NOVIO ELD",
+        "model": "NRS",
+        "software": "2.0 or higher",
+        "identifier": "NRS222",
+        "company": "Novio ELD"
+    },
+    {
+        "device": "AllyELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS226",
+        "company": "AllyELD"
+    },
+    {
+        "device": "Linxup VT ELD",
+        "model": "iOS & Geometris 87/88",
+        "software": "2120.211209 & up",
+        "identifier": "LXVT01",
+        "company": "Linxup"
+    },
+    {
+        "device": "CloudELD",
+        "model": "Tab7",
+        "software": "9.0.03",
+        "identifier": "ESTAB7",
+        "company": "LiRCTek Inc"
+    },
+    {
+        "device": "LB Technologies FleetTrack HOS",
+        "model": "LBTFTH",
+        "software": "1.0 and Above",
+        "identifier": "FTHOS1",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "J. J. Keller ELD - iOS 2.0",
+        "model": "20I",
+        "software": "Version 3 and higher",
+        "identifier": "20I003",
+        "company": "J. J. Keller & Associates, Inc."
+    },
+    {
+        "device": "PAYD ELD iOS",
+        "model": "ELD2020I",
+        "software": "1.0.1.1 or higher",
+        "identifier": "ELD20I",
+        "company": "Hutch Systems Inc"
+    },
+    {
+        "device": "INTELELOGS",
+        "model": "INTERP-01",
+        "software": "194 or higher",
+        "identifier": "ITELD1",
+        "company": "Intelligent Telematics Inc."
+    },
+    {
+        "device": "LOG N DRIVE",
+        "model": "LRS",
+        "software": "2.0 or higher",
+        "identifier": "LRS277",
+        "company": "Computer Software Engineers"
+    },
+    {
+        "device": "Direct Logs",
+        "model": "DET",
+        "software": "2.21 and up",
+        "identifier": "DET972",
+        "company": "Direct Logs Inc"
+    },
+    {
+        "device": "ACTION ELD",
+        "model": "ACT",
+        "software": "2.17.4 and higher",
+        "identifier": "ACT282",
+        "company": "ACTION ELD"
+    },
+    {
+        "device": "LIVE ELOGS",
+        "model": "LVG",
+        "software": "2.1.21 or above",
+        "identifier": "LVG386",
+        "company": "Live Eldlogs"
+    },
+    {
+        "device": "DELTA SOLUTIONS ELD",
+        "model": "DRS",
+        "software": "2.0 or higher",
+        "identifier": "DRS258",
+        "company": "Delta Solutions Inc."
+    },
+    {
+        "device": "NTA ELD",
+        "model": "NRS",
+        "software": "2.0 or higher",
+        "identifier": "NRS247",
+        "company": "NorthAmerican Transportation Association"
+    },
+    {
+        "device": "SOLID ELD",
+        "model": "SRS",
+        "software": "2.4.24 and above",
+        "identifier": "SRS250",
+        "company": "I ELD LLC"
+    },
+    {
+        "device": "Prospero Mobi",
+        "model": "PM1000",
+        "software": "1.0+",
+        "identifier": "PM1000",
+        "company": "CAMS Software Corporation"
+    },
+    {
+        "device": "ELD RUNNER",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS257",
+        "company": "ELD RUNNER INC"
+    },
+    {
+        "device": "J A Logs Connect",
+        "model": "JRS",
+        "software": "2.0 or higher",
+        "identifier": "JRS265",
+        "company": "J.A Connect Solutions"
+    },
+    {
+        "device": "BRANIX ELD",
+        "model": "BRS",
+        "software": "2.0 or higher",
+        "identifier": "BRS279",
+        "company": "Control y Monitoreo Avanzado S de RL de CV"
+    },
+    {
+        "device": "Phantom ELD / iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "PHNT0M",
+        "company": "Phantom ELD"
+    },
+    {
+        "device": "eBLUE SUN LOGS",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS252",
+        "company": "Blue Sun Solutions LLC"
+    },
+    {
+        "device": "INTERONE LOGS",
+        "model": "IRS",
+        "software": "2.0 or higher",
+        "identifier": "IRS264",
+        "company": "Interonelogs"
+    },
+    {
+        "device": "Omnitracs One with Relay",
+        "model": "Relay-Android-Drive",
+        "software": "6.2 or later",
+        "identifier": "REL002",
+        "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "ELD Mandate Pro",
+        "model": "ELDPRO1",
+        "software": "1.0 and above",
+        "identifier": "ELDPR1",
+        "company": "ELD Mandate"
+    },
+    {
+        "device": "ELD-2000",
+        "model": "ELD-2000",
+        "software": "10.0.4A or higher",
+        "identifier": "GPSI01",
+        "company": "GPS Insight"
+    },
+    {
+        "device": "StreetEagle ELD with SE Compliance Tablet",
+        "model": "ELDCOM",
+        "software": "1.1.0.0 or above",
+        "identifier": "ELDCOM",
+        "company": "InSight Mobile Data, Inc."
+    },
+    {
+        "device": "Load Logistics TMS",
+        "model": "LOGI-APPS",
+        "software": "6.4 or higher",
+        "identifier": "LLSAPP",
+        "company": "Support Resources,Inc."
+    },
+    {
+        "device": "Coretex DRIVE",
+        "model": "ELD01",
+        "software": "1/11/11",
+        "identifier": "TMUDRI",
+        "company": "Coretex"
+    },
+    {
+        "device": "Skeiron ELD",
+        "model": "SKAR03",
+        "software": "1.1",
+        "identifier": "SKAR03",
+        "company": "SKEIRON LOGISTICS SOFTWARE"
+    },
+    {
+        "device": "ELD24K",
+        "model": "HDV100A3",
+        "software": "V 1.0",
+        "identifier": "TMX121",
+        "company": "Crompton Systems Corporation, Inc."
+    },
+    {
+        "device": "BIT OBD ELD for Android",
+        "model": "BIT17002",
+        "software": "5.0.1 or higher",
+        "identifier": "BITELD",
+        "company": "Blue Ink Tech"
+    },
+    {
+        "device": "V-Series with iOn Hours",
+        "model": "- G3000",
+        "software": "1.0.1625.6584",
+        "identifier": "HOS001",
+        "company": "CalAmp Inc"
+    },
+    {
+        "device": "Trimble Oil and Gas ELD - Android",
+        "model": "5530+EnergyTablet",
+        "software": "8.3.13A or Higher",
+        "identifier": "TOGS01",
+        "company": "Trimble Oil and Gas Services"
+    },
+    {
+        "device": "DT4000",
+        "model": "REV 7",
+        "software": "6.08.00 and Higher",
+        "identifier": "DT4R07",
+        "company": "DriverTech LLC"
+    },
+    {
+        "device": "EZ LYNK ELD iOS",
+        "model": "Auto Agent",
+        "software": "1.0 and above",
+        "identifier": "EZLIOS",
+        "company": "EZ LYNK, SEZC"
+    },
+    {
+        "device": "Trackit",
+        "model": "Android",
+        "software": "14.4.9 and newer",
+        "identifier": "T560NZ",
+        "company": "Command Alkon Inc."
+    },
+    {
+        "device": "Guardrail",
+        "model": "CGR001",
+        "software": "v1.4.5.4 or higher",
+        "identifier": "CGR001",
+        "company": "Chorus Logistics"
+    },
+    {
+        "device": "ELD Target",
+        "model": "TEST000010",
+        "software": "1.1",
+        "identifier": "ELD001",
+        "company": "Alexis Meyer"
+    },
+    {
+        "device": "Descartes Telematics - Tablet",
+        "model": "DSG ELD TT 4200",
+        "software": "17.11 or higher",
+        "identifier": "DSGTT1",
+        "company": "The Descartes Systems Group Inc"
+    },
+    {
+        "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
+        "model": "Calamp LMU 3640 Series",
+        "software": "Workplan 4/HOS 3",
+        "identifier": "TC3640",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "DIALOG ELD",
+        "model": "DELD01",
+        "software": "DELDA1.0",
+        "identifier": "DWLA01",
+        "company": "Trucksoft Solutions"
+    },
+    {
+        "device": "TruckRec",
+        "model": "H100",
+        "software": "2",
+        "identifier": "C201EX",
+        "company": "Cesiumai USA Inc."
+    },
+    {
+        "device": "MapAnything ELD Lite",
+        "model": "MapAnything ELD Lite",
+        "software": "1.0.1625.6584",
+        "identifier": "HOS001",
+        "company": "MapAnything ELD Lite"
+    },
+    {
+        "device": "Fleet-Tec ELD",
+        "model": "FT-ANDROID-GEOMETRIS",
+        "software": "1.0.1919 and up",
+        "identifier": "FTHOS1",
+        "company": "Fleet-Tec Solutions Inc"
+    },
+    {
+        "device": "AIKS ELOG BL",
+        "model": "BLE 4.1",
+        "software": "3.9.6 or Higher",
+        "identifier": "WLI001",
+        "company": "AikSphere Technologies Inc"
+    },
+    {
+        "device": "FleetLink ELD",
+        "model": "FleetLink-ELD-GMS",
+        "software": "1.0.1816 and up",
+        "identifier": "FLELD1",
+        "company": "Fleetmind Solutions"
+    },
+    {
+        "device": "Budget Trucker",
+        "model": "G3000",
+        "software": "1.0.1625.6584",
+        "identifier": "HOS001",
+        "company": "Budget Trucker"
+    },
+    {
+        "device": "ELD Plug-In",
+        "model": "MW-ELD-J9C",
+        "software": "3.15 and higher",
+        "identifier": "MW3764",
+        "company": "Mobile Warrior LLC"
+    },
+    {
+        "device": "HawkEye ELD BT3647",
+        "model": "BT3647",
+        "software": "V2.0.0",
+        "identifier": "BT3647",
+        "company": "Hawk Eye Log Global Technology Ltd"
+    },
+    {
+        "device": "TruLog",
+        "model": "TL-001",
+        "software": "4.4 & higher",
+        "identifier": "TL2017",
+        "company": "Compliance Assurance Services"
+    },
+    {
+        "device": "OZOD ELD",
+        "model": "ORS",
+        "software": "2.0 or higher",
+        "identifier": "ORS103",
+        "company": "OzodExpress Inc"
+    },
+    {
+        "device": "TruckX-ELD",
+        "model": "XELD",
+        "software": "1.9+",
+        "identifier": "TRX927",
+        "company": "TruckX Inc"
+    },
+    {
+        "device": "Petro ELD",
+        "model": "SAMTAB",
+        "software": "1.6.74.1A or greater",
+        "identifier": "PELD01",
+        "company": "SkyBitz"
+    },
+    {
+        "device": "HD 100",
+        "model": "HD 100 Android",
+        "software": "6.10.12 and higher",
+        "identifier": "RMDT00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "SAFETY MONITORING ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS117",
+        "company": "Safety Monitoring Service"
+    },
+    {
+        "device": "BEST-ELD",
+        "model": "BRS",
+        "software": "2.0 or higher",
+        "identifier": "BRS131",
+        "company": "BEST-ELD"
+    },
+    {
+        "device": "Shell Telematics ELD",
+        "model": "SH9",
+        "software": "5.7.2002.XXX & up",
+        "identifier": "SHELL9",
+        "company": "Shell Fleet Solutions"
+    },
+    {
+        "device": "Ready Fleet ELD",
+        "model": "iOS and Calamp 3640",
+        "software": "1.0.1923.200113",
+        "identifier": "RFELD1",
+        "company": "Ready Wireless"
+    },
+    {
+        "device": "Compliance Now",
+        "model": "Android & Geometris",
+        "software": "1.0.1905.190710",
+        "identifier": "GEO001",
+        "company": "Geosavi Inc. https://geosavi.com"
+    },
+    {
+        "device": "TRUCKERPACE ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS141",
+        "company": "TruckerPace"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Geometris",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & CalAmp 4230",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Geotab Drive for International Trucks",
+        "model": "N2",
+        "software": "5.7.2002.XXX and up",
+        "identifier": "NVSRN2",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "driveTIME ELD",
+        "model": "iOS & Geometris",
+        "software": "1905.190415.1",
+        "identifier": "DT0001",
+        "company": "Cartasite"
+    },
+    {
+        "device": "3MD ELD",
+        "model": "3MD 100 Pacific Track Android",
+        "software": "3.0.2212.220905",
+        "identifier": "3MD100",
+        "company": "3MD Solutions, LLC"
+    },
+    {
+        "device": "Pro eld",
+        "model": "prs",
+        "software": "2.0 or higher",
+        "identifier": "PRS132",
+        "company": "Proeld"
+    },
+    {
+        "device": "Locus ELD",
+        "model": "ELD004",
+        "software": "2116.21092",
+        "identifier": "ELD001",
+        "company": "Locus GPS"
+    },
+    {
+        "device": "Locus ELD",
+        "model": "ELD001",
+        "software": "3.0.2116.210920",
+        "identifier": "ELD001",
+        "company": "Locus GPS"
+    },
+    {
+        "device": "CloudELD",
+        "model": "BLE1",
+        "software": "1.4",
+        "identifier": "ESBLE1",
+        "company": "LiRCTek Inc"
+    },
+    {
+        "device": "Hours of Service",
+        "model": "iOS & CalAmp 3035",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "OTR ELD",
+        "model": "ORS",
+        "software": "2.0 or higher",
+        "identifier": "OTR182",
+        "company": "OTR ELD"
+    },
+    {
+        "device": "ARROW ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS184",
+        "company": "ARROW ELD"
+    },
+    {
+        "device": "StreetEagle ELD",
+        "model": "ELDSAMTAB",
+        "software": "194 or higher",
+        "identifier": "SEELD3",
+        "company": "InSight Mobile Data, Inc."
+    },
+    {
+        "device": "CyntrX ELD Pro",
+        "model": "Geometris and iOS",
+        "software": "2116.210920 & up",
+        "identifier": "FlexCX",
+        "company": "CyntrX"
+    },
+    {
+        "device": "CyntrX ELD Plus",
+        "model": "iOS and Geometris",
+        "software": "1",
+        "identifier": "CXEPO1",
+        "company": "CyntrX"
+    },
+    {
+        "device": "Geotab Drive for Platform Science",
+        "model": "PSG5000",
+        "software": "5.7.2001 or Above",
+        "identifier": "PG5000",
+        "company": "Platform Science"
+    },
+    {
+        "device": "VLOG",
+        "model": "VRS",
+        "software": "2.1",
+        "identifier": "VRS178",
+        "company": "AAILA ELAHI"
+    },
+    {
+        "device": "Mondo ELD HOS",
+        "model": "MND-APL16",
+        "software": "194 or higher",
+        "identifier": "MNEL21",
+        "company": "MONDOTRACKING SOLUTIONS LLC."
+    },
+    {
+        "device": "TrackOn ELD Powered by Gorilla Safety",
+        "model": "TrackOn HOS ELD",
+        "software": "3.3.4 And Above",
+        "identifier": "TO0001",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "TRUCKSOFT",
+        "model": "GEO-2020",
+        "software": "Version6.4+",
+        "identifier": "EL2020",
+        "company": "I-Soft Global Software Solutions"
+    },
+    {
+        "device": "Log n Drive (Android and Calamp LMU4230)",
+        "model": "Calamp LMU4230",
+        "software": "3.0.2116.210920",
+        "identifier": "CSE001",
+        "company": "Computer Software Engineers"
+    },
+    {
+        "device": "ELD4TRUCKING",
+        "model": "ERS",
+        "software": "2.21.32 and later",
+        "identifier": "ERS174",
+        "company": "ELD4TRUCKING LLC"
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MAMT30",
+        "software": "5.0 and above",
+        "identifier": "MAMTA1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "ELD 2 GO",
+        "model": "ERS",
+        "software": "2.15.0 and higher",
+        "identifier": "ERS200",
+        "company": "ELD 2 GO"
+    },
+    {
+        "device": "SKA NextGen ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS225",
+        "company": "SKA NextGen"
+    },
+    {
+        "device": "Novelity",
+        "model": "Mach 1",
+        "software": "1.0 & higher",
+        "identifier": "ATPE01",
+        "company": "Novelity"
+    },
+    {
+        "device": "FleetHunt ELD",
+        "model": "Android & IOSIX",
+        "software": "Version 1.2.2+",
+        "identifier": "FHELD4",
+        "company": "Fleethunt Technologies"
+    },
+    {
+        "device": "BLUE STAR ELD",
+        "model": "BSE",
+        "software": "196 and higher",
+        "identifier": "BSE193",
+        "company": "BLUE STAR ELD INC"
+    },
+    {
+        "device": "ORBCOMM Driver",
+        "model": "FM5000",
+        "software": "7.18.0 or Greater",
+        "identifier": "ELDF5K",
+        "company": "ORBCOMM"
+    },
+    {
+        "device": "IVIS Next Generation",
+        "model": "IVIS_NG",
+        "software": "2.5.31 or higher",
+        "identifier": "UPS123",
+        "company": "United Parcel Service"
+    },
+    {
+        "device": "DriverBook ELD / Android",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "DRBK07",
+        "company": "DriverBook ELD"
+    },
+    {
+        "device": "SEMIELD",
+        "model": "SRS",
+        "software": "2.0 OR HIGHER",
+        "identifier": "SRS219",
+        "company": "SEMIELD CORPORATION"
+    },
+    {
+        "device": "HUNTER ELD",
+        "model": "HRS",
+        "software": "2.0 or higher",
+        "identifier": "HRS229",
+        "company": "HUNTER ELD LLC"
+    },
+    {
+        "device": "Matrack ELD for iOS",
+        "model": "MA3400,MA4000",
+        "software": "5.0 and above",
+        "identifier": "MAPTI1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "LB Tech HOS (Android Geometris)",
+        "model": "LBT26010",
+        "software": "3.0.2112.210712+",
+        "identifier": "ELDLB1",
+        "company": "LB Technology Inc."
+    },
+    {
+        "device": "ELDS HOS (Android)",
+        "model": "ELDS21009",
+        "software": "3.0.2212.220905 & up",
+        "identifier": "ELDS12",
+        "company": "ELD Solutions"
+    },
+    {
+        "device": "7 DAYS LOGS ELD",
+        "model": "7RS",
+        "software": "2.24.15 and higher",
+        "identifier": "7RS223",
+        "company": "7 DAYS LOGS"
+    },
+    {
+        "device": "TT ELD 1011",
+        "model": "WL",
+        "software": "4/4/00",
+        "identifier": "TTAH50",
+        "company": "TT ELD Inc"
+    },
+    {
+        "device": "TT ELD 30 (ios)",
+        "model": "ARN752",
+        "software": "4/4/00",
+        "identifier": "CZGS10",
+        "company": "TT ELD Inc"
+    },
+    {
+        "device": "SPOT ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS236",
+        "company": "NYC HYPER CLASS INC"
+    },
+    {
+        "device": "MasterELD",
+        "model": "MELD03",
+        "software": "MELDA3.0",
+        "identifier": "MIOA01",
+        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
+    },
+    {
+        "device": "TORCH ELD",
+        "model": "TRS",
+        "software": "2.0 OR HIGHER",
+        "identifier": "TRS228",
+        "company": "Torch Eld"
+    },
+    {
+        "device": "OxemonEld",
+        "model": "PV0804",
+        "software": "1.0.0",
+        "identifier": "OXGPS1",
+        "company": "Oxemon"
+    },
+    {
+        "device": "SIMPLETRUCKELD",
+        "model": "STEELDV15.1.0.19",
+        "software": "1.0.19",
+        "identifier": "STEELD",
+        "company": "SimpleTruckELD INC"
+    },
+    {
+        "device": "Orion eLog",
+        "model": "354",
+        "software": "2.0.49",
+        "identifier": "674663",
+        "company": "Praxis Technologies, Inc."
+    },
+    {
+        "device": "OSON ELOGS",
+        "model": "ORS",
+        "software": "2.0 or higher",
+        "identifier": "ORS275",
+        "company": "Oson Elogs"
+    },
+    {
+        "device": "eLogsPlus ELD",
+        "model": "ELGPLS 2201",
+        "software": "215 or higher",
+        "identifier": "ELGP22",
+        "company": "E-Log Plus"
+    },
+    {
+        "device": "ZELD",
+        "model": "GSIPTH",
+        "software": "3.0.1 and higher",
+        "identifier": "MZAM87",
+        "company": "ZELD"
+    },
+    {
+        "device": "ELD STAR",
+        "model": "1020",
+        "software": "1",
+        "identifier": "ES2022",
+        "company": "ELD STAR LLC"
+    },
+    {
+        "device": "Swift ELD (Android)",
+        "model": "PT30",
+        "software": "1.0.01 or higher",
+        "identifier": "SWE001",
+        "company": "Swift ELD"
+    },
+    {
+        "device": "Sprint ELD iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "SPR1NT",
+        "company": "Sprint ELD"
+    },
+    {
+        "device": "Trucker Path ELD Pro (iOS)",
+        "model": "Trucker Path ELD Pro (iOS)",
+        "software": "1.1.8 and Above",
+        "identifier": "TPPro1",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "ALS-ELD",
+        "model": "ALS-E100",
+        "software": "3.6.40 or higher",
+        "identifier": "ALS100",
+        "company": "Arethos"
+    },
+    {
+        "device": "24HOS ELD / iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "024HOS",
+        "company": "24HOS ELD"
+    },
+    {
+        "device": "ALS-ELD",
+        "model": "ALS-E100",
+        "software": "3.12.10 or higher",
+        "identifier": "ALS100",
+        "company": "Arethos"
+    },
+    {
+        "device": "Trip ELD (iOS)",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "TRIP77",
+        "company": "Trip ELD"
+    },
+    {
+        "device": "Wheels eLog iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "WH2ELS",
+        "company": "Wheels eLog"
+    },
+    {
+        "device": "GLOBAL ELD",
+        "model": "GLBV1.0.0.1",
+        "software": "1.0.1",
+        "identifier": "GLB159",
+        "company": "GLOBAL TRUCK ELD"
+    },
+    {
+        "device": "Ez ELD",
+        "model": "BB0101",
+        "software": "215 or higher",
+        "identifier": "EZFLT1",
+        "company": "Ez Fleet Telematics Inc."
+    },
+    {
+        "device": "Canada & US by Gorilla Safety",
+        "model": "CUSGEOAN",
+        "software": "1.0 and Above",
+        "identifier": "CAUS01",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Canada & US by Gorilla Safety",
+        "model": "CUSGEOAP",
+        "software": "1.0 and Above",
+        "identifier": "CAUS02",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "NRG LOG",
+        "model": "NRS",
+        "software": "2.0 or higher",
+        "identifier": "NRS269",
+        "company": "UUT LLC"
+    },
+    {
+        "device": "HorizonPath ELD",
+        "model": "HPathELD1000",
+        "software": "1.0.0 or higher",
+        "identifier": "HPGPS1",
+        "company": "HorizonPath ELD"
+    },
+    {
+        "device": "Amber ELD (Android)",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "AMBER1",
+        "company": "Amber ELD"
+    },
+    {
+        "device": "HCSS ELD",
+        "model": "HCSSGE1",
+        "software": "1.0 and Above",
+        "identifier": "ELDH01",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Zonar Logs",
+        "model": "ANDROID",
+        "software": "ELD2.11",
+        "identifier": "ZONAR1",
+        "company": "Zonar"
+    },
+    {
+        "device": "MTL ELD",
+        "model": "MRS",
+        "software": "2.2.24.or higher",
+        "identifier": "MRS272",
+        "company": "POWER ELD LLC"
+    },
+    {
+        "device": "LEGACY ELD",
+        "model": "LRS",
+        "software": "2.1",
+        "identifier": "LRS259",
+        "company": "Legacy Safety Solutions Inc"
+    },
+    {
+        "device": "ELD MANDATE PLUS",
+        "model": "EMPPT30",
+        "software": "2.3.3 and up",
+        "identifier": "ELDP30",
+        "company": "ELD Mandate"
+    },
+    {
+        "device": "ELD Mandate Prime",
+        "model": "EMPRM1",
+        "software": "Version 7",
+        "identifier": "EMPR63",
+        "company": "ELD Mandate"
+    },
+    {
+        "device": "MasTrack ELD",
+        "model": "APO-101",
+        "software": "7",
+        "identifier": "MASAP1",
+        "company": "Mastrack"
+    },
+    {
+        "device": "RIDEHUB ELD",
+        "model": "RDHB",
+        "software": "2.12.55 or higher",
+        "identifier": "RDHB84",
+        "company": "RIDEHUBELD"
+    },
+    {
+        "device": "ISE Fleet Services powered by eFleetSuite",
+        "model": "ANDA317",
+        "software": "1.2.70.0A or higher",
+        "identifier": "ISE001",
+        "company": "ISE Fleet Services, LLC"
+    },
+    {
+        "device": "FleetSharp- ELD",
+        "model": "AGFS01",
+        "software": "1.4.72 or higher",
+        "identifier": "AGFS01",
+        "company": "FleetSharp"
+    },
+    {
+        "device": "HOS247 ELD",
+        "model": "FLT",
+        "software": "2.0 or higher",
+        "identifier": "HOS247",
+        "company": "HOS247 LLC"
+    },
+    {
+        "device": "CellutrakELD",
+        "model": "GEO81",
+        "software": "1.0.1625.6584",
+        "identifier": "ELDTRK",
+        "company": "Cellutrak Inc."
+    },
+    {
+        "device": "Saucon Prox ELD",
+        "model": "PROXST16",
+        "software": "20170221 or higher",
+        "identifier": "PROXT1",
+        "company": "Saucon Technologies, Inc"
+    },
+    {
+        "device": "Automile",
+        "model": "AUTOMILE BOX 2",
+        "software": "2.6.7 or higher",
+        "identifier": "AUTELD",
+        "company": "AUTOMILE"
+    },
+    {
+        "device": "Fleet Systems USA",
+        "model": "FSPND670ELD",
+        "software": "2.11",
+        "identifier": "FSPND6",
+        "company": "Fleet Systems USA"
+    },
+    {
+        "device": "Smarttruckpro",
+        "model": "HOS900",
+        "software": "1615.5268",
+        "identifier": "HOS900",
+        "company": "Smarttruckpro"
+    },
+    {
+        "device": "Drive ELD",
+        "model": "driveeld_2017_1.0",
+        "software": "4.5+",
+        "identifier": "100DE1",
+        "company": "Drive ELD LLC"
+    },
+    {
+        "device": "FleetRover",
+        "model": "FleetRover ELD",
+        "software": "1.40.5",
+        "identifier": "FR1405",
+        "company": "FleetRover"
+    },
+    {
+        "device": "!A1 ELD by HOS247",
+        "model": "A1",
+        "software": "2.2 and up",
+        "identifier": "1A1ELD",
+        "company": "HOS247 LLC"
+    },
+    {
+        "device": "Gm Transport eLog",
+        "model": "BlueLink",
+        "software": "3.0.6",
+        "identifier": "WLI001",
+        "company": "Grupo GM Transport SA de CV"
+    },
+    {
+        "device": "Matrack ELD",
+        "model": "MA3000",
+        "software": "4.0 and up",
+        "identifier": "LOG247",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "Digital Fleet",
+        "model": "DF-ELD",
+        "software": "5.3.0 and newer",
+        "identifier": "DIGI05",
+        "company": "Digital Fleet, LLC"
+    },
+    {
+        "device": "iFleetELD",
+        "model": "tisels1",
+        "software": "1.2.2.6 and higher",
+        "identifier": "TISELD",
+        "company": "Transportation Information Systems"
+    },
+    {
+        "device": "Titan GPS Logbook",
+        "model": "TT6000 ELD Android",
+        "software": "1.0.1905.190710 +",
+        "identifier": "THOS01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "LogIT ELD",
+        "model": "LogIT ELD0712",
+        "software": "v237 or newer",
+        "identifier": "LGTELD",
+        "company": "LogIT ELD"
+    },
+    {
+        "device": "MilesAhead DRIVE",
+        "model": "GO6, GO7, GO8, GO9 (or newer) or PEP-GO7 or ATT-GO7 or FL7 (by Spireon) or RI7 (by BSM)",
+        "software": "1.19.01",
+        "identifier": "MAELD1",
+        "company": "Blue Dot Solutions"
+    },
+    {
+        "device": "ZUS Smart Vehicle Health Monitor Pro Edition",
+        "model": "ZUHMBK3GV",
+        "software": "S3GHTL10190308",
+        "identifier": "OBDPRO",
+        "company": "Nonda"
+    },
+    {
+        "device": "Trimble PULSE Driver Logs",
+        "model": "TPDL001 (TVG670 and Android tablet)",
+        "software": "7.1 or higher",
+        "identifier": "PDL001",
+        "company": "Trimble"
+    },
+    {
+        "device": "AZ ELD",
+        "model": "ARS",
+        "software": "2.5.4 or higher",
+        "identifier": "ARS105",
+        "company": "AZELDS Inc."
+    },
+    {
+        "device": "YLOGAPP",
+        "model": "IPAD",
+        "software": "3.9",
+        "identifier": "YLA1.9",
+        "company": "Yusata Infotech Pvt Ltd"
+    },
+    {
+        "device": "Trimble PULSE Driver Logs",
+        "model": "TPDL003 (TVG850 and Android tablet)",
+        "software": "7.1 or higher",
+        "identifier": "PDL003",
+        "company": "Trimble"
+    },
+    {
+        "device": "HD 100",
+        "model": "HD 100 iOS",
+        "software": "6.10.12 and higher",
+        "identifier": "RMDT00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "TND 765",
+        "model": "TND 765",
+        "software": "6.10.12 and higher",
+        "identifier": "RMDT00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "AssetWorks Ranger ELD",
+        "model": "Ranger4",
+        "software": "3.24 or higher",
+        "identifier": "ELD002",
+        "company": "AssetWorks"
+    },
+    {
+        "device": "PrePass ELD",
+        "model": "PPELD100",
+        "software": "2",
+        "identifier": "PPELD1",
+        "company": "HELP Inc. Provider of PrePass"
+    },
+    {
+        "device": "Geotab Drive Cloud ELD",
+        "model": "GO6, GO7, GO8, GO9, GO9B, PEP-GO7. PEP-GO8, ATT-GO7, ATT-GO8 or FL7 (Spireon), FL8 (Spireon) or RI7/8 (by BSM) or T7, T9",
+        "software": "5.7.1804 or above",
+        "identifier": "GEOTAB",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "drivereldbook eld",
+        "model": "DRS",
+        "software": "2.0 or higher",
+        "identifier": "DRS137",
+        "company": "drivereldbook"
+    },
+    {
+        "device": "FMCSA TEST",
+        "model": "TEST 1",
+        "software": "1.1",
+        "identifier": "TES123",
+        "company": "TEST INC."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & GenEx GNX-6",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "TrackM2M-VisTracks",
+        "model": "ELD-VTGM00-A",
+        "software": "3.0.2116.210920 & up",
+        "identifier": "TM2M01",
+        "company": "TrackM2M.com Inc."
+    },
+    {
+        "device": "ELD-Express",
+        "model": "ELDXP245",
+        "software": "1 & up",
+        "identifier": "EXP245",
+        "company": "ELD Express, LLC"
+    },
+    {
+        "device": "COMFORT ELD",
+        "model": "CRS",
+        "software": "2.0 or higher",
+        "identifier": "CRS144",
+        "company": "Comfort ELD"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Pacific Track",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "3MD ELD",
+        "model": "3MD 100 Geometris iOS",
+        "software": "2120.211122.1",
+        "identifier": "3MD100",
+        "company": "3MD Solutions, LLC"
+    },
+    {
+        "device": "3MD ELD",
+        "model": "3MD 100 Geometris Android",
+        "software": "3.0.2212.220905",
+        "identifier": "3MD100",
+        "company": "3MD Solutions, LLC"
+    },
+    {
+        "device": "ELOG365",
+        "model": "ERS",
+        "software": "2.22 or higher",
+        "identifier": "ERS127",
+        "company": "EZ ELD Solutions Inc"
+    },
+    {
+        "device": "ELD LOG",
+        "model": "ERS",
+        "software": "higher than 2.4.7",
+        "identifier": "ERS145",
+        "company": "Renat Samudinov"
+    },
+    {
+        "device": "EXPRESS LINE ELD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS147",
+        "company": "Express Line ELD"
+    },
+    {
+        "device": "M2M ELD",
+        "model": "M2M Geometris (iOS)",
+        "software": "2022.201222 +",
+        "identifier": "M2M018",
+        "company": "AAMP Global (Formerly M2M In Motion)"
+    },
+    {
+        "device": "M2M ELD",
+        "model": "M2M Calamp (iOS)",
+        "software": "2022.201222 +",
+        "identifier": "M2M018",
+        "company": "AAMP Global (Formerly M2M In Motion)"
+    },
+    {
+        "device": "Hours of Service",
+        "model": "Android & CalAmp 3035",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & Pacific Track",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "EYELOG",
+        "model": "ELD-SM-JA",
+        "software": "1/2/07",
+        "identifier": "ELOG01",
+        "company": "EYERIDE"
+    },
+    {
+        "device": "Pioneer ELD",
+        "model": "PRO_ELD",
+        "software": "194 or higher",
+        "identifier": "PROWL1",
+        "company": "Prometheus"
+    },
+    {
+        "device": "Locus ELD",
+        "model": "ELD003",
+        "software": "2116.21092",
+        "identifier": "ELD001",
+        "company": "Locus GPS"
+    },
+    {
+        "device": "driveTIME",
+        "model": "Android & Geometris",
+        "software": "1.0.1905.190430",
+        "identifier": "DT0001",
+        "company": "Cartasite"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & ATrack AK11",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & ATrack AK11",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "LiveViewGPS Hours Of Service",
+        "model": "ELD-OBD-LE",
+        "software": "3.0.2116.210920 min",
+        "identifier": "LVEND1",
+        "company": "LiveViewGPS"
+    },
+    {
+        "device": "ELD Fleet",
+        "model": "R3002",
+        "software": "1.0.2011.200727",
+        "identifier": "RAV002",
+        "company": "Raven"
+    },
+    {
+        "device": "ClutchELD",
+        "model": "iOS and ioSIX",
+        "software": "1.0 and Above",
+        "identifier": "CELD04",
+        "company": "ClutchELD"
+    },
+    {
+        "device": "FleetLocate Compliance powered by Gorilla Safety",
+        "model": "FleetLocate FL1",
+        "software": "FleetLocate Shift",
+        "identifier": "FL0001",
+        "company": "Spireon Inc."
+    },
+    {
+        "device": "ISAAC InControl",
+        "model": "WRU1K2-HNx, WRU1K8-HNx, WRU201",
+        "software": "4.50 and higher",
+        "identifier": "ISACTL",
+        "company": "ISAAC Instruments"
+    },
+    {
+        "device": "Sharp ELD (for Android)",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "001SHA",
+        "company": "Sharp ELD"
+    },
+    {
+        "device": "FleetWaze eLog",
+        "model": "SRS01",
+        "software": "1.0.1625.6584",
+        "identifier": "SRS413",
+        "company": "SRS Technologies, LLC"
+    },
+    {
+        "device": "ANYTIME DRIVE",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS157",
+        "company": "Viktor Bright"
+    },
+    {
+        "device": "Contractors E Logs - MC4+",
+        "model": "MC-4+",
+        "software": "3/2/12",
+        "identifier": "MC4PEL",
+        "company": "EquipmentShare"
+    },
+    {
+        "device": "ELD TAB",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS161",
+        "company": "ELD Tab"
+    },
+    {
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety\"",
+        "model": "Gorilla Fleet Intelligence ELD",
+        "software": "3.3.5 And Above",
+        "identifier": "GS0002",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Isotrak Mobile Compliance Pack",
+        "model": "CalAmp LMU-4233",
+        "software": "1.0.1905.190710",
+        "identifier": "IMCP01",
+        "company": "Isotrak Inc."
+    },
+    {
+        "device": "E-Log Plus",
+        "model": "ELP0100",
+        "software": "1.0.1905.190710",
+        "identifier": "ELP010",
+        "company": "E-Log Plus"
+    },
+    {
+        "device": "CyntrX ELD Plus",
+        "model": "Android and Geometris",
+        "software": "1",
+        "identifier": "CXEPO2",
+        "company": "CyntrX"
+    },
+    {
+        "device": "ELD Chrome Cab-Mate Elite by Pedigree Technologies",
+        "model": "Cab-Mate Elite",
+        "software": "5.1",
+        "identifier": "CMET01",
+        "company": "Pedigree Technologies, LLC"
+    },
+    {
+        "device": "3MD ELD",
+        "model": "Android & Pacific Track PT40",
+        "software": "3.0.2212.220905",
+        "identifier": "3MD100",
+        "company": "3MD Solutions, LLC"
+    },
+    {
+        "device": "Forward Thinking Systems - Field Warrior ELD (BYOD)",
+        "model": "FW-BYOD",
+        "software": "4/1/89",
+        "identifier": "FTSFW1",
+        "company": "Forward Thinking Systems LLC"
+    },
+    {
+        "device": "ELEVEN ELD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS183",
+        "company": "ELEVEN ELD"
+    },
+    {
+        "device": "DriverLog",
+        "model": "Piccolo Plus",
+        "software": "2.1.0 and up",
+        "identifier": "WLI001",
+        "company": "Wireless Links"
+    },
+    {
+        "device": "ELDKIT",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS163",
+        "company": "Eldkit"
+    },
+    {
+        "device": "SMART CHOICE LOGS ELD",
+        "model": "SRS",
+        "software": "2.9.12 or above",
+        "identifier": "SRS180",
+        "company": "Smart Choice Elogs"
+    },
+    {
+        "device": "TEAM ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS190",
+        "company": "TEAM ELD"
+    },
+    {
+        "device": "VRD LOGS",
+        "model": "VRS",
+        "software": "2.0 or higher",
+        "identifier": "VRS202",
+        "company": "VRD Logs"
+    },
+    {
+        "device": "ROAD READY ELD",
+        "model": "RRS",
+        "software": "2.0 or higher",
+        "identifier": "RRS207",
+        "company": "Road Ready ELD"
+    },
+    {
+        "device": "Smart Truck ELD",
+        "model": "TNG JS V06",
+        "software": "1.1 and up",
+        "identifier": "ELDTN1",
+        "company": "Smart Truck ELD"
+    },
+    {
+        "device": "ELITE ELD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS245",
+        "company": "ALPHA ELD INC"
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MA3400,MA4000",
+        "software": "5.0 and above",
+        "identifier": "MAPTA1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "RUN ELD",
+        "model": "RRS",
+        "software": "2.0 or higher",
+        "identifier": "RRS193",
+        "company": "Run ELD, Inc."
+    },
+    {
+        "device": "Rand McNally Vehicle Link",
+        "model": "VL21",
+        "software": "Android: 1.0.2",
+        "identifier": "RMDC00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "Inthinc Connect",
+        "model": "Pro400",
+        "software": "3.5",
+        "identifier": "PRO400",
+        "company": "ORBCOMM"
+    },
+    {
+        "device": "Matrack ELD for iOS",
+        "model": "MA3400, MA4000",
+        "software": "5.0 and above",
+        "identifier": "MAPTI1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "Lytx ELD",
+        "model": "SF300, SF400",
+        "software": "5.17.230 or later",
+        "identifier": "LYTX01",
+        "company": "Lytx, Inc."
+    },
+    {
+        "device": "E7 LOGS",
+        "model": "E7LGV2",
+        "software": "1.90 and higher",
+        "identifier": "E7LG21",
+        "company": "E7 LOGS CORP"
+    },
+    {
+        "device": "Nexus ELD",
+        "model": "NRS",
+        "software": "higher than 2.23.2.",
+        "identifier": "NRS232",
+        "company": "Nexus ELD, Inc"
+    },
+    {
+        "device": "Webfleet Geometris and iOS",
+        "model": "WF-IOSG",
+        "software": "1.0 and Above",
+        "identifier": "WFIOS1",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Webfleet - ioSIX and iOS",
+        "model": "WF-IOSI",
+        "software": "1.0 and Above",
+        "identifier": "WFIOS2",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "DFL ELD",
+        "model": "DRS",
+        "software": "2.0 or higher",
+        "identifier": "DRS240",
+        "company": "DFL ELD"
+    },
+    {
+        "device": "DriverConnect",
+        "model": "DC 200 Retail",
+        "software": "Android6.4;iOS2.3",
+        "identifier": "RMDC00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "ALL TRUCKERS ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS194",
+        "company": "All Truckers ELD"
+    },
+    {
+        "device": "MD ELD",
+        "model": "MRS",
+        "software": "2.0 or higher",
+        "identifier": "MRS189",
+        "company": "MD ELD LLC"
+    },
+    {
+        "device": "TRUST ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS213",
+        "company": "Trust ELD"
+    },
+    {
+        "device": "TT ELD iosix (ios)",
+        "model": "AA530G",
+        "software": "4.2.1",
+        "identifier": "HGB42X",
+        "company": "TT ELD Inc"
+    },
+    {
+        "device": "TT ELD 40",
+        "model": "PT40",
+        "software": "4/4/00",
+        "identifier": "TTAH49",
+        "company": "TT ELD Inc"
+    },
+    {
+        "device": "Matrack ELD for iOS",
+        "model": "MAMT30",
+        "software": "5.0 and above",
+        "identifier": "MAMTI1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "!A1 - Ez-smart ELD by Ezlogz",
+        "model": "Ezlogz DApp 1",
+        "software": "IOS2.4.17/GP2.1.57up",
+        "identifier": "EZSGEO",
+        "company": "Ezlogz Inc"
+    },
+    {
+        "device": "Trendy ELD (Android)",
+        "model": "PT30",
+        "software": "1.0.01 or higher",
+        "identifier": "TREND1",
+        "company": "Trendy ELD"
+    },
+    {
+        "device": "Amber ELD (iOS)",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "AMBER1",
+        "company": "Amber ELD"
+    },
+    {
+        "device": "PHOENIX ELD",
+        "model": "PRS",
+        "software": "2.13.15 and later",
+        "identifier": "PRS973",
+        "company": "Phoenix ELD"
+    },
+    {
+        "device": "Conti-GO Plug & Play ELD",
+        "model": "CONTIGO1",
+        "software": "4/3/03",
+        "identifier": "CTAI01",
+        "company": "Conti-GO Transportation Technologies, LLC"
+    },
+    {
+        "device": "ELDX",
+        "model": "XPTAN",
+        "software": "1.0 and Above",
+        "identifier": "ELDX05",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "SimpleX",
+        "model": "SXIOSAN",
+        "software": "1.0 and Above",
+        "identifier": "SIM001",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Alfa ELD (Android)",
+        "model": "PT30",
+        "software": "1.0.01 or higher",
+        "identifier": "ALFA01",
+        "company": "Alfa ELD"
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MAMT30",
+        "software": "5.0 and above",
+        "identifier": "MAMTA1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "Hutch ELD",
+        "model": "Mercury",
+        "software": "2.4.9.12 - higher",
+        "identifier": "HELD16",
+        "company": "Hutch Systems Inc"
+    },
+    {
+        "device": "GPSTab ELD Edition",
+        "model": "GELD01",
+        "software": "4/1/05",
+        "identifier": "GBFA01",
+        "company": "Utech Inc."
+    },
+    {
+        "device": "\"\"\"All in one\"\" Ez-Simple ELD by Ezlogz\"",
+        "model": "EZ101",
+        "software": "iOS.2.4.4/GP2.1.45UP",
+        "identifier": "EZLELD",
+        "company": "Ezlogz Inc"
+    },
+    {
+        "device": "PSS ELD",
+        "model": "PRS",
+        "software": "2.2",
+        "identifier": "PRS271",
+        "company": "Pioneer Safety Solutions LLC"
+    },
+    {
+        "device": "STEER RIGHT ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS273",
+        "company": "STEER RIGHT LLC"
+    },
+    {
+        "device": "Omnitracs Intelligent Vehicle Gateway",
+        "model": "IVG",
+        "software": "DA1237R or later",
+        "identifier": "IVG001",
+        "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "J. J. Keller ELD - Android BYOD 2.0 and Compliance Tablet",
+        "model": "20A",
+        "software": "Version 3 and higher",
+        "identifier": "20A003",
+        "company": "J. J. Keller & Associates, Inc."
+    },
+    {
+        "device": "GTS ELD",
+        "model": "GTSELD_TK_100",
+        "software": "V1.5.8",
+        "identifier": "GETK10",
+        "company": "Global Telecommunication Services, Inc."
+    },
+    {
+        "device": "LoadTrek",
+        "model": "LX2000",
+        "software": "3.19",
+        "identifier": "LX2000",
+        "company": "LoadTrek"
+    },
+    {
+        "device": "RCO ELD",
+        "model": "RCO001",
+        "software": "1/3/21",
+        "identifier": "AGF001",
+        "company": "RCO Services"
+    },
+    {
+        "device": "\"\"\"All-In-One\"\" ELD by HOS247\"",
+        "model": "FLT4",
+        "software": "4.1 and up",
+        "identifier": "247HOS",
+        "company": "HOS247 LLC"
+    },
+    {
+        "device": "Coretex DRIVE",
+        "model": "ELD02",
+        "software": "1/11/11",
+        "identifier": "GENDRI",
+        "company": "Coretex"
+    },
+    {
+        "device": "Blue Link GPS",
+        "model": "BlueLink",
+        "software": "3.0.6",
+        "identifier": "WLI001",
+        "company": "Eddy Stevens"
+    },
+    {
+        "device": "Zeek GPS",
+        "model": "Blue Link",
+        "software": "3.0.6",
+        "identifier": "WLI001",
+        "company": "ARGUS TECNOLOGIAS S.A. DE C.V."
+    },
+    {
+        "device": "MobileTRAQ ELD Link1",
+        "model": "MA-MBLT-ELD1",
+        "software": "3/1/05",
+        "identifier": "WLI001",
+        "company": "Mobile Awareness, LLC"
+    },
+    {
+        "device": "AT&T Fleet Complete ELD",
+        "model": "MGS700 (GNX6) / MGS800",
+        "software": "33.1 or higher",
+        "identifier": "FCBR20",
+        "company": "BigRoad Inc"
+    },
+    {
+        "device": "V-Track",
+        "model": "V-HOS1",
+        "software": "1/6/00",
+        "identifier": "VSAND1",
+        "company": "Velocitor Solutions"
+    },
+    {
+        "device": "PeopleNet Connected Gateway - Trimble Driver ELD",
+        "model": "PCG001",
+        "software": "10.1 or higher",
+        "identifier": "PCG001",
+        "company": "PeopleNet"
+    },
+    {
+        "device": "Synovia Solutions ELD",
+        "model": "SMA317",
+        "software": "1.5.51.1A or higher",
+        "identifier": "SYN001",
+        "company": "Synovia Solutions, LLC"
+    },
+    {
+        "device": "Trux ELD",
+        "model": "TRUX100",
+        "software": "v 5.5.0.0 and Higher",
+        "identifier": "FF55EE",
+        "company": "GeoSpace Labs"
+    },
+    {
+        "device": "AssetWorks ELD",
+        "model": "MDT7",
+        "software": "v2.2 or higher",
+        "identifier": "ELD001",
+        "company": "AssetWorks"
+    },
+    {
+        "device": "Azuga E-Logs BYOD",
+        "model": "AZ-BYOD-ELD",
+        "software": "2.1.25 or higher",
+        "identifier": "AZELD2",
+        "company": "Azuga"
+    },
+    {
+        "device": "Rollingtrans ELD - ACCURATE SE",
+        "model": "RT-ONE-BTSE",
+        "software": "1/3/03",
+        "identifier": "RTOA47",
+        "company": "Rollingtrans"
+    },
+    {
+        "device": "liveDispatch",
+        "model": "LDNX7",
+        "software": "2",
+        "identifier": "mJs552",
+        "company": "Compatible Technology Systems, Inc."
+    },
+    {
+        "device": "FACTOR Electronic Logging",
+        "model": "ELDTrak",
+        "software": "8",
+        "identifier": "ELDv80",
+        "company": "Factor"
+    },
+    {
+        "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
+        "model": "Calamp LMU 3030",
+        "software": "Workplan 4/HOS 3",
+        "identifier": "TC3030",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "AIKS ELOG PICPLUS",
+        "model": "PCP4G",
+        "software": "3.9.6 or Higher",
+        "identifier": "WLI001",
+        "company": "AikSphere Technologies Inc"
+    },
+    {
+        "device": "TruckingOffice ELD",
+        "model": "1",
+        "software": "3/3/00",
+        "identifier": "TO_ELD",
+        "company": "TruckingOffice"
+    },
+    {
+        "device": "CarJack ELD",
+        "model": "Blue Link",
+        "software": "3.0.6",
+        "identifier": "WLI001",
+        "company": "CarJack GPS"
+    },
+    {
+        "device": "Trimble Oil & Gas - Android ELD v2.0",
+        "model": "5531+TabActive2",
+        "software": "8.3.13A or higher",
+        "identifier": "TOGS02",
+        "company": "Trimble Oil and Gas Services"
+    },
+    {
+        "device": "iPIMM™ TMS",
+        "model": "AX9-BT-iOS",
+        "software": "3.7.3 or higher",
+        "identifier": "AX9IOS",
+        "company": "Procuro, Inc"
+    },
+    {
+        "device": "\"\"\"Journey 8\"\" and \"\"Journey 8R\"\"\"",
+        "model": "iGBL J8R",
+        "software": "7.1.75.115",
+        "identifier": "IGBW61",
+        "company": "iGlobal LLC"
+    },
+    {
+        "device": "PMS Electronic Logging Device",
+        "model": "PMSE01",
+        "software": "1",
+        "identifier": "PMSELD",
+        "company": "Propane Management Systems"
+    },
+    {
+        "device": "TND 760",
+        "model": "TND 760",
+        "software": "6.10.12 and higher",
+        "identifier": "RMDT00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "GURFATEH ELD",
+        "model": "GRS",
+        "software": "2.0 or higher",
+        "identifier": "GRS120",
+        "company": "Gurfateh"
+    },
+    {
+        "device": "GREENWAY ELD",
+        "model": "GRS",
+        "software": "2.0 or higher",
+        "identifier": "GRS108",
+        "company": "GREENWAY ELD SOLUTIONS INC"
+    },
+    {
+        "device": "Trucker ELD (Mobile Express)",
+        "model": "Cello-CANiQ NA K-Line",
+        "software": "3.0.0 or higher",
+        "identifier": "PCSELD",
+        "company": "PCS Software"
+    },
+    {
+        "device": "AM LOGS ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS106",
+        "company": "Am logs INC"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & IOSiX",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "SWGO ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS116",
+        "company": "SWGO ELD"
+    },
+    {
+        "device": "Compliance Now",
+        "model": "Android & Pacific Tracks",
+        "software": "1.0.1905.190710",
+        "identifier": "GEO001",
+        "company": "Geosavi Inc. https://geosavi.com"
+    },
+    {
+        "device": "Transflo ELD",
+        "model": "T7, T9, GO8, GO9",
+        "software": "5.7.1711 or above",
+        "identifier": "TFMELD",
+        "company": "Transflo-Pegasus Transtech"
+    },
+    {
+        "device": "Compliance Now",
+        "model": "iOS & Pacific Tracks",
+        "software": "1905.19071",
+        "identifier": "GEO001",
+        "company": "Geosavi Inc. https://geosavi.com"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Xirgo",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & Astus",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "FleetHunt ELD",
+        "model": "Android & Xirgo 6300 Series",
+        "software": "Version 2+",
+        "identifier": "FHELD1",
+        "company": "Fleethunt Technologies"
+    },
+    {
+        "device": "FRIENDLY ELD",
+        "model": "FRS",
+        "software": "2.5.1 and above",
+        "identifier": "FRS134",
+        "company": "Friendly Eld"
+    },
+    {
+        "device": "TFM ELD",
+        "model": "TFM100",
+        "software": "Android4.3 iOS3.3&up",
+        "identifier": "TFM001",
+        "company": "TFM GROUP INC."
+    },
+    {
+        "device": "M2M ELD",
+        "model": "M2M Calamp (Android)",
+        "software": "1.0.2022.201130 +",
+        "identifier": "M2M018",
+        "company": "AAMP Global (Formerly M2M In Motion)"
+    },
+    {
+        "device": "Locus ELD",
+        "model": "ELD002",
+        "software": "3.0.2116.210920",
+        "identifier": "ELD001",
+        "company": "Locus GPS"
+    },
+    {
+        "device": "MATRACK MA-ELD",
+        "model": "MA3400",
+        "software": "2.19.19 or higher",
+        "identifier": "MRS150",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Suntech ST20",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Forward Thinking Systems - Field Warrior ELD (Garmin)",
+        "model": "FW-Garmin",
+        "software": "4/1/89",
+        "identifier": "FTSFW2",
+        "company": "Forward Thinking Systems LLC"
+    },
+    {
+        "device": "ELD PRO CORP",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS154",
+        "company": "ELD Pro corp"
+    },
+    {
+        "device": "ClutchELD",
+        "model": "Android and Pacific Track",
+        "software": "1.0 and Above",
+        "identifier": "CELD01",
+        "company": "ClutchELD"
+    },
+    {
+        "device": "Samsara ELD for International Trucks",
+        "model": "N2",
+        "software": "46.13.6460+",
+        "identifier": "SAMNI1",
+        "company": "Samsara"
+    },
+    {
+        "device": "BluAgent ELD",
+        "model": "Android & IOSix",
+        "software": "1.0.1805.14123",
+        "identifier": "BA0001",
+        "company": "BLUAGENT TECHNOLOGIES, INC"
+    },
+    {
+        "device": "BluAgent ELD",
+        "model": "iOS & IOSix",
+        "software": "1.0.1805.14123",
+        "identifier": "BA0001",
+        "company": "BLUAGENT TECHNOLOGIES, INC"
+    },
+    {
+        "device": "Isotrak Mobile Compliance Pack",
+        "model": "CalAmp LMU-3640",
+        "software": "1.0.2020.201026",
+        "identifier": "IMCP01",
+        "company": "Isotrak Inc."
+    },
+    {
+        "device": "ClutchELD",
+        "model": "iOS and Pacific Track",
+        "software": "1.0 and Above",
+        "identifier": "CELD02",
+        "company": "ClutchELD"
+    },
+    {
+        "device": "EXPRESS WAY ELD",
+        "model": "ERS",
+        "software": "2.13.15 and later",
+        "identifier": "ERS172",
+        "company": "Eco Trans Inc"
+    },
+    {
+        "device": "E-Log Plus Pacific Track iOS",
+        "model": "ELP-PC110",
+        "software": "1905.19071",
+        "identifier": "ELP010",
+        "company": "E-Log Plus"
+    },
+    {
+        "device": "ELD Chrome Cab-Mate Connect by Pedigree Technologies",
+        "model": "Cab-Mate Connect",
+        "software": "4.55",
+        "identifier": "CMCN01",
+        "company": "Pedigree Technologies, LLC"
+    },
+    {
+        "device": "Atlas-Pro",
+        "model": "XEL-002",
+        "software": "2020.201026 or above",
+        "identifier": "XEL002",
+        "company": "HOS-Reporter"
+    },
+    {
+        "device": "Trimble Gateway - Trimble Driver ELD",
+        "model": "Trimble Gateway",
+        "software": "10.1 or higher",
+        "identifier": "TGT001",
+        "company": "PeopleNet"
+    },
+    {
+        "device": "PeopleNet Mobile Gateway - Trimble Instinct Driver ELD",
+        "model": "PMG Trimble Instinct",
+        "software": "10.1 or higher",
+        "identifier": "PMG003",
+        "company": "PeopleNet"
+    },
+    {
+        "device": "Keep Tracking",
+        "model": "KTEELDV1.1",
+        "software": "1.1",
+        "identifier": "KTE001",
+        "company": "Keep Tracking"
+    },
+    {
+        "device": "M2MIM ELD",
+        "model": "M2M018 Calamp",
+        "software": "1.0.2022.201130 +",
+        "identifier": "M2M018",
+        "company": "AAMP Global (Formerly M2M In Motion)"
+    },
+    {
+        "device": "ILOG",
+        "model": "IRS",
+        "software": "2.0 or higher",
+        "identifier": "IRS177",
+        "company": "ilogeld"
+    },
+    {
+        "device": "Astus ELD",
+        "model": "Astus & iOS",
+        "software": "1.0.2106.210505.1",
+        "identifier": "AELD01",
+        "company": "Astus/ETL Electronique"
+    },
+    {
+        "device": "EPG Connect iOS Phone",
+        "model": "EPG ELD 2",
+        "software": "1.4",
+        "identifier": "EPGIPH",
+        "company": "EPG Solutions"
+    },
+    {
+        "device": "DYNAMIC ELD",
+        "model": "DRS",
+        "software": "2.0 or higher",
+        "identifier": "DRS242",
+        "company": "Midwestern Logistics LLC"
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MA3400, MA4000",
+        "software": "5.0 and above",
+        "identifier": "MAPTA1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "Driver•i",
+        "model": "D210",
+        "software": "2.5.18 and up",
+        "identifier": "DRI210",
+        "company": "Netradyne"
+    },
+    {
+        "device": "Blue Tree ELD",
+        "model": "BT500 / BT504",
+        "software": "4.0 and higher",
+        "identifier": "ELD001",
+        "company": "ORBCOMM"
+    },
+    {
+        "device": "ERETH ELD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS238",
+        "company": "ERETH ELD INC"
+    },
+    {
+        "device": "DriverConnect",
+        "model": "VG 21",
+        "software": "Android6.6.1",
+        "identifier": "RMDC00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "Trak iT ELD",
+        "model": "Android & GNX-6",
+        "software": "3.0.2114.210816 & up",
+        "identifier": "ELD001",
+        "company": "Trak iT Wireless Inc"
+    },
+    {
+        "device": "CTWinmobileELD",
+        "model": "CTMC9500ELD",
+        "software": "3.46 or higher",
+        "identifier": "CT9500",
+        "company": "Data System Services LLC"
+    },
+    {
+        "device": "ALZ TRACKING ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS197",
+        "company": "ALZ TRACKING ELD"
+    },
+    {
+        "device": "BEST SOURCE ELD",
+        "model": "BRS",
+        "software": "2.0 or higher",
+        "identifier": "BRS218",
+        "company": "Best Source ELD"
+    },
+    {
+        "device": "DT1000",
+        "model": "REV 8",
+        "software": "6.08+",
+        "identifier": "DT1R08",
+        "company": "DriverTech LLC"
+    },
+    {
+        "device": "ELD4Trucks",
+        "model": "ELD4T200",
+        "software": "1.0.0 or higher",
+        "identifier": "E4TGPS",
+        "company": "ELD4TRUCKS INC."
+    },
+    {
+        "device": "Smart eLog for iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "SL0101",
+        "company": "Smart eLog LLC"
+    },
+    {
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety ioSIX and iOS\"",
+        "model": "Gorilla Fleet Intelligence ELD II",
+        "software": "3.4.2 And Above",
+        "identifier": "GS0005",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "AAT HOS",
+        "model": "1810",
+        "software": "v1.0.0",
+        "identifier": "AXHOS2",
+        "company": "Air Automotive Tracking Inc."
+    },
+    {
+        "device": "Smart eLog for Android",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "SL0101",
+        "company": "Smart eLog LLC"
+    },
+    {
+        "device": "Pro-TracKing ELD (iOS version)",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "1PRTKG",
+        "company": "Pro-TracKing"
+    },
+    {
+        "device": "MasterELD",
+        "model": "MELD02",
+        "software": "MELDA2.0",
+        "identifier": "MWLA01",
+        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
+    },
+    {
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety Pacific Track and Android\"",
+        "model": "Gorilla Fleet Intelligence ELD PA",
+        "software": "3.3.5 And Above",
+        "identifier": "GS0003",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MAMT30",
+        "software": "5.0 and above",
+        "identifier": "MAMTA1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "AFS WORLD ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS251",
+        "company": "AFS WORLD ELD"
+    },
+    {
+        "device": "DY ELD",
+        "model": "DRS",
+        "software": "2.0 or higher",
+        "identifier": "DRS267",
+        "company": "YUSUF WORLD GLOBAL LLC"
+    },
+    {
+        "device": "Alfa ELD (iOS)",
+        "model": "PT30",
+        "software": "1.01.01 or higher",
+        "identifier": "ALFA01",
+        "company": "Alfa ELD"
+    },
+    {
+        "device": "TeraHubELD",
+        "model": "THELD1000",
+        "software": "1.0.0",
+        "identifier": "THGPS1",
+        "company": "Terahub"
+    },
+    {
+        "device": "Rigbot",
+        "model": "RBV002",
+        "software": "11.0.40 and Newer",
+        "identifier": "RBELD2",
+        "company": "Rigbot LLC"
+    },
+    {
+        "device": "Trip ELD (Android)",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "TRIP77",
+        "company": "Trip ELD"
+    },
+    {
+        "device": "TruckSpy ELD (Android)",
+        "model": "Q87",
+        "software": "v2.60+",
+        "identifier": "TSELD1",
+        "company": "TruckSpy, Inc."
+    },
+    {
+        "device": "MOONLIGHT ELD",
+        "model": "MRS",
+        "software": "2.0 or higher",
+        "identifier": "MRS255",
+        "company": "UZB2USA INC"
+    },
+    {
+        "device": "Omnitracs One with Active Mobile Gateway with Communications",
+        "model": "AMG-C-Android-Drive",
+        "software": "6.2 or Later",
+        "identifier": "AMG002",
+        "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "Vista ELD (iOS)",
+        "model": "PT30",
+        "software": "1.01.01 or higher",
+        "identifier": "VELD11",
+        "company": "Vista ELD"
+    },
+    {
+        "device": "FleetHunt ELD",
+        "model": "iOS & IOSIX",
+        "software": "Version 1+",
+        "identifier": "FHELD5",
+        "company": "Fleethunt Technologies"
+    },
+    {
+        "device": "Smart ELD",
+        "model": "1.0.3",
+        "software": "1.1 & up",
+        "identifier": "610AC2",
+        "company": "Smart ELD"
+    },
+    {
+        "device": "ELD Rider",
+        "model": "VGG",
+        "software": "3.2.1 and higher",
+        "identifier": "RIDER8",
+        "company": "LionEight"
+    },
+    {
+        "device": "Ashavi Global",
+        "model": "ASHT01",
+        "software": "1",
+        "identifier": "ASHAV1",
+        "company": "Ashavi Global"
+    },
+    {
+        "device": "Wheels eLog Android",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "WH2ELS",
+        "company": "Wheels eLog"
+    },
+    {
+        "device": "BIT ELD Dashcam",
+        "model": "BIT18000",
+        "software": "5.8.0 or higher",
+        "identifier": "B1TCAM",
+        "company": "Blue Ink Tech"
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MA3400, MA4000",
+        "software": "5.0 and above",
+        "identifier": "MAPTA1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "GPSTab ELD Edition",
+        "model": "GELDW01",
+        "software": "4/1/05",
+        "identifier": "GWA001",
+        "company": "Utech Inc."
+    },
+    {
+        "device": "Driver•i",
+        "model": "D215",
+        "software": "4.5.19.rc.5 and up",
+        "identifier": "DRI215",
+        "company": "Netradyne"
+    },
+    {
+        "device": "FACTOR ELD",
+        "model": "FRS",
+        "software": "2.6.13 or higher",
+        "identifier": "FRS278",
+        "company": "FACTOR ELD"
+    },
+    {
+        "device": "Companion",
+        "model": "TD4230",
+        "software": "1.1",
+        "identifier": "TD0001",
+        "company": "Trip Data & Safety Management Inc."
+    },
+    {
+        "device": "FleetUp",
+        "model": "3GL",
+        "software": "1.0 or higher",
+        "identifier": "TLT3GL",
+        "company": "FleetUp"
+    },
+    {
+        "device": ".NoFeeELD",
+        "model": "LMU4230L",
+        "software": "2.2",
+        "identifier": "VB0G13",
+        "company": "iConnect Inc."
+    },
+    {
+        "device": "Motive ELD",
+        "model": "LBB-1 and higher",
+        "software": "41.0 and higher",
+        "identifier": "MOTIVE",
+        "company": "Motive Technologies, Inc."
+    },
+    {
+        "device": "\"\"\" DataTrack247 ELD\"\"\"",
+        "model": "DT247-BT-ELD",
+        "software": "3.0.6",
+        "identifier": "WLI001",
+        "company": "Tamir Alima"
+    },
+    {
+        "device": "MiX Hours of Service",
+        "model": "MiXELD",
+        "software": "20.9+",
+        "identifier": "MiXELD",
+        "company": "MiX Telematics"
+    },
+    {
+        "device": "Samsara ELD",
+        "model": "VG",
+        "software": "46.13.6460+",
+        "identifier": "SAMELD",
+        "company": "Samsara"
+    },
+    {
+        "device": "Swiss Log",
+        "model": "VNA-ELD2",
+        "software": "1.1",
+        "identifier": "IMVNA2",
+        "company": "IIMSWISS CORP."
+    },
+    {
+        "device": "DT4000",
+        "model": "REV 5",
+        "software": "6.08.00 and Higher",
+        "identifier": "DT4R05",
+        "company": "DriverTech LLC"
+    },
+    {
+        "device": "GPSi Fleet",
+        "model": "- G3000",
+        "software": "1.0.1625.6584",
+        "identifier": "TTELD1",
+        "company": "GPSi"
+    },
+    {
+        "device": "FC BigRoad ELD",
+        "model": "MGS700 (GNX6) / MGS800",
+        "software": "33.1 or higher",
+        "identifier": "FCBR20",
+        "company": "BigRoad Inc"
+    },
+    {
+        "device": "GPS FAST ELD",
+        "model": "GFE CANADA 2020",
+        "software": "2/6/07",
+        "identifier": "WLI001",
+        "company": "GPS FAST LIMITED."
+    },
+    {
+        "device": "ZoomLog",
+        "model": "ZML001",
+        "software": "1.0 or higher",
+        "identifier": "ZML001",
+        "company": "Beacon Innovations Group Inc."
+    },
+    {
+        "device": ".ELD-Discounts",
+        "model": "LMU4230K",
+        "software": "2.2",
+        "identifier": "VB0G12",
+        "company": "iConnect Inc."
+    },
+    {
+        "device": "LoadTrek ELD",
+        "model": "ELD",
+        "software": "LX0.4.1",
+        "identifier": "LT ELD",
+        "company": "LoadTrek"
+    },
+    {
+        "device": "IntegrityELD",
+        "model": "ELD-S",
+        "software": "1.0.1905.190710",
+        "identifier": "INT001",
+        "company": "Integrity Fleet Solutions"
+    },
+    {
+        "device": "BreakerLog ELD",
+        "model": "BLELD-5 and higher",
+        "software": "5.0 and higher",
+        "identifier": "ELDMCB",
+        "company": "Carrus Mobile, Inc."
+    },
+    {
+        "device": "Dumax ELD",
+        "model": "PT30",
+        "software": "1",
+        "identifier": "PT30-0",
+        "company": "DUMAX GPS"
+    },
+    {
+        "device": "GPSi Fleet",
+        "model": "RDT5",
+        "software": "1",
+        "identifier": "CFMRDT",
+        "company": "GPSi"
+    },
+    {
+        "device": "Descartes Telematics - Smart Device",
+        "model": "DSG ELD SD 4200",
+        "software": "18.01 or higher",
+        "identifier": "DSGSD1",
+        "company": "The Descartes Systems Group Inc"
+    },
+    {
+        "device": "SHIELD",
+        "model": "SHI787",
+        "software": "V 1.0 or higher",
+        "identifier": "SHI787",
+        "company": "United Bus Technology"
+    },
+    {
+        "device": "GATE FM100",
+        "model": "4/1/72",
+        "software": "1.5",
+        "identifier": "gfm100",
+        "company": "DND Productions Inc."
+    },
+    {
+        "device": "Super Dispatch ELD",
+        "model": "PT30_953C",
+        "software": "1.0.0",
+        "identifier": "2Xy8aB",
+        "company": "Super Dispatch"
+    },
+    {
+        "device": "5001 MW ELD",
+        "model": "MW-ELD-JOJ",
+        "software": "3.15 or higher",
+        "identifier": "MW5001",
+        "company": "Mobile Warrior LLC"
+    },
+    {
+        "device": "ELD Plug-In",
+        "model": "MW-ELD-J9D",
+        "software": "3.15 and higher",
+        "identifier": "MW3792",
+        "company": "Mobile Warrior LLC"
+    },
+    {
+        "device": "Roadside ELD",
+        "model": "RSELD",
+        "software": "3.0.6",
+        "identifier": "WLI001",
+        "company": "Roadside Systems"
+    },
+    {
+        "device": "Trimble Duo - Trimble Driver ELD",
+        "model": "Trimble Duo",
+        "software": "10.1 or higher",
+        "identifier": "DUO001",
+        "company": "PeopleNet"
+    },
+    {
+        "device": "P3TS",
+        "model": "P3TS",
+        "software": "Android 212, iOS 198",
+        "identifier": "TTSP3T",
+        "company": "Top Tracking System LLC"
+    },
+    {
+        "device": "Saucon Prox-M ELD",
+        "model": "PROXMAPP17",
+        "software": "App b.52 or higher",
+        "identifier": "PROXM1",
+        "company": "Saucon Technologies, Inc"
+    },
+    {
+        "device": "My20",
+        "model": "MY20ELD01 or higher",
+        "software": "18.3.1 or higher",
+        "identifier": "KNXL01",
+        "company": "Konexial"
+    },
+    {
+        "device": "PingHQ Logs",
+        "model": "PHQ-C-3641",
+        "software": "2.07",
+        "identifier": "VDK641",
+        "company": "PingHQ Holding, LLC"
+    },
+    {
+        "device": "EDO ELD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS109",
+        "company": "EDO ELD"
+    },
+    {
+        "device": "Geotab Drive for Volvo Trucks",
+        "model": "TGW 2.1",
+        "software": "5.7.1903 and higher",
+        "identifier": "VOLVO1",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "Guardian ELD",
+        "model": "20TELD-08",
+        "software": "V28",
+        "identifier": "DTIE01",
+        "company": "Diesel Tech Industries"
+    },
+    {
+        "device": "Verizon Connect Reveal ELD Logbook Android - Formerly Fleetmatics Logbook",
+        "model": "GNX-5P and below",
+        "software": "ELD 3.40.0 or higher",
+        "identifier": "RAG530",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & Atlas",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "GFI eLogs",
+        "model": "Android and iOS Xirgo XT6300",
+        "software": "2106.210505 or more",
+        "identifier": "GFI001",
+        "company": "GFI Systems Inc."
+    },
+    {
+        "device": "Hours of Service",
+        "model": "Android & Calamp 3640",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & ATrack AX11",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "ELDROAD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS142",
+        "company": "ELDROAD"
+    },
+    {
+        "device": "Eleos Drive ELD",
+        "model": "GO6, GO7, GO8, GO9, ATT-GO7, ATT-GO8, & ATT-GO9.",
+        "software": "5.7.1804 or above",
+        "identifier": "ELEOS1",
+        "company": "Eleos Technologies, LLC"
+    },
+    {
+        "device": "USA PLUS ELD",
+        "model": "URS",
+        "software": "2.0 or higher",
+        "identifier": "URS133",
+        "company": "USA PLUS ELD"
+    },
+    {
+        "device": "\"\"\"Compliance Now\"\" Hours of Service\"",
+        "model": "Android & CalAmp 4230",
+        "software": "1.0.1905.190710",
+        "identifier": "GEO001",
+        "company": "Geosavi Inc. https://geosavi.com"
+    },
+    {
+        "device": "ELD Trucks 360",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS162",
+        "company": "ELD Truck 360"
+    },
+    {
+        "device": "Sharp ELD (for iOS)",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "001SHA",
+        "company": "Sharp ELD"
+    },
+    {
+        "device": "Log n Drive (Android & Atracks AX11)",
+        "model": "AX11-ATRACKS",
+        "software": "3.0.2116.210920",
+        "identifier": "CSE001",
+        "company": "Computer Software Engineers"
+    },
+    {
+        "device": "Constitution Risk Management",
+        "model": "RT0001",
+        "software": "1.0 and Above",
+        "identifier": "RTELD1",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "ELD SOLUTION",
+        "model": "ERS",
+        "software": "2.18.2 and above",
+        "identifier": "ERS155",
+        "company": "ELD Solution LLC"
+    },
+    {
+        "device": "CDSUS ELD",
+        "model": "CRS",
+        "software": "2.0 or higher",
+        "identifier": "CRS167",
+        "company": "CDSUS"
+    },
+    {
+        "device": "BluAgent ELD",
+        "model": "Android & CALAMP 4230",
+        "software": "1",
+        "identifier": "BA0001",
+        "company": "BLUAGENT TECHNOLOGIES, INC"
+    },
+    {
+        "device": "E-Log Plus Pacific Track",
+        "model": "ELP-PC100",
+        "software": "1.0.1905.190710",
+        "identifier": "ELP010",
+        "company": "E-Log Plus"
+    },
+    {
+        "device": "RULER ELD",
+        "model": "RRS",
+        "software": "2.0 or higher",
+        "identifier": "RRS165",
+        "company": "RULER INC"
+    },
+    {
+        "device": "Isotrak Mobile Compliance Pack",
+        "model": "G3000",
+        "software": "1.0.1718-1719",
+        "identifier": "IMCP01",
+        "company": "Isotrak Inc."
+    },
+    {
+        "device": "Gorilla Safety Compact ELD",
+        "model": "GS0002",
+        "software": "3.3.5 And Above",
+        "identifier": "GS0002",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "SIMPLE WAY ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS171",
+        "company": "Simple Way ELD"
+    },
+    {
+        "device": "TOUCHSMART ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS182",
+        "company": "TouchSmart ELD"
+    },
+    {
+        "device": "Stoneridge EZ-ELD",
+        "model": "ELD1.0",
+        "software": "App 1.0 or higher",
+        "identifier": "EZELD1",
+        "company": "Stoneridge Inc."
+    },
+    {
+        "device": "BIT OBD-II ELD Gen2",
+        "model": "BIT17004",
+        "software": "5.0.1 or higher",
+        "identifier": "BITOG2",
+        "company": "Blue Ink Tech"
+    },
+    {
+        "device": "AccuGPS",
+        "model": "OBD-Smart-19",
+        "software": "1.1",
+        "identifier": "ACCU19",
+        "company": "AccuGPS"
+    },
+    {
+        "device": "R&T LOG ELD",
+        "model": "RRS",
+        "software": "2.0 or higher",
+        "identifier": "RRS176",
+        "company": "R&T LOG ELD"
+    },
+    {
+        "device": "LionEight ELD",
+        "model": "Android",
+        "software": "2.2.0 and higher",
+        "identifier": "L86ELD",
+        "company": "LionEight"
+    },
+    {
+        "device": "DT4000",
+        "model": "REV 8",
+        "software": "6.08+",
+        "identifier": "DT4R08",
+        "company": "DriverTech LLC"
+    },
+    {
+        "device": "Astus ELD",
+        "model": "Astus & Android",
+        "software": "1.0.2106.210505.1",
+        "identifier": "AELD01",
+        "company": "Astus/ETL Electronique"
+    },
+    {
+        "device": "LB Tech HOS (iOS Geometris)",
+        "model": "LBT26011",
+        "software": "2112.210712+",
+        "identifier": "ELDLB1",
+        "company": "LB Technology Inc."
+    },
+    {
+        "device": "EPG Connect iOS Tablet",
+        "model": "EPG ELD 3",
+        "software": "1.3",
+        "identifier": "EPGIOS",
+        "company": "EPG Solutions"
+    },
+    {
+        "device": "Isotrak ELD",
+        "model": "ISO100",
+        "software": "196",
+        "identifier": "IELD01",
+        "company": "Isotrak Inc."
+    },
+    {
+        "device": "REAL ELD",
+        "model": "WILIR01",
+        "software": "ANDR1.0",
+        "identifier": "WLRA01",
+        "company": "Real ELD"
+    },
+    {
+        "device": "CMG ELD",
+        "model": "CRS",
+        "software": "2.0 or higher",
+        "identifier": "CRS204",
+        "company": "Cargo Management Group Inc"
+    },
+    {
+        "device": "Ez-Hard-Wire ELD by Ezlogz",
+        "model": "ST20",
+        "software": "273",
+        "identifier": "EZSUN1",
+        "company": "Ezlogz Inc"
+    },
+    {
+        "device": "SF ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS239",
+        "company": "SFeld"
+    },
+    {
+        "device": "DriverConnect",
+        "model": "DC 200S",
+        "software": "Android6.3",
+        "identifier": "RMDC00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "ELDS HOS (iOS)",
+        "model": "ELDS21009",
+        "software": "2212.220905 and up",
+        "identifier": "ELDS12",
+        "company": "ELD Solutions"
+    },
+    {
+        "device": "AMERICAN SOIL ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS191",
+        "company": "AMERICAN SOIL ELD"
+    },
+    {
+        "device": "LOOKTRUCK ELD",
+        "model": "LRS",
+        "software": "2.0 or higher",
+        "identifier": "LRS203",
+        "company": "LUCK TRUCK LLC"
+    },
+    {
+        "device": "FleetHunt ELD",
+        "model": "Android & ATrack AK11 Series",
+        "software": "Version 1.2.2+",
+        "identifier": "FHELD3",
+        "company": "Fleethunt Technologies"
+    },
+    {
+        "device": "Pro-TracKing ELD (Android version)",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "1PRTKG",
+        "company": "Pro-TracKing"
+    },
+    {
+        "device": "Trak iT ELD",
+        "model": "iOS & GNX-6",
+        "software": "2114.210829 & up",
+        "identifier": "ELD001",
+        "company": "Trak iT Wireless Inc"
+    },
+    {
+        "device": "UnderControl ELD",
+        "model": "URS",
+        "software": "2.0 or Higher",
+        "identifier": "URS214",
+        "company": "Under Control Technology LLC"
+    },
+    {
+        "device": "Webfleet Geometris and Android",
+        "model": "WF-ANDG",
+        "software": "1.0 and Above",
+        "identifier": "WFAND1",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Matrack ELD for Android",
+        "model": "MAAX11",
+        "software": "5.0 and above",
+        "identifier": "MAAXA1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "UNIQUE ELD",
+        "model": "URS",
+        "software": "2.0 or higher",
+        "identifier": "URS212",
+        "company": "Unique"
+    },
+    {
+        "device": "Linxup VT ELD",
+        "model": "Android & Geometris 87/88",
+        "software": "3.0.2120.211209 & up",
+        "identifier": "LXVT01",
+        "company": "Linxup"
+    },
+    {
+        "device": "S13 ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS256",
+        "company": "S13 INC"
+    },
+    {
+        "device": "ELDX",
+        "model": "XGEOAN",
+        "software": "1.0 and Above",
+        "identifier": "ELDX03",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "J. J. Keller ELD – Android BYOD 2.5 and Compliance Tablet",
+        "model": "25A",
+        "software": "Version 3 and higher",
+        "identifier": "25A003",
+        "company": "J. J. Keller & Associates, Inc."
+    },
+    {
+        "device": "TEDDY ELD",
+        "model": "TDD",
+        "software": "2.14.01 or higher",
+        "identifier": "TDD582",
+        "company": "TEDDY ELD INC"
+    },
+    {
+        "device": "Rigbot",
+        "model": "RBV001",
+        "software": "11.0.40 and Newer",
+        "identifier": "RBELD1",
+        "company": "Rigbot LLC"
+    },
+    {
+        "device": "GTS ELD",
+        "model": "213W01",
+        "software": "V2.0.1",
+        "identifier": "GTS18A",
+        "company": "Global Telecommunication Services, Inc."
+    },
+    {
+        "device": "PROTRUCK LOGBOOK",
+        "model": "PRS",
+        "software": "2.0 or higher",
+        "identifier": "PRS248",
+        "company": "NORTHTECH SOLUTION LLC"
+    },
+    {
+        "device": "Lucid ELD",
+        "model": "LUCID",
+        "software": "1.0.0 or higher",
+        "identifier": "LUCID1",
+        "company": "Lucid ELD"
+    },
+    {
+        "device": "Swift ELD (iOS)",
+        "model": "PT30",
+        "software": "1.01.01 or higher",
+        "identifier": "SWE001",
+        "company": "Swift ELD"
+    },
+    {
+        "device": "RAND ELD",
+        "model": "VL21",
+        "software": "215 or higher",
+        "identifier": "RMVL21",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "FLUID HOS",
+        "model": "FM6000ELD.1",
+        "software": "1.1.79",
+        "identifier": "FM6000",
+        "company": "Fluid Mobility Inc."
+    },
+    {
+        "device": "Apollo ELD (at.eDash)",
+        "model": "Apollo",
+        "software": "215 or higher",
+        "identifier": "APOLLO",
+        "company": "Apollo ELD"
+    },
+    {
+        "device": "Elog Driver",
+        "model": "FM3001",
+        "software": "2.51",
+        "identifier": "SS17EL",
+        "company": "My Safe Fleet"
+    },
+    {
+        "device": "Club ELD / Android",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "01CLUB",
+        "company": "Club ELD"
+    },
+    {
+        "device": "Total Trucking Solution ELD",
+        "model": "STT",
+        "software": "2/11/54",
+        "identifier": "STT928",
+        "company": "Total Trucking Solution"
+    },
+    {
+        "device": "Qv21 ELD Compliance Module",
+        "model": "Qv21ELD",
+        "software": "V2.26",
+        "identifier": "TN0262",
+        "company": "Qv21 Technologies, Inc."
+    },
+    {
+        "device": "ETS ELD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS268",
+        "company": "ETS ELD"
+    },
+    {
+        "device": "Trucking Kit ELD",
+        "model": "TKNKT 2201",
+        "software": "210 or Higher",
+        "identifier": "TRK221",
+        "company": "Trucking Kit"
+    },
+    {
+        "device": "RT ELD Plus - ACCURATE ELITE",
+        "model": "RT-ELITE-BLE3647",
+        "software": "1.4",
+        "identifier": "RTEL47",
+        "company": "Rollingtrans"
+    },
+    {
+        "device": "Phantom ELD / Android",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "PHNT0M",
+        "company": "Phantom ELD"
+    },
+    {
+        "device": "J. J. Keller ELD - iOS 2.5",
+        "model": "25I",
+        "software": "Version 3 and higher",
+        "identifier": "25I003",
+        "company": "J. J. Keller & Associates, Inc."
+    },
+    {
+        "device": "StreetEagle ELD with SE Utility Tablet",
+        "model": "ELDSEU",
+        "software": "1.1.0.0 or above",
+        "identifier": "ELDSEU",
+        "company": "InSight Mobile Data, Inc."
+    },
+    {
+        "device": "UNIS Drive",
+        "model": "UNIS01",
+        "software": "1.0 or higher",
+        "identifier": "UNIS01",
+        "company": "UNIS Technology LLC"
+    },
+    {
+        "device": "Magellan HOS Compliance",
+        "model": "MGNHOS001",
+        "software": "1.0.1706 or higher",
+        "identifier": "MGNHOS",
+        "company": "Magellan GPS"
+    },
+    {
+        "device": "HOS247 ELD",
+        "model": "FLT2",
+        "software": "2.2 and up",
+        "identifier": "ELD247",
+        "company": "HOS247 LLC"
+    },
+    {
+        "device": "MegaELD",
+        "model": "BlueLink",
+        "software": "3.0.7",
+        "identifier": "WLI001",
+        "company": "United Bus Technology"
+    },
+    {
+        "device": ".eTracELD",
+        "model": "LMU4230H",
+        "software": "2.2",
+        "identifier": "VB0G10",
+        "company": "iConnect Inc."
+    },
+    {
+        "device": "SP Logbook",
+        "model": "VTSSPLB",
+        "software": "1.0 or higher",
+        "identifier": "SPLB01",
+        "company": "IntelliShift"
+    },
+    {
+        "device": "ST20 ELD",
+        "model": "Suntech ELD",
+        "software": "1.8 or higher",
+        "identifier": "SNST20",
+        "company": "Suntech International USA Inc"
+    },
+    {
+        "device": ".ELDSmartPhone",
+        "model": "LMU4230J",
+        "software": "2.2",
+        "identifier": "VB0G11",
+        "company": "iConnect Inc."
+    },
+    {
+        "device": "Rollingtrans ELD - ACCURATE ONE",
+        "model": "RT-ONE-BT01",
+        "software": "1.3.3.338",
+        "identifier": "RTOA47",
+        "company": "Rollingtrans"
+    },
+    {
+        "device": "PRO-ELOG",
+        "model": "PRO4230_HSPA",
+        "software": "6.0 or higher",
+        "identifier": "414230",
+        "company": "Propel GPS, LLC"
+    },
+    {
+        "device": "IntegrityELD",
+        "model": "ELD-GPS-LMU",
+        "software": "1.0.1905.190710",
+        "identifier": "INT001",
+        "company": "Integrity Fleet Solutions"
+    },
+    {
+        "device": "V-Track",
+        "model": "V-HOS2",
+        "software": "1/6/02",
+        "identifier": "VSIOS1",
+        "company": "Velocitor Solutions"
+    },
+    {
+        "device": "OBDTrac",
+        "model": "OBDTrac",
+        "software": "6.0 and up",
+        "identifier": "MA3000",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "AKAL ELD",
+        "model": "AKAL100",
+        "software": "v 5.5.0.0 And Higher",
+        "identifier": "FF66EE",
+        "company": "GeoSpace Labs"
+    },
+    {
+        "device": "FleetRover WiFi",
+        "model": "FleetRover ELD-WiFi",
+        "software": "1.44.7.2",
+        "identifier": "FR1427",
+        "company": "FleetRover"
+    },
+    {
+        "device": "Dumax ELD",
+        "model": "FMB001",
+        "software": "1",
+        "identifier": "FMB01A",
+        "company": "DUMAX GPS"
+    },
+    {
+        "device": "EZ LYNK ELD Android",
+        "model": "Auto Agent",
+        "software": "1.0 and above",
+        "identifier": "EZLAND",
+        "company": "EZ LYNK, SEZC"
+    },
+    {
+        "device": "Titan GPS Logbook",
+        "model": "TT1800 ELD iOS",
+        "software": "1905.190710 and up",
+        "identifier": "THOS01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "Navistream",
+        "model": "NAVT",
+        "software": "2.2 or newer",
+        "identifier": "NAVT22",
+        "company": "Streamline Transportation Technologies Inc"
+    },
+    {
+        "device": "PowerFleet LV-9000",
+        "model": "LV-9000 (formerly CM9000)",
+        "software": "4.33.3 and above",
+        "identifier": "CW9000",
+        "company": "PowerFleet (Formerly CarrierWeb LLC)"
+    },
+    {
+        "device": "Konnect Shift ELD",
+        "model": "GS01",
+        "software": "1.0.0 or above",
+        "identifier": "KS1ELD",
+        "company": "KonnectShift Technologies Inc."
+    },
+    {
+        "device": "KTELD Pro",
+        "model": "GNX-6",
+        "software": "1.1",
+        "identifier": "kteldp",
+        "company": "10207110 CANADA INC."
+    },
+    {
+        "device": "Super ELD",
+        "model": "ELD 2.0",
+        "software": "2.19.4 or higher",
+        "identifier": "2Xy8aB",
+        "company": "Super Dispatch"
+    },
+    {
+        "device": "ELD Plug-In",
+        "model": "MW-ELD-O8D",
+        "software": "3.15 and higher",
+        "identifier": "MW3846",
+        "company": "Mobile Warrior LLC"
+    },
+    {
+        "device": "ELD Plug-In",
+        "model": "MW-ELD-J6D",
+        "software": "3.15 and higher",
+        "identifier": "MW3914",
+        "company": "Mobile Warrior LLC"
+    },
+    {
+        "device": "1ELD",
+        "model": "CTG4",
+        "software": "2.H",
+        "identifier": "CTG4BT",
+        "company": "Cartrack USA"
+    },
+    {
+        "device": "LOGS-SKI ELD",
+        "model": "LRS",
+        "software": "2.4.6 and up",
+        "identifier": "LRS104",
+        "company": "SKI WAY LLC"
+    },
+    {
+        "device": "JOST ELD",
+        "model": "JRS",
+        "software": "2.0 or higher",
+        "identifier": "JRS107",
+        "company": "JOST"
+    },
+    {
+        "device": "Limo & Bus Compliance",
+        "model": "T371",
+        "software": "1.1",
+        "identifier": "E00001",
+        "company": "Limo & Bus Compliance LLC"
+    },
+    {
+        "device": "YOULOG ELD",
+        "model": "YRS",
+        "software": "2.9.1 or higher",
+        "identifier": "YRS112",
+        "company": "Youlog"
+    },
+    {
+        "device": "SURE TIME LOGS ELD",
+        "model": "SRS",
+        "software": "higher than 2.4.3",
+        "identifier": "SRS122",
+        "company": "Sure Time Logs"
+    },
+    {
+        "device": "Trimble PULSE Driver Logs",
+        "model": "TPDL002 (TVG675 and Android tablet)",
+        "software": "7.1 or higher",
+        "identifier": "PDL002",
+        "company": "Trimble"
+    },
+    {
+        "device": "Hours of Service",
+        "model": "iOS and CalAmp 3640",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "ThinAir ELD",
+        "model": "Android & Geometris",
+        "software": "1.0.2001.200225",
+        "identifier": "TTHOS1",
+        "company": "ThinAir Telematics LLC"
+    },
+    {
+        "device": "UNITY ELD",
+        "model": "URS",
+        "software": "2.3-12 and up",
+        "identifier": "URS138",
+        "company": "Unity ELD LLC"
+    },
+    {
+        "device": "DriverLog",
+        "model": "BlueLink",
+        "software": "2.1.0 and up",
+        "identifier": "WLI001",
+        "company": "Wireless Links"
+    },
+    {
+        "device": "BST ELD",
+        "model": "BRS",
+        "software": "2.0 or higher",
+        "identifier": "brs125",
+        "company": "Lhb Trucking inc"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & Xirgo",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Geotab",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "ALL THE WAY ELD",
+        "model": "ARS",
+        "software": "2.3.15 or higher",
+        "identifier": "ARS136",
+        "company": "All The Way Transport"
+    },
+    {
+        "device": "LOG PLUS ELD",
+        "model": "LRS",
+        "software": "2.0 or higher",
+        "identifier": "LRS148",
+        "company": "Qitom Corp"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & CalAmp Veosphere",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & ATrack AX7B",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "FC BigRoad ELD",
+        "model": "FT1 / FT2 / FT3",
+        "software": "33.1 or higher",
+        "identifier": "FCBR20",
+        "company": "BigRoad Inc"
+    },
+    {
+        "device": "Sam Freight ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS166",
+        "company": "Sam Freight management LLC"
+    },
+    {
+        "device": "Teletrac Navman Drive",
+        "model": "Gar-Fleet 670-770",
+        "software": "4.3+",
+        "identifier": "MNE001",
+        "company": "Teletrac Navman"
+    },
+    {
+        "device": "CoreHub",
+        "model": "HTHUB-NA",
+        "software": "1/11/11",
+        "identifier": "HUBDR1",
+        "company": "Coretex"
+    },
+    {
+        "device": "Prometheus_HOS",
+        "model": "HOS_BL",
+        "software": "Ver. 5.1.0",
+        "identifier": "WLI001",
+        "company": "Prometheus by FlexGPS"
+    },
+    {
+        "device": "NEXT STEP ELD",
+        "model": "NRS",
+        "software": "2.0 or higher",
+        "identifier": "NRS168",
+        "company": "NEXT STEP TM CORPORATION"
+    },
+    {
+        "device": "FleetLocate Compliance powered by Gorilla Safety",
+        "model": "FleetLocate FL360",
+        "software": "FleetLocate Shift",
+        "identifier": "FL0002",
+        "company": "Spireon Inc."
+    },
+    {
+        "device": "Penske Driver™ App – HOS Module for Android",
+        "model": "PTL-Driver-HOS-Android-2",
+        "software": "9.0 or higher",
+        "identifier": "PTLA02",
+        "company": "Penske Truck Leasing"
+    },
+    {
+        "device": "THUNDER ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS175",
+        "company": "Thunder ELD"
+    },
+    {
+        "device": "NETELD",
+        "model": "NRS",
+        "software": "2.0 or higher",
+        "identifier": "NRS179",
+        "company": "NETELD LLC"
+    },
+    {
+        "device": "TRACK TRUCK ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS164",
+        "company": "Track Truck LLC"
+    },
+    {
+        "device": "TREETRONICS ELD",
+        "model": "TRS",
+        "software": "2.0 or higher",
+        "identifier": "TRS158",
+        "company": "TREETRONICS LLC"
+    },
+    {
+        "device": "Garmin eLog",
+        "model": "GE1I01",
+        "software": "8.10 or later",
+        "identifier": "GE1I01",
+        "company": "Garmin International"
+    },
+    {
+        "device": "ELOG42",
+        "model": "ERS",
+        "software": "2.3.19 and above",
+        "identifier": "ERS156",
+        "company": "Leko INC"
+    },
+    {
+        "device": "FIRST ELD",
+        "model": "FRS",
+        "software": "2.0 or higher",
+        "identifier": "FRS185",
+        "company": "FIRST ELD LLC"
+    },
+    {
+        "device": "Titan FieldDocs ELD 2.0",
+        "model": "Titan TT6000 iOS",
+        "software": "1.56 and up",
+        "identifier": "TT6I01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "CTAndroidELD",
+        "model": "CTAndroidAppELD",
+        "software": "1.6.11 or higher",
+        "identifier": "CTAA19",
+        "company": "Data System Services LLC"
+    },
+    {
+        "device": "LIGHTHOUSE ELD",
+        "model": "LRS",
+        "software": "2.0 or higher",
+        "identifier": "LRS230",
+        "company": "LIGHTHOUSE ELD"
+    },
+    {
+        "device": "Inthinc Connect",
+        "model": "WS850",
+        "software": "3.5",
+        "identifier": "ELD850",
+        "company": "ORBCOMM"
+    },
+    {
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety ioSIX and Android\"",
+        "model": "Gorilla Fleet Intelligence ELD IA",
+        "software": "3.3.5 And Above",
+        "identifier": "GS0006",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "MiX Hours of Service for Rovi IV",
+        "model": "R4",
+        "software": "20.10+",
+        "identifier": "MiXR40",
+        "company": "MiX Telematics"
+    },
+    {
+        "device": "mySOAR by SOAR Solutions",
+        "model": "Android & GNX-6P and above",
+        "software": "5.0 and higher",
+        "identifier": "SOAR12",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "WORLD TRUCKING ELD",
+        "model": "WRS",
+        "software": "2.12-1 or up.",
+        "identifier": "WRS196",
+        "company": "WORLD TRUCKING LLC"
+    },
+    {
+        "device": "INFINITY ELD",
+        "model": "IRS",
+        "software": "2.24 or higher",
+        "identifier": "IRS198",
+        "company": "SIMPLY PASSION, LLC"
+    },
+    {
+        "device": "Astus ELD",
+        "model": "iOS & Astus",
+        "software": "1.0.2106.210505.1",
+        "identifier": "AELD01",
+        "company": "Astus/ETL Electronique"
+    },
+    {
+        "device": "CDL4LIFE ELD",
+        "model": "CRS",
+        "software": "2.0 or higher",
+        "identifier": "CRS216",
+        "company": "CDL 4 LIFE LLC"
+    },
+    {
+        "device": "LB Tech HOS (Android ELM327)",
+        "model": "LBT26009",
+        "software": "3.0.2112.210712+",
+        "identifier": "ELDLB1",
+        "company": "LB Technology Inc."
+    },
+    {
+        "device": "Geotab Drive for Ford Trucks",
+        "model": "Ford PassConnect",
+        "software": "5.7.2103 and higher",
+        "identifier": "FORD01",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "SECURE ELD",
+        "model": "SRS",
+        "software": "2.25.1 or higher",
+        "identifier": "SRS224",
+        "company": "WBCS GROUP LLC"
+    },
+    {
+        "device": "Fleet Hawks ELD",
+        "model": "FHI569",
+        "software": "196",
+        "identifier": "FHUSA1",
+        "company": "Fleet Hawks Inc."
+    },
+    {
+        "device": "ELD Complete",
+        "model": "ELD-2000",
+        "software": "207 or higher",
+        "identifier": "GPSI03",
+        "company": "GPS Insight"
+    },
+    {
+        "device": "Trendy ELD (iOS)",
+        "model": "PT30",
+        "software": "1.01.01 or higher",
+        "identifier": "TREND1",
+        "company": "Trendy ELD"
+    },
+    {
+        "device": "Omnitracs One Active Mobile Gateway with Communications",
+        "model": "AMG-C",
+        "software": "6.20 or Later",
+        "identifier": "AMG001",
+        "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "SIMPLEELOG",
+        "model": "ELOGV15.1.0.21",
+        "software": "1.0.21",
+        "identifier": "SIMPLG",
+        "company": "Simple Elog Inc"
+    },
+    {
+        "device": "Command Alkon Trackit",
+        "model": "CATT01",
+        "software": "1.0 and Above",
+        "identifier": "CATT01",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "ELD Rider",
+        "model": "VGG",
+        "software": "3.2.1 and higher",
+        "identifier": "RIDER8",
+        "company": "LionEight"
+    },
+    {
+        "device": "ELD VOLT",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS246",
+        "company": "Powe Deal Corp"
+    },
+    {
+        "device": "Black Bear ELD",
+        "model": "BRS",
+        "software": "2.0 or Higher",
+        "identifier": "BRS254",
+        "company": "Black Bear ELD"
+    },
+    {
+        "device": "PROJECT ELD",
+        "model": "PRS",
+        "software": "2.0 or higher",
+        "identifier": "PRS260",
+        "company": "Spectrum X Logistics, LLC"
+    },
+    {
+        "device": "Freeway 247 ELD",
+        "model": "FELD01",
+        "software": "4/1/05",
+        "identifier": "FBFA01",
+        "company": "Utech Inc."
+    },
+    {
+        "device": "TruckSpy ELD (Android)",
+        "model": "PT40",
+        "software": "v2.60+",
+        "identifier": "TSELD1",
+        "company": "TruckSpy, Inc."
+    },
+    {
+        "device": "CI ELD LOGS",
+        "model": "CRS",
+        "software": "2.0 or higher",
+        "identifier": "CRS270",
+        "company": "CV Options LLC"
+    },
+    {
+        "device": "ROAD STAR SOLUTIONS",
+        "model": "RSSE01",
+        "software": "RSSEA1.0",
+        "identifier": "RSSA01",
+        "company": "ROAD STAR INC."
+    },
+    {
+        "device": "Geotab GO Device - J. J. Keller Android BYOD and Compliance Tablet",
+        "model": "G7A",
+        "software": "Version 3 and higher",
+        "identifier": "G7A003",
+        "company": "J. J. Keller & Associates, Inc."
+    },
+    {
+        "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
+        "model": "Calamp LMU 4230 Series",
+        "software": "Workplan 4/HOS 3",
+        "identifier": "TC4230",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "ASMebook",
+        "model": "AGE001",
+        "software": "1.12",
+        "identifier": "ASMGPS",
+        "company": "Auto Security & Monitoring Inc"
+    },
+    {
+        "device": "StreetEagle ELD with Samsung Galaxy Tab E (Verizon)",
+        "model": "ELDSAM",
+        "software": "1.1.0.0 or above",
+        "identifier": "ELDSAM",
+        "company": "InSight Mobile Data, Inc."
+    },
+    {
+        "device": "FleetUp",
+        "model": "3NX-i",
+        "software": "1.0 or Higher",
+        "identifier": "TLT3NX",
+        "company": "FleetUp"
+    },
+    {
+        "device": "AwareGPS- ELD",
+        "model": "AGAW01",
+        "software": "1.4.72 or higher",
+        "identifier": "AGAW01",
+        "company": "AwareGPS"
+    },
+    {
+        "device": "#1 ELD by HOS247",
+        "model": "FLT3",
+        "software": "2.5 and up",
+        "identifier": "247ELD",
+        "company": "HOS247 LLC"
+    },
+    {
+        "device": "Titan GPS Logbook",
+        "model": "TT1800 ELD Android",
+        "software": "1.0.1905.190710 +",
+        "identifier": "THOS01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "Fleetilla ELD",
+        "model": "FLELD1 Mod1",
+        "software": "194 or higher",
+        "identifier": "FLELD1",
+        "company": "Fleetilla, LLC"
+    },
+    {
+        "device": "Mobile Dispatch",
+        "model": "VNA2-ELD",
+        "software": "MD App 59 or higher",
+        "identifier": "ACVNA2",
+        "company": "Acordex, LLC"
+    },
+    {
+        "device": "GpsBorder eLog",
+        "model": "BlueLink",
+        "software": "4/3/03",
+        "identifier": "WLI001",
+        "company": "GpsBorder"
+    },
+    {
+        "device": "BIT ELD for Android",
+        "model": "BIT17001",
+        "software": "5.0.1 or higher",
+        "identifier": "BITELD",
+        "company": "Blue Ink Tech"
+    },
+    {
+        "device": "Frotcom ELD",
+        "model": "Fleet 7x0",
+        "software": "1",
+        "identifier": "FELD01",
+        "company": "Frotcom USA"
+    },
+    {
+        "device": "SyncUP FLEET HOS",
+        "model": "SyncUP FLEET HOS 1.0",
+        "software": "4.1",
+        "identifier": "TMOELD",
+        "company": "T-Mobile USA, Inc."
+    },
+    {
+        "device": "Kuktrack ELD",
+        "model": "BlueLink",
+        "software": "3.0.6",
+        "identifier": "WLI001",
+        "company": "KUK Track SA de CV"
+    },
+    {
+        "device": "ISR FleetTrack&#174; HOS ELD Module",
+        "model": "HOS-1",
+        "software": "Version 1.9",
+        "identifier": "ISR500",
+        "company": "ISR Corporation"
+    },
+    {
+        "device": "Xpert ELD",
+        "model": "N775G",
+        "software": "2.1",
+        "identifier": "0X2P3R",
+        "company": "XPERT-IT SOLUTIONS INC."
+    },
+    {
+        "device": "PosiTrace ELD System",
+        "model": "MDTGX6",
+        "software": "1.0.0",
+        "identifier": "ELD001",
+        "company": "Global Fleet Management inc."
+    },
+    {
+        "device": "SkyBitz ELD",
+        "model": "SAMTAB",
+        "software": "1.49 or higher",
+        "identifier": "SKY001",
+        "company": "SkyBitz"
+    },
+    {
+        "device": "DSi eLogs",
+        "model": "DSi eLogs-001 or higher",
+        "software": "v4.6.0 or higher",
+        "identifier": "DSIELD",
+        "company": "Wynne Systems"
+    },
+    {
+        "device": "PowerFleet MDT5700",
+        "model": "MDT5700",
+        "software": "4.31.50 and above",
+        "identifier": "CW5700",
+        "company": "PowerFleet (Formerly CarrierWeb LLC)"
+    },
+    {
+        "device": "Tripshot Driver",
+        "model": "TS0001",
+        "software": "1.2",
+        "identifier": "TS0001",
+        "company": "Tripshot Inc."
+    },
+    {
+        "device": "Voyager II ELD",
+        "model": "ANDA317",
+        "software": "1.2.70.0A or higher",
+        "identifier": "ISE001",
+        "company": "Transcor Data Services"
+    },
+    {
+        "device": "Teletrac Navman Drive",
+        "model": "Android 4.4+ and iOS 11+ (tablet or phone)",
+        "software": "4.4 +",
+        "identifier": "TNV001",
+        "company": "Teletrac Navman"
+    },
+    {
+        "device": "ZUS Smart Vehicle Health Monitor",
+        "model": "ZUHMBKBTV",
+        "software": "TDA66 B201_2.X.22B6",
+        "identifier": "ZUSOBD",
+        "company": "Nonda"
+    },
+    {
+        "device": "PosiTrace ELD System",
+        "model": "MDTGX6",
+        "software": "1.0.0 or higher",
+        "identifier": "ELD002",
+        "company": "Global Fleet Management inc."
+    },
+    {
+        "device": "iTruckerELD",
+        "model": "IOSIX-WBG",
+        "software": "1/9/39",
+        "identifier": "iTruck",
+        "company": "iTrucker Corp."
+    },
+    {
+        "device": "HawkEye ELD IOSIX",
+        "model": "HELD01",
+        "software": "V2.0.0",
+        "identifier": "HELD02",
+        "company": "Hawk Eye Log Global Technology Ltd"
+    },
+    {
+        "device": "TruxBox ELD 1.0 by TruxTrax",
+        "model": "TTB-100",
+        "software": "3.0.1 and higher",
+        "identifier": "TTBELD",
+        "company": "TruxTrax Inc."
+    },
+    {
+        "device": "AVLTRACK ELD",
+        "model": "ELD-A100",
+        "software": "1.1.0 and above",
+        "identifier": "AVLT01",
+        "company": "Gestion Econoplus Inc"
+    },
+    {
+        "device": "AWA247 ELD",
+        "model": "ARS",
+        "software": "2.4.9 and higher.",
+        "identifier": "ARS110",
+        "company": "AWA247"
+    },
+    {
+        "device": "RELIABLE ELD",
+        "model": "RRS",
+        "software": "2.18.9 and up.",
+        "identifier": "RRS121",
+        "company": "Reliable ELD Inc"
+    },
+    {
+        "device": "TRUNSBUSS ELD",
+        "model": "TRS",
+        "software": "2.0 OR HIGHER",
+        "identifier": "TRS111",
+        "company": "Trunsbuss"
+    },
+    {
+        "device": "TruckishELD",
+        "model": "TE1",
+        "software": "1.1",
+        "identifier": "TRUELD",
+        "company": "Truckish"
+    },
+    {
+        "device": "Axis TMS Logbook",
+        "model": "AX ONE",
+        "software": "1.0.1905.190614",
+        "identifier": "AXIS01",
+        "company": "Axis TMS Corp"
+    },
+    {
+        "device": "Guardian ELD",
+        "model": "19TELD-08",
+        "software": "V28",
+        "identifier": "DTIE02",
+        "company": "Diesel Tech Industries"
+    },
+    {
+        "device": "TrackM2M-VisTracks",
+        "model": "ELD-VTGMTT-A",
+        "software": "3.0.2116.210920 & up",
+        "identifier": "TM2M01",
+        "company": "TrackM2M.com Inc."
+    },
+    {
+        "device": "STARWAY ELD",
+        "model": "SRS",
+        "software": "2.4.2 and above",
+        "identifier": "SRS140",
+        "company": "Starway ELD"
+    },
+    {
+        "device": "Compliance Now",
+        "model": "Android & CalAmp Veosphere",
+        "software": "1.0.1905.190710",
+        "identifier": "GEO001",
+        "company": "Geosavi Inc. https://geosavi.com"
+    },
+    {
+        "device": "ADVANTAGE KNIGHTS ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS128",
+        "company": "Advantage Knights Inc"
+    },
+    {
+        "device": "Verizon Connect Reveal ELD Logbook Android - Formerly Fleetmatics Logbook",
+        "model": "XIRGO XT-6300 Series",
+        "software": "ELD 3.40.0 or higher",
+        "identifier": "RAXI31",
+        "company": "Verizon Connect"
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & ATrack AX7B",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours of Service",
+        "model": "iOS & Trackit",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & BAFX/ELM327",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & ATrack AX11",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "Red Dog Elog",
+        "model": "RD0001",
+        "software": "3.0.2116.210920",
+        "identifier": "RD0001",
+        "company": "Smart IOT Technology LLD dba Reddog Logistics"
+    },
+    {
+        "device": "ELD logbook ISPP",
+        "model": "CTELD2",
+        "software": "3.0.2116.210920",
+        "identifier": "CTELD2",
+        "company": "I.S.P.P. 9675868 Canada Inc."
+    },
+    {
+        "device": "ASSIATRAK ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS143",
+        "company": "Assia Trak HOS"
+    },
+    {
+        "device": "Matrack ELD for iOS",
+        "model": "MA3400",
+        "software": "4.0 above",
+        "identifier": "MA34M2",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "BLOG ELD",
+        "model": "BRS",
+        "software": "2.4.13 or higher",
+        "identifier": "BRS135",
+        "company": "Blog ELD"
+    },
+    {
+        "device": "M2MIM ELD",
+        "model": "M2M018 Geometris",
+        "software": "1.0.2022.201130 +",
+        "identifier": "M2M018",
+        "company": "AAMP Global (Formerly M2M In Motion)"
+    },
+    {
+        "device": "CloudHawk ELD",
+        "model": "CELD01",
+        "software": "3.0.2116.210920",
+        "identifier": "CELD01",
+        "company": "Spark Technology Labs Inc."
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Digi WVA",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "VisTracks, Inc."
+    },
+    {
+        "device": "BLUE STAR ELD",
+        "model": "BRS",
+        "software": "2.4-34 or above.",
+        "identifier": "BRS153",
+        "company": "BLUE STAR ELD INC"
+    },
+    {
+        "device": "LionEight ELD",
+        "model": "iOS",
+        "software": "2.2.0 and higher",
+        "identifier": "L86ELD",
+        "company": "LionEight"
+    },
+    {
+        "device": "Command Alkon TFleet TFVG850",
+        "model": "TFVG850",
+        "software": "v6.0.1A",
+        "identifier": "TFM001",
+        "company": "Command Alkon Inc."
+    },
+    {
+        "device": "ELD Fleet",
+        "model": "R3001",
+        "software": "1.0.2011.200727",
+        "identifier": "RAV001",
+        "company": "Raven"
+    },
+    {
+        "device": "Command Alkon TFleet TFVG950",
+        "model": "TFVG950",
+        "software": "v6.0.1A",
+        "identifier": "TFM002",
+        "company": "Command Alkon Inc."
+    },
+    {
+        "device": "RT ELD Plus - ACCURATE PLUS",
+        "model": "RT-PLUS-BLE3647",
+        "software": "1.4",
+        "identifier": "RTPS47",
+        "company": "Rollingtrans"
+    },
+    {
+        "device": "AT&T Fleet Complete ELD",
+        "model": "FT1 / FT2 / FT3",
+        "software": "33.1 or higher",
+        "identifier": "FCBR20",
+        "company": "BigRoad Inc"
+    },
+    {
+        "device": "EGREEN ELD",
+        "model": "ERS",
+        "software": "2.0 or higher",
+        "identifier": "ERS170",
+        "company": "Egreen ELD"
+    },
+    {
+        "device": "Rapid On The GO!",
+        "model": "Rapid GO! Tab",
+        "software": "1.1.20 or higher",
+        "identifier": "ROTGO!",
+        "company": "Rapid Apps Group, LLC"
+    },
+    {
+        "device": "Smart Elds",
+        "model": "Android & Pacific Track",
+        "software": "5.2 and up",
+        "identifier": "SELD01",
+        "company": "Asritsolutions LLC"
+    },
+    {
+        "device": "SHELD",
+        "model": "GSIP",
+        "software": "3.0.1 and higher",
+        "identifier": "AT3103",
+        "company": "Darex Company"
+    },
+    {
+        "device": "Garmin eLog - dēzl 780, dēzlCam 785, dēzl OTR/LGV 800, dēzl OTR/LGV 810, dēzl OTR/LGV 1000, dēzl OTR/LGV 1010",
+        "model": "GE1D01",
+        "software": "8.10 or later",
+        "identifier": "GE1D01",
+        "company": "Garmin International"
+    },
+    {
+        "device": "BluAgent ELD",
+        "model": "Android & BAFX/ELM327",
+        "software": "1",
+        "identifier": "BA0001",
+        "company": "BLUAGENT TECHNOLOGIES, INC"
+    },
+    {
+        "device": "SHAHAD ELD",
+        "model": "SRS",
+        "software": "2.0 or higher",
+        "identifier": "SRS159",
+        "company": "SHAHAD ELD"
+    },
+    {
+        "device": "Garmin eLog",
+        "model": "GE1A01",
+        "software": "8.10 or later",
+        "identifier": "GE1A01",
+        "company": "Garmin International"
+    },
+    {
+        "device": "DriverConnect",
+        "model": "ELD 50 6 pin",
+        "software": "Android6.4;iOS2.3",
+        "identifier": "RMDC00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "Titan FieldDocs ELD 2.0",
+        "model": "Titan TT1800 Android",
+        "software": "1.0.66 and up",
+        "identifier": "TT8A01",
+        "company": "Certified Tracking Solutions"
+    },
+    {
+        "device": "DriverConnect",
+        "model": "ELD 50 9 pin",
+        "software": "Android6.6.1;iOS2.6",
+        "identifier": "RMDC00",
+        "company": "Rand McNally"
+    },
+    {
+        "device": "INSTANT ELD",
+        "model": "IRS",
+        "software": "2.0 or higher",
+        "identifier": "IRS187",
+        "company": "INSTANT ELD INC"
+    },
+    {
+        "device": "INTERSTATE ELD",
+        "model": "IRS",
+        "software": "2.0 or higher",
+        "identifier": "IRS206",
+        "company": "Interstate Freeway, Inc."
+    },
+    {
+        "device": "Contractors E Logs - MCX101",
+        "model": "MCX101-A",
+        "software": "3/3/00",
+        "identifier": "MCX101",
+        "company": "EquipmentShare"
+    },
+    {
+        "device": "EXTENDED ROAD ELD",
+        "model": "ERS",
+        "software": "2.20.5 & above",
+        "identifier": "ERS215",
+        "company": "Extended Road LLC"
+    },
+    {
+        "device": "CN ELD",
+        "model": "CRS",
+        "software": "2.23-14 and above",
+        "identifier": "CRS235",
+        "company": "ELD CONNECTION"
+    },
+    {
+        "device": "TN360 ELD",
+        "model": "Android OS Version 9 +",
+        "software": "1.3.8.50+",
+        "identifier": "TTN001",
+        "company": "Teletrac Navman"
+    },
+    {
+        "device": "PARAGON ELD",
+        "model": "PRS",
+        "software": "2.0 or higher",
+        "identifier": "PRS195",
+        "company": "Paragon ELD"
+    },
+    {
+        "device": "24RALLY ELD",
+        "model": "2RS",
+        "software": "2.0 or higher",
+        "identifier": "2RS188",
+        "company": "24Rally LLC"
+    },
+    {
+        "device": "WESTERN ELOG",
+        "model": "WRS",
+        "software": "2.0 or higher",
+        "identifier": "WRS210",
+        "company": "UNC Cargo. Inc"
+    },
+    {
+        "device": "BridgeHaul ELD",
+        "model": "Bluelink",
+        "software": "3.0.0",
+        "identifier": "BRHL01",
+        "company": "BridgeHaul Inc"
+    },
+    {
+        "device": "GLS ELD",
+        "model": "GRS",
+        "software": "2.0 or higher",
+        "identifier": "GRS241",
+        "company": "GLOBAL LOGISTICS SYSTEM ELD LLC"
+    },
+    {
+        "device": "GREENLINE ELD",
+        "model": "GRS",
+        "software": "2.0 or higher",
+        "identifier": "GRS233",
+        "company": "Mubina Express LLC"
+    },
+    {
+        "device": "ADX FLEET ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS243",
+        "company": "ADX FLEET ELD INC"
+    },
+    {
+        "device": "Shotgun Rider",
+        "model": "SR1",
+        "software": "1.79 or higher",
+        "identifier": "SR_MTN",
+        "company": "Messenger Terabit Networks, Inc."
+    },
+    {
+        "device": "Matrack ELD for iOS",
+        "model": "MAMT30",
+        "software": "5.0 and above",
+        "identifier": "MAMTI1",
+        "company": "Matrack Inc."
+    },
+    {
+        "device": "TST 1 ELD",
+        "model": "TRS",
+        "software": "2.23.11 and later",
+        "identifier": "TRS220",
+        "company": "TST GROUP INC."
+    },
+    {
+        "device": "Webfleet - Android and PT30",
+        "model": "WF-ANDP",
+        "software": "1.0 and Above",
+        "identifier": "WFAND3",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "MasterELD",
+        "model": "MELD04",
+        "software": "MELDA4.0",
+        "identifier": "MEPT04",
+        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
+    },
+    {
+        "device": "Smart Elds",
+        "model": "IOS & Pacific Track",
+        "software": "5.2 and up",
+        "identifier": "SELD02",
+        "company": "Asritsolutions LLC"
+    },
+    {
+        "device": "TXT E Solutions Inc. ELD",
+        "model": "TXTELD-5",
+        "software": "5",
+        "identifier": "M17V84",
+        "company": "TXT Esolutions Inc."
+    },
+    {
+        "device": "M&T ONE TRUCKING ELD",
+        "model": "MRS",
+        "software": "2.0 or higher",
+        "identifier": "MRS274",
+        "company": "M&T one Inc"
+    },
+    {
+        "device": "Trucker Path ELD Pro",
+        "model": "Trucker Path ELD Pro",
+        "software": "1.1.8 and Above",
+        "identifier": "TPPro2",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "RT ELD Plus - ACCURATE PLUS SE",
+        "model": "RT-PLUS-BLE1200",
+        "software": "1.4",
+        "identifier": "RTPS12",
+        "company": "Rollingtrans"
+    },
+    {
+        "device": "DREAM ELD PRO",
+        "model": "IOS2050",
+        "software": "1.1.1",
+        "identifier": "DREM30",
+        "company": "DREAM ELD"
+    },
+    {
+        "device": "FALCON ELD",
+        "model": "FTX ELD",
+        "software": "1.0.0",
+        "identifier": "FTX007",
+        "company": "Falcon Telematics LLC"
+    },
+    {
+        "device": "All-Ways Track",
+        "model": "AWT01",
+        "software": "2.3.3.6",
+        "identifier": "AWTELD",
+        "company": "ALL-WAYS TRACK, LLC."
+    },
+    {
+        "device": "Helios ELD",
+        "model": "Helios VK",
+        "software": "220 or higher",
+        "identifier": "HELS22",
+        "company": "Apollo ELD"
+    },
+    {
+        "device": "FleetHunt ELD",
+        "model": "iOS & Xirgo 6300 Series",
+        "software": "Version 1+",
+        "identifier": "FHELD6",
+        "company": "Fleethunt Technologies"
+    },
+    {
+        "device": "BITEC ELD",
+        "model": "BRS",
+        "software": "2.0 or higher",
+        "identifier": "BRS253",
+        "company": "BITEC CORP"
+    },
+    {
+        "device": "Freight360",
+        "model": "F360-ELD",
+        "software": "1.7",
+        "identifier": "360ELD",
+        "company": "Freight 360"
+    },
+    {
+        "device": "Vector ELD iOS",
+        "model": "PT30",
+        "software": "1.01.01",
+        "identifier": "VCTR10",
+        "company": "Vector ELD"
+    },
+    {
+        "device": "TransitTrackingEld",
+        "model": "TTELD1000",
+        "software": "1.0.0",
+        "identifier": "TTGPS1",
+        "company": "Transit Tracking"
+    },
+    {
+        "device": "Mountain ELD",
+        "model": "MT01",
+        "software": "4/1/06",
+        "identifier": "MTIA01",
+        "company": "Mountain Safety Inc"
+    },
+    {
+        "device": "ROUTE ELD",
+        "model": "RRS",
+        "software": "2.0 or higher",
+        "identifier": "RRS276",
+        "company": "ROUTE ELD"
+    },
+    {
+        "device": "24HOS ELD / Android",
+        "model": "PT30",
+        "software": "1.0.01",
+        "identifier": "024HOS",
+        "company": "24HOS ELD"
+    },
+    {
+        "device": "Right Trucking",
+        "model": "RTRWL01",
+        "software": "RTRA1.0",
+        "identifier": "RWLA01",
+        "company": "Right Truck Deal LLC"
+    },
+    {
+        "device": "888 ELD",
+        "model": "8RS",
+        "software": "2.0 or higher",
+        "identifier": "8RS262",
+        "company": "MAUMAU LLC"
+    },
+    {
+        "device": "GoodDealGPS",
+        "model": "GDELD1000",
+        "software": "1.0.0 or higher",
+        "identifier": "GDGGPS",
+        "company": "Bransys"
+    },
+    {
+        "device": "PLANET HALO ELD",
+        "model": "PTHL",
+        "software": "higher than 2.23.12",
+        "identifier": "PTH382",
+        "company": "Planet Halo inc"
+    }
+]
