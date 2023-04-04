@@ -29,7 +29,7 @@
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
-        "model": "XT6372 – VZW LTE",
+        "model": "XT6372 â€“ VZW LTE",
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc."
@@ -168,8 +168,15 @@
         "company": "Trimble"
     },
     {
+        "device": "Descartes Telematics - G Tablet",
+        "model": "DSG ELD TT GO",
+        "software": "18.05 or higher",
+        "identifier": "DSGGT1",
+        "company": "The Descartes Systems Group Inc"
+    },
+    {
         "device": "OnCommand(R) Connection Electronic Driver Log",
-        "model": "XT6360 – AT&T 3G",
+        "model": "XT6360 â€“ AT&T 3G",
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc."
@@ -238,7 +245,7 @@
         "company": "Car Delivery Network Inc"
     },
     {
-        "device": "J. J. Keller ELD – Android Compliance Tablet 2.5",
+        "device": "J. J. Keller ELD â€“ Android Compliance Tablet 2.5",
         "model": "25C",
         "software": "Version 3 and higher",
         "identifier": "25C003",
@@ -264,6 +271,13 @@
         "software": "1.0.1919.191121",
         "identifier": "GFI002",
         "company": "GFI Systems Inc."
+    },
+    {
+        "device": "Descartes Telematics - Tablet",
+        "model": "DSG ELD TT 4200",
+        "software": "17.11 or higher",
+        "identifier": "DSGTT1",
+        "company": "The Descartes Systems Group Inc"
     },
     {
         "device": "Trucker Path ELD",
@@ -383,6 +397,13 @@
         "software": "1.0 or higher",
         "identifier": "onroad",
         "company": "Onroad Networks"
+    },
+    {
+        "device": "ELDS HOS (Android)",
+        "model": "ELDS21009",
+        "software": "3.0.2212.220905 & up",
+        "identifier": "ELDS12",
+        "company": "ELD Solutions"
     },
     {
         "device": "CarmaLink ELD",
@@ -623,6 +644,13 @@
         "company": "TSO MOBILE by Tracking Solutions Corp"
     },
     {
+        "device": "Descartes Telematics - Smart Device",
+        "model": "DSG ELD SD 4200",
+        "software": "18.01 or higher",
+        "identifier": "DSGSD1",
+        "company": "The Descartes Systems Group Inc"
+    },
+    {
         "device": "Trucker Path ELD",
         "model": "Android VT-001",
         "software": "2.9.0.0",
@@ -663,6 +691,13 @@
         "software": "2.0 or higher",
         "identifier": "CRS204",
         "company": "Cargo Management Group Inc"
+    },
+    {
+        "device": "ELDS HOS (iOS)",
+        "model": "ELDS21009",
+        "software": "2212.220905 and up",
+        "identifier": "ELDS12",
+        "company": "ELD Solutions"
     },
     {
         "device": "GLS ELD",
@@ -792,7 +827,7 @@
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
-        "model": "XT6376 – AT&T LTE/3G",
+        "model": "XT6376 â€“ AT&T LTE/3G",
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc."
@@ -852,5 +887,12 @@
         "software": "18.0 and higher",
         "identifier": "KTIELD",
         "company": "Satinder Singh"
+    },
+    {
+        "device": "All-Ways Track",
+        "model": "AWT01",
+        "software": "2.4",
+        "identifier": "AWTELD",
+        "company": "ALL-WAYS TRACK, LLC."
     }
 ]
