@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "device": "GFI eLogs",
         "model": "iOS Calamp 4230 and 3030",
@@ -61,6 +61,13 @@
         "software": "1905.190710 & up",
         "identifier": "LM423X",
         "company": "Focus fleet and fuel management inc"
+    },
+    {
+        "device": "PRIMELD",
+        "model": "PRS",
+        "software": "2.0 or higher",
+        "identifier": "PRS139",
+        "company": "Primeld"
     },
     {
         "device": "M2M ELD",
@@ -243,6 +250,13 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch"
+    },
+    {
+        "device": "Log n Drive (Android & Pacific Track PT30)",
+        "model": "Pacific Track PT30",
+        "software": "3.0.2116.210920",
+        "identifier": "CSE001",
+        "company": "Computer Software Engineers"
     },
     {
         "device": "CyntrX ELD Pro",
@@ -434,6 +448,13 @@
         "company": "CyntrX"
     },
     {
+        "device": "Log n Drive (Android and Calamp LMU4230)",
+        "model": "Calamp LMU4230",
+        "software": "3.0.2116.210920",
+        "identifier": "CSE001",
+        "company": "Computer Software Engineers"
+    },
+    {
         "device": "ELD ONE",
         "model": "OELD01",
         "software": "IOS3.4.0Android4.4.0",
@@ -600,6 +621,13 @@
         "software": "2.0 or higher",
         "identifier": "ERS186",
         "company": "ELDorado"
+    },
+    {
+        "device": "ALL TRUCKERS ELD",
+        "model": "ARS",
+        "software": "2.0 or higher",
+        "identifier": "ARS194",
+        "company": "All Truckers ELD"
     },
     {
         "device": "TestV0",
@@ -798,6 +826,13 @@
         "company": "Eleos Technologies, LLC"
     },
     {
+        "device": "Log n Drive (Android & Atracks AX11)",
+        "model": "AX11-ATRACKS",
+        "software": "3.0.2116.210920",
+        "identifier": "CSE001",
+        "company": "Computer Software Engineers"
+    },
+    {
         "device": "MasTrack ELD",
         "model": "MT-BasicELD",
         "software": "1.0.1921.191216",
@@ -875,7 +910,7 @@
         "company": "Vnomics Corp"
     },
     {
-        "device": "\"\"\"EDGE MDT\"\"\"",
+        "device": "\"EDGE MDT\"",
         "model": "iGbl E210",
         "software": "v. 55 and newer",
         "identifier": "IGBE61",
@@ -936,6 +971,13 @@
         "software": "AA1839R or Later",
         "identifier": "MCP200",
         "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "SECURE ELD",
+        "model": "SRS",
+        "software": "2.25.1 or higher",
+        "identifier": "SRS224",
+        "company": "WBCS GROUP LLC"
     },
     {
         "device": "Fleet Hawks ELD",
@@ -1001,7 +1043,7 @@
         "company": "BSM Technologies Ltd."
     },
     {
-        "device": "\"\"\"EDGE MDT\"\"\"",
+        "device": "\"EDGE MDT\"",
         "model": "IGBL-E215",
         "software": "v. 55 or higher",
         "identifier": "IGBE61",
@@ -1055,6 +1097,13 @@
         "software": "18.0 and higher",
         "identifier": "KTIELD",
         "company": "Satinder Singh"
+    },
+    {
+        "device": "FALCON ELD",
+        "model": "FTX ELD",
+        "software": "1.0.0",
+        "identifier": "FTX007",
+        "company": "Falcon Telematics LLC"
     },
     {
         "device": "All-Ways Track",
