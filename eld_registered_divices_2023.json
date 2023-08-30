@@ -175,13 +175,6 @@
         "company": "National Carrier Exchange"
     },
     {
-        "device": "Geotab Drive for Mack Trucks",
-        "model": "TGW 2.1, TGW3",
-        "software": "5.7.1903 and higher",
-        "identifier": "MACK01",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "Produce Pro Software DriverHOS",
         "model": "DHOS100",
         "software": "2.0 or higher",
@@ -231,11 +224,18 @@
         "company": "Ready Wireless"
     },
     {
+        "device": "Geotab Drive for Mack Trucks",
+        "model": "TGW 2.1, TGW3",
+        "software": "5.7.1903 and higher",
+        "identifier": "MACK01",
+        "company": "Geotab Inc."
+    },
+    {
         "device": "TruckX-Wired-ELD",
         "model": "WELD",
         "software": "1.30.0+",
         "identifier": "TRXW20",
-        "company": "Tapan Chaudhari"
+        "company": "TruckX Inc"
     },
     {
         "device": "ELD FOR YOU",
@@ -338,7 +338,7 @@
     {
         "device": "KSK ELD",
         "model": "KSK1.0",
-        "software": "android4.3&iOS3.3&up",
+        "software": "android4.4&iOS3.4&up",
         "identifier": "KSKA01",
         "company": "KSK Group, Inc."
     },
@@ -562,7 +562,7 @@
     {
         "device": "ELD2020 Android",
         "model": "ELD2020A",
-        "software": "2.8.17.3242- higher",
+        "software": "2.8.17.3246- higher",
         "identifier": "ELD20A",
         "company": "Hutch Systems Inc"
     },
@@ -592,14 +592,14 @@
         "model": "iOS & GenEx GNX-6",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & IOSiX",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Digilog",
@@ -620,7 +620,14 @@
         "model": "iOS & CalAmp4230",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "ROBINHOOD ELD",
+        "model": "R-HOOD",
+        "software": "2.23.15 or above",
+        "identifier": "RHD481",
+        "company": "ROBINHOOD ELD"
     },
     {
         "device": "3MD ELD",
@@ -799,7 +806,7 @@
     },
     {
         "device": "Geometris with Android",
-        "model": "0",
+        "model": "#REF!",
         "software": "1.0.1905.190529",
         "identifier": "G4HHOS",
         "company": "G4H LLC"
@@ -859,13 +866,6 @@
         "software": "194 or higher",
         "identifier": "ELD365",
         "company": "ELD365"
-    },
-    {
-        "device": "CloudELD",
-        "model": "SmartTab",
-        "software": "1.0.00",
-        "identifier": "ETSELD",
-        "company": "LiRCTek Inc"
     },
     {
         "device": "SwissLog Lite",
@@ -1141,13 +1141,6 @@
         "company": "AllyELD"
     },
     {
-        "device": "CloudELD",
-        "model": "Tab7",
-        "software": "9.0.03",
-        "identifier": "ESTAB7",
-        "company": "LiRCTek Inc"
-    },
-    {
         "device": "LB Technologies FleetTrack HOS",
         "model": "LBTFTH",
         "software": "1.0 and Above",
@@ -1309,6 +1302,13 @@
         "company": "Gorilla Fleet Safety, LLC"
     },
     {
+        "device": "Spark ELD",
+        "model": "PT40SIM",
+        "software": "1.0.0 and higher",
+        "identifier": "SPARK6",
+        "company": "Wema Solutions LLC"
+    },
+    {
         "device": "COLIBRI ELD",
         "model": "CLBR",
         "software": "2.22.06 and later",
@@ -1320,7 +1320,7 @@
         "model": "Android & Atlas",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "PDSINC ELD",
@@ -1334,28 +1334,42 @@
         "model": "Android & Trackit",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & Astus",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & PT40",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "Century ELD",
+        "model": "CENTYLD",
+        "software": "2.19.10 and above",
+        "identifier": "CNR680",
+        "company": "Century ELD INC"
     },
     {
         "device": "Hours Of Service",
         "model": "iOS & Geometris",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "CloudELD",
+        "model": "Tab7",
+        "software": "9.0.03",
+        "identifier": "ESTAB7",
+        "company": "LiRCTek Inc"
     },
     {
         "device": "Chamelogs",
@@ -1422,7 +1436,7 @@
     },
     {
         "device": "V-Series with iOn Hours",
-        "model": "0",
+        "model": "#REF!",
         "software": "1.0.1625.6584",
         "identifier": "HOS001",
         "company": "CalAmp Inc"
@@ -1558,7 +1572,7 @@
         "model": "XELD",
         "software": "1.9+",
         "identifier": "TRX927",
-        "company": "Tapan Chaudhari"
+        "company": "TruckX Inc"
     },
     {
         "device": "Petro ELD",
@@ -1645,13 +1659,6 @@
         "company": "Locus GPS"
     },
     {
-        "device": "CloudELD",
-        "model": "BLE1",
-        "software": "1.4",
-        "identifier": "ESBLE1",
-        "company": "LiRCTek Inc"
-    },
-    {
         "device": "OTR ELD",
         "model": "ORS",
         "software": "2.0 or higher",
@@ -1731,7 +1738,7 @@
     {
         "device": "ELD 2 GO",
         "model": "GOMAX",
-        "software": "2.19-01 and later",
+        "software": "2.29.3 and later",
         "identifier": "ERS200",
         "company": "ELD 2 GO"
     },
@@ -1836,7 +1843,7 @@
     {
         "device": "Orion eLog",
         "model": "354",
-        "software": "2.0.342",
+        "software": "2.0.398",
         "identifier": "674663",
         "company": "Praxis Technologies, Inc."
     },
@@ -2083,14 +2090,21 @@
         "model": "Android & Geometris",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & CalAmp 4230",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "ABC ELD",
+        "model": "ABCD",
+        "software": "2.21 and above",
+        "identifier": "ABC281",
+        "company": "ABC ELD LLC"
     },
     {
         "device": "FleetHunt ELD",
@@ -2098,6 +2112,13 @@
         "software": "Version 1.2.2+",
         "identifier": "FHELD4",
         "company": "Fleethunt Technologies"
+    },
+    {
+        "device": "Hutch ELD iOS",
+        "model": "HELD16I",
+        "software": "1.3.9.9 or Higher",
+        "identifier": "HELD23",
+        "company": "Hutch Systems Inc"
     },
     {
         "device": "3MD ELD",
@@ -2118,7 +2139,14 @@
         "model": "iOS & CalAmp 3035",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "CloudELD",
+        "model": "BLE1",
+        "software": "1.4",
+        "identifier": "ESBLE1",
+        "company": "LiRCTek Inc"
     },
     {
         "device": "ISE Fleet Services powered by eFleetSuite",
@@ -2289,13 +2317,6 @@
         "company": "HELP Inc. Provider of PrePass"
     },
     {
-        "device": "Geotab Drive Cloud ELD",
-        "model": "GO6, GO7, GO8, GO9, GO9B, PEP-GO7. PEP-GO8, ATT-GO7, ATT-GO8 or FL7 (Spireon), FL8 (Spireon) or RI7/8 (by BSM) or T7, T9",
-        "software": "5.7.1804 or above",
-        "identifier": "GEOTAB",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "drivereldbook eld",
         "model": "DRS",
         "software": "2.0 or higher",
@@ -2352,6 +2373,13 @@
         "company": "Express Line ELD"
     },
     {
+        "device": "Geotab Drive Cloud ELD",
+        "model": "GO6, GO7, GO8, GO9, GO9B, PEP-GO7. PEP-GO8, ATT-GO7, ATT-GO8 or FL7 (Spireon), FL8 (Spireon) or RI7/8 (by BSM) or T7, T9",
+        "software": "5.7.1804 or above",
+        "identifier": "GEOTAB",
+        "company": "Geotab Inc."
+    },
+    {
         "device": "EYELOG",
         "model": "ELD-SM-JA",
         "software": "1.2.7",
@@ -2392,13 +2420,6 @@
         "software": "1.0 and Above",
         "identifier": "CELD04",
         "company": "ClutchELD"
-    },
-    {
-        "device": "FleetLocate Compliance powered by Gorilla Safety",
-        "model": "FleetLocate FL1",
-        "software": "FleetLocate Shift",
-        "identifier": "FL0001",
-        "company": "Spireon Inc."
     },
     {
         "device": "ISAAC InControl",
@@ -2462,13 +2483,6 @@
         "software": "5.1",
         "identifier": "CMET01",
         "company": "Pedigree Technologies, LLC"
-    },
-    {
-        "device": "Forward Thinking Systems - Field Warrior ELD (BYOD)",
-        "model": "FW-BYOD",
-        "software": "4.1.100",
-        "identifier": "FTSFW1",
-        "company": "Forward Thinking Systems LLC"
     },
     {
         "device": "ELEVEN ELD",
@@ -2709,13 +2723,6 @@
         "company": "Matrack Inc."
     },
     {
-        "device": "Hutch ELD",
-        "model": "Mercury",
-        "software": "1.2.5.11 - higher",
-        "identifier": "HELD16",
-        "company": "Hutch Systems Inc"
-    },
-    {
         "device": "GPSTab ELD Edition",
         "model": "GELD01",
         "software": "4.1.5",
@@ -2781,7 +2788,7 @@
     {
         "device": "Omnitracs Intelligent Vehicle Gateway",
         "model": "IVG",
-        "software": "DA1262R or later",
+        "software": "DA1304R or later",
         "identifier": "IVG001",
         "company": "Omnitracs, LLC"
     },
@@ -2811,7 +2818,7 @@
         "model": "iOS & ATrack AK11",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "3MD ELD",
@@ -2835,6 +2842,13 @@
         "company": "Gorilla Fleet Safety, LLC"
     },
     {
+        "device": "In Time ELD",
+        "model": "In Time ELD 23",
+        "software": "1.1.4 or Higher",
+        "identifier": "ITE001",
+        "company": "In Time Eld"
+    },
+    {
         "device": "DIGITAL ELD",
         "model": "DTL",
         "software": "2.13.17",
@@ -2849,6 +2863,13 @@
         "company": "Porter ELD"
     },
     {
+        "device": "Forward Thinking Systems - Field Warrior ELD (BYOD)",
+        "model": "FW-BYOD",
+        "software": "4.1.114",
+        "identifier": "FTSFW1",
+        "company": "Forward Thinking Systems LLC"
+    },
+    {
         "device": "Sharp ELD (for Android)",
         "model": "PT30",
         "software": "1.01.01",
@@ -2860,7 +2881,21 @@
         "model": "Android & Pacific Track",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "MAP ELOG",
+        "model": "MAPLG",
+        "software": "2.23.9 and later",
+        "identifier": "MAP681",
+        "company": "Map Elog Corp"
+    },
+    {
+        "device": "FleetLocate Compliance powered by Gorilla Safety",
+        "model": "FleetLocate FL1",
+        "software": "FleetLocate Shift",
+        "identifier": "FL0001",
+        "company": "Spireon Inc."
     },
     {
         "device": "AllwaysTrack",
@@ -2870,18 +2905,32 @@
         "company": "Gorilla Fleet Safety, LLC"
     },
     {
+        "device": "ZAPHIRA ELD",
+        "model": "ZRS",
+        "software": "2.12.17 or higher",
+        "identifier": "ZAP280",
+        "company": "ZAPHIRA LLC"
+    },
+    {
+        "device": "Hutch ELD",
+        "model": "Mercury",
+        "software": "1.2.5.11 - higher",
+        "identifier": "HELD16",
+        "company": "Hutch Systems Inc"
+    },
+    {
         "device": "Hours of Service",
         "model": "Android & CalAmp 3035",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "iOS & Pacific Track",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "3MD ELD",
@@ -2895,14 +2944,14 @@
         "model": "Android & GenEx GNX-6",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & ATrack AK11",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "GTS ELD",
@@ -3169,13 +3218,6 @@
         "software": "2.19.19 or higher",
         "identifier": "MRS150",
         "company": "Matrack Inc."
-    },
-    {
-        "device": "Forward Thinking Systems - Field Warrior ELD (Garmin)",
-        "model": "FW-Garmin",
-        "software": "4.1.100",
-        "identifier": "FTSFW2",
-        "company": "Forward Thinking Systems LLC"
     },
     {
         "device": "ELD PRO CORP",
@@ -3553,14 +3595,14 @@
         "model": "Android & Suntech ST20",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "iOS & IOSiX",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "\"Gorilla Fleet Intelligence\" by Gorilla Safety Pacific Track and Android",
@@ -3595,14 +3637,14 @@
         "model": "Android & Xirgo",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "iOS & Astus",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Smart eLog for iOS",
@@ -3610,6 +3652,13 @@
         "software": "1.01.01",
         "identifier": "SL0101",
         "company": "Smart eLog LLC"
+    },
+    {
+        "device": "Forward Thinking Systems - Field Warrior ELD (Garmin)",
+        "model": "FW-Garmin",
+        "software": "4.1.114",
+        "identifier": "FTSFW2",
+        "company": "Forward Thinking Systems LLC"
     },
     {
         "device": "EMPIRE LOGS",
@@ -3704,7 +3753,7 @@
     },
     {
         "device": "GPSi Fleet",
-        "model": "0",
+        "model": "#REF!",
         "software": "1.0.1625.6584",
         "identifier": "TTELD1",
         "company": "GPSi"
@@ -3824,7 +3873,7 @@
     {
         "device": "P3TS",
         "model": "P3TS",
-        "software": "Android 212, iOS 198",
+        "software": "Android 254, iOS 240",
         "identifier": "TTSP3T",
         "company": "Top Tracking System LLC"
     },
@@ -3848,13 +3897,6 @@
         "software": "2.0 or higher",
         "identifier": "ERS109",
         "company": "EDO ELD"
-    },
-    {
-        "device": "Geotab Drive for Volvo Trucks",
-        "model": "TGW 2.1, TGW3",
-        "software": "5.7.1903 and higher",
-        "identifier": "VOLVO1",
-        "company": "Geotab Inc."
     },
     {
         "device": "Guardian ELD",
@@ -3897,6 +3939,13 @@
         "software": "2.0 or higher",
         "identifier": "URS133",
         "company": "USA PLUS ELD"
+    },
+    {
+        "device": "Geotab Drive for Volvo Trucks",
+        "model": "TGW 2.1, TGW3",
+        "software": "5.7.1903 and higher",
+        "identifier": "VOLVO1",
+        "company": "Geotab Inc."
     },
     {
         "device": "\"Compliance Now\" Hours of Service",
@@ -4130,13 +4179,6 @@
         "company": "S13 INC"
     },
     {
-        "device": "ELDX",
-        "model": "XGEOAN",
-        "software": "1.0 and Above",
-        "identifier": "ELDX03",
-        "company": "Gorilla Fleet Safety, LLC"
-    },
-    {
         "device": "J. J. Keller ELD – Android BYOD 2.5 and Compliance Tablet",
         "model": "25A",
         "software": "Version 3 and higher",
@@ -4195,7 +4237,7 @@
     {
         "device": "Apollo ELD (at.eDash)",
         "model": "Apollo",
-        "software": "235-Android 198-iOS",
+        "software": "252-Android 240-iOS",
         "identifier": "APOLLO",
         "company": "Apollo ELD"
     },
@@ -4288,14 +4330,14 @@
         "model": "iOS & Atlas",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & ATrack AX11",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "DSG ELOGS",
@@ -4309,7 +4351,7 @@
         "model": "Android & Calamp 3640",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "GTS ELD",
@@ -4338,6 +4380,13 @@
         "software": "1.0.0 or higher",
         "identifier": "USPWR1",
         "company": "POWER ELD LLC"
+    },
+    {
+        "device": "ELDX",
+        "model": "XGEOAN",
+        "software": "1.0 and Above",
+        "identifier": "ELDX03",
+        "company": "Gorilla Fleet Safety, LLC"
     },
     {
         "device": "FleetHunt ELD",
@@ -4373,6 +4422,13 @@
         "software": "1.0.0",
         "identifier": "NELD10",
         "company": "Novalinq, Inc."
+    },
+    {
+        "device": "TRUE ROAD ELOGS",
+        "model": "TRROLG-01X",
+        "software": "2.18.12 or above",
+        "identifier": "TRE01X",
+        "company": "True Road Elogs"
     },
     {
         "device": "StreetEagle ELD with SE Utility Tablet",
@@ -4579,8 +4635,8 @@
     },
     {
         "device": "SURE TIME LOGS ELD",
-        "model": "SRS",
-        "software": "higher than 2.4.3",
+        "model": "STLZ7",
+        "software": "2.5.14 AND LATER",
         "identifier": "SRS122",
         "company": "Sure Time Logs"
     },
@@ -4669,13 +4725,6 @@
         "company": "NEXT STEP TM CORPORATION"
     },
     {
-        "device": "FleetLocate Compliance powered by Gorilla Safety",
-        "model": "FleetLocate FL360",
-        "software": "FleetLocate Shift",
-        "identifier": "FL0002",
-        "company": "Spireon Inc."
-    },
-    {
         "device": "Penske Driver™ App – HOS Module for Android",
         "model": "PTL-Driver-HOS-Android-2",
         "software": "9.0.5 or higher",
@@ -4758,13 +4807,6 @@
         "software": "20.10+",
         "identifier": "MiXR40",
         "company": "MiX Telematics"
-    },
-    {
-        "device": "mySOAR by SOAR Solutions",
-        "model": "Android & PT40",
-        "software": "5.0 and higher",
-        "identifier": "SOAR12",
-        "company": "SOAR Solutions, Inc."
     },
     {
         "device": "WORLD TRUCKING ELD",
@@ -4858,13 +4900,6 @@
         "company": "Simple Elog Inc"
     },
     {
-        "device": "MotionEld",
-        "model": "Android / IOS and Pacific Track",
-        "software": "1.0 and above",
-        "identifier": "MELD01",
-        "company": "Unity ELD LLC"
-    },
-    {
         "device": "Command Alkon Trackit",
         "model": "CATT01",
         "software": "1.0 and Above",
@@ -4939,7 +4974,7 @@
         "model": "Android & CalAmp Veosphere",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "\"Gorilla Fleet Intelligence\" by Gorilla Safety ioSIX and Android",
@@ -4949,11 +4984,25 @@
         "company": "Gorilla Fleet Safety, LLC"
     },
     {
+        "device": "mySOAR by SOAR Solutions",
+        "model": "Android & PT40",
+        "software": "5.0 and higher",
+        "identifier": "SOAR12",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "FleetLocate Compliance powered by Gorilla Safety",
+        "model": "FleetLocate FL360",
+        "software": "FleetLocate Shift",
+        "identifier": "FL0002",
+        "company": "Spireon Inc."
+    },
+    {
         "device": "Hours Of Service",
         "model": "iOS & ATrack AX7B",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "OLOGIS ELD",
@@ -4967,7 +5016,7 @@
         "model": "iOS and CalAmp 3640",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "pulseELD",
@@ -4991,18 +5040,25 @@
         "company": "Limo & Bus Compliance LLC"
     },
     {
+        "device": "MotionEld",
+        "model": "Android / IOS and Pacific Track",
+        "software": "1.0 and above",
+        "identifier": "MELD01",
+        "company": "Unity ELD LLC"
+    },
+    {
         "device": "Hours Of Service",
         "model": "iOS & Xirgo",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & Geotab",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
@@ -5440,8 +5496,8 @@
     },
     {
         "device": "INSTANT ELD",
-        "model": "IRS",
-        "software": "2.0 or higher",
+        "model": "INANT",
+        "software": "2.21.4 and later",
         "identifier": "IRS187",
         "company": "INSTANT ELD INC"
     },
@@ -5609,7 +5665,7 @@
     {
         "device": "Helios ELD",
         "model": "Helios VK",
-        "software": "220 or higher",
+        "software": "252 Android",
         "identifier": "HELS22",
         "company": "Apollo ELD"
     },
@@ -5691,13 +5747,6 @@
         "company": "MAUMAU LLC"
     },
     {
-        "device": "GoodDealGPS",
-        "model": "GDELD1000",
-        "software": "1.0.0 or higher",
-        "identifier": "GDGGPS",
-        "company": "Bransys"
-    },
-    {
         "device": "PLANET HALO ELD",
         "model": "PTHL",
         "software": "higher than 2.23.12",
@@ -5723,28 +5772,35 @@
         "model": "iOS & Trackit",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & Digi WVA",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "Hours Of Service",
         "model": "Android & ATrack AX7B",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "GoodDealGPS",
+        "model": "GDELD1000",
+        "software": "9.16.0 or higher",
+        "identifier": "GDGGPS",
+        "company": "Bransys"
     },
     {
         "device": "Hours Of Service",
         "model": "iOS & ATrack AX11",
         "software": "2116.21092",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     },
     {
         "device": "FleetHunt ELD",
@@ -5765,6 +5821,6 @@
         "model": "Android & BAFX/ELM327",
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
-        "company": "VisTracks, Inc."
+        "company": "Azuga, Inc."
     }
 ]
