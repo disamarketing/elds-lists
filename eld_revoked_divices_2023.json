@@ -238,6 +238,13 @@
         "company": "Trucking Hub, LLC"
     },
     {
+        "device": "CloudELD",
+        "model": "SmartTab",
+        "software": "1.0.00",
+        "identifier": "ETSELD",
+        "company": "LiRCTek Inc"
+    },
+    {
         "device": "ELD Fleet",
         "model": "iOS & IOSiX",
         "software": "2116.210920 & up",
