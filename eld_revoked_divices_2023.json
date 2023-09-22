@@ -847,6 +847,13 @@
         "company": "Mastrack"
     },
     {
+        "device": "CDSUS ELD",
+        "model": "CRS",
+        "software": "2.0 or higher",
+        "identifier": "CRS167",
+        "company": "CDSUS"
+    },
+    {
         "device": "CMG ELD",
         "model": "CRS",
         "software": "2.0 or higher",
