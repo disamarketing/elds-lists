@@ -3523,7 +3523,7 @@
     {
         "device": "Rigbot",
         "model": "RBV002",
-        "software": "11.0.45 and Newer",
+        "software": "11.0.53 and Newer",
         "identifier": "RBELD2",
         "company": "Rigbot LLC"
     },
@@ -4258,7 +4258,7 @@
     {
         "device": "Rigbot",
         "model": "RBV001",
-        "software": "11.0.45 and Newer",
+        "software": "11.0.53 and Newer",
         "identifier": "RBELD1",
         "company": "Rigbot LLC"
     },
