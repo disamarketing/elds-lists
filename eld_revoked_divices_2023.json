@@ -924,7 +924,7 @@
         "company": "Vnomics Corp"
     },
     {
-        "device": "\"EDGE MDT\"",
+        "device": "\"\"\"EDGE MDT\"\"\"",
         "model": "iGbl E210",
         "software": "v. 55 and newer",
         "identifier": "IGBE61",
@@ -985,6 +985,13 @@
         "software": "AA1839R or Later",
         "identifier": "MCP200",
         "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "WORLD TRUCKING ELD",
+        "model": "WRS",
+        "software": "2.12-1 or up.",
+        "identifier": "WRS196",
+        "company": "WORLD TRUCKING LLC"
     },
     {
         "device": "SECURE ELD",
@@ -1057,7 +1064,7 @@
         "company": "BSM Technologies Ltd."
     },
     {
-        "device": "\"EDGE MDT\"",
+        "device": "\"\"\"EDGE MDT\"\"\"",
         "model": "IGBL-E215",
         "software": "v. 55 or higher",
         "identifier": "IGBE61",
