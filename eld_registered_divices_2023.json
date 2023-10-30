@@ -352,7 +352,7 @@
     {
         "device": "POWERTRUCKS ELD",
         "model": "PRS",
-        "software": "2.20.20 or above",
+        "software": "2.78.00",
         "identifier": "PRS211",
         "company": "Miran Support LLC"
     },
@@ -560,7 +560,7 @@
         "company": "TRANS ATLANTIC GSV, INC."
     },
     {
-        "device": "\"Prime8\" ELD by Gorilla Safety",
+        "device": "\"\"\"Prime8\"\" ELD by Gorilla Safety\"",
         "model": "GS0001",
         "software": "3.3.5 And Above",
         "identifier": "GS0001",
@@ -651,6 +651,20 @@
         "company": "3MD Solutions, LLC"
     },
     {
+        "device": "EnterpriseELD",
+        "model": "GDELD1000",
+        "software": "1.0.0 or later",
+        "identifier": "ETPGPS",
+        "company": "ENTERPRISE GPS INC"
+    },
+    {
+        "device": "Sentry ELD",
+        "model": "STRY05",
+        "software": "2.23-11 and higher",
+        "identifier": "SEN389",
+        "company": "Sentry ELD"
+    },
+    {
         "device": "DriverConnect",
         "model": "DC 200 Fleet",
         "software": "Android6.4;iOS2.3",
@@ -730,7 +744,7 @@
     {
         "device": "Geowiz ELD",
         "model": "IO100",
-        "software": "v 5.5.0.0 and higher",
+        "software": "v 6.3.3.2 and higher",
         "identifier": "FF44EE",
         "company": "RoadReady Solutions (formerly GeoSpace Labs)"
     },
@@ -820,7 +834,7 @@
     },
     {
         "device": "Geometris with Android",
-        "model": "0",
+        "model": "#REF!",
         "software": "1.0.1905.190529",
         "identifier": "G4HHOS",
         "company": "G4H LLC"
@@ -1281,7 +1295,7 @@
         "company": "Speed ELD"
     },
     {
-        "device": "\"Gorilla Fleet Intelligence\" by Gorilla Safety Pacific Track and iOS",
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety Pacific Track and iOS\"",
         "model": "Gorilla Fleet Intelligence ELD PI",
         "software": "3.3.5 And Above",
         "identifier": "GS0004",
@@ -1307,6 +1321,13 @@
         "software": "2.22.06 and later",
         "identifier": "CLB892",
         "company": "COLIBRI ELD LLC"
+    },
+    {
+        "device": "Simba ELD",
+        "model": "SIMB-L",
+        "software": "2.21.10 or higher",
+        "identifier": "SMB490",
+        "company": "SIMBA ELD LLC"
     },
     {
         "device": "Hours Of Service",
@@ -1379,6 +1400,13 @@
         "company": "DQ Technologies"
     },
     {
+        "device": "SBA ELD",
+        "model": "S-B-A",
+        "software": "2.22.09 and up",
+        "identifier": "SBA493",
+        "company": "Secure Path INC"
+    },
+    {
         "device": "Century ELD",
         "model": "CENTYLD",
         "software": "2.19.10 and above",
@@ -1398,6 +1426,13 @@
         "software": "9.0.03",
         "identifier": "ESTAB7",
         "company": "LiRCTek Inc"
+    },
+    {
+        "device": "FM ELD",
+        "model": "FMV1",
+        "software": "FM V1.0.68.115",
+        "identifier": "FMELDI",
+        "company": "FM ELD"
     },
     {
         "device": "Chamelogs",
@@ -1464,7 +1499,7 @@
     },
     {
         "device": "V-Series with iOn Hours",
-        "model": "0",
+        "model": "#REF!",
         "software": "1.0.1625.6584",
         "identifier": "HOS001",
         "company": "CalAmp Inc"
@@ -1862,13 +1897,6 @@
         "company": "Torch Eld"
     },
     {
-        "device": "Orion eLog",
-        "model": "354",
-        "software": "2.0.398",
-        "identifier": "674663",
-        "company": "Praxis Technologies, Inc."
-    },
-    {
         "device": "OSON ELOGS",
         "model": "OSNS",
         "software": "2.15.37 or higher",
@@ -2072,6 +2100,13 @@
         "company": "Gorilla Fleet Safety, LLC"
     },
     {
+        "device": "Orion eLog",
+        "model": "354",
+        "software": "2.0.416",
+        "identifier": "674663",
+        "company": "Praxis Technologies, Inc."
+    },
+    {
         "device": "Canada & US by Gorilla Safety",
         "model": "CUSGEOAP",
         "software": "1.0 and Above",
@@ -2084,6 +2119,13 @@
         "software": "2.5.31 or higher",
         "identifier": "UPS123",
         "company": "United Parcel Service"
+    },
+    {
+        "device": "SL22 ELD",
+        "model": "Android & Geometris",
+        "software": "2023.07.20",
+        "identifier": "2202SL",
+        "company": "SL22 ELD, LLC"
     },
     {
         "device": "Zonar Logs",
@@ -2403,7 +2445,7 @@
     {
         "device": "ELOG365",
         "model": "ERS",
-        "software": "2.26.99 or higher",
+        "software": "2.48.0 or higher",
         "identifier": "ERS127",
         "company": "EZ ELD Solutions Inc"
     },
@@ -2779,7 +2821,7 @@
         "company": "Utech Inc."
     },
     {
-        "device": "\"All in one\" Ez-Simple ELD by Ezlogz",
+        "device": "\"\"\"All in one\"\" Ez-Simple ELD by Ezlogz\"",
         "model": "EZ101",
         "software": "iOS.2.4.4/GP2.1.45UP",
         "identifier": "EZLELD",
@@ -2877,7 +2919,7 @@
         "company": "3MD Solutions, LLC"
     },
     {
-        "device": "\"Gorilla Fleet Intelligence\" by Gorilla Safety",
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety\"",
         "model": "Gorilla Fleet Intelligence ELD",
         "software": "3.3.5 And Above",
         "identifier": "GS0002",
@@ -2996,6 +3038,13 @@
         "company": "3MD Solutions, LLC"
     },
     {
+        "device": "HOS ELD",
+        "model": "BA 9000",
+        "software": "1.0.0 or newer",
+        "identifier": "EL1H0S",
+        "company": "HOS ELD"
+    },
+    {
         "device": "Hours Of Service",
         "model": "Android & GenEx GNX-6",
         "software": "3.0.2116.210920",
@@ -3031,7 +3080,7 @@
         "company": "RCO Services"
     },
     {
-        "device": "\"All-In-One\" ELD by HOS247",
+        "device": "\"\"\"All-In-One\"\" ELD by HOS247\"",
         "model": "FLT4",
         "software": "4.1 and up",
         "identifier": "247HOS",
@@ -3096,7 +3145,7 @@
     {
         "device": "Trux ELD",
         "model": "TRUX100",
-        "software": "v 5.5.0.0 and Higher",
+        "software": "v 6.3.3.2 and higher",
         "identifier": "FF55EE",
         "company": "RoadReady Solutions (formerly GeoSpace Labs)"
     },
@@ -3150,13 +3199,6 @@
         "company": "AikSphere Technologies Inc"
     },
     {
-        "device": "TruckingOffice ELD",
-        "model": "1",
-        "software": "3.5.0",
-        "identifier": "TO_ELD",
-        "company": "TruckingOffice"
-    },
-    {
         "device": "CarJack ELD",
         "model": "Blue Link",
         "software": "3.0.6",
@@ -3178,9 +3220,9 @@
         "company": "Procuro, Inc"
     },
     {
-        "device": "\"Journey 8\" and \"Journey 8R\"",
+        "device": "\"\"\"Journey 8\"\" and \"\"Journey 8R\"\"\"",
         "model": "iGBL J8R",
-        "software": "7.1.78.208",
+        "software": "7.1.79.215",
         "identifier": "IGBW61",
         "company": "iGlobal LLC"
     },
@@ -3514,13 +3556,6 @@
         "company": "Alfa ELD"
     },
     {
-        "device": "TeraHubELD",
-        "model": "THELD1000",
-        "software": "1.0.0",
-        "identifier": "THGPS1",
-        "company": "Terahub"
-    },
-    {
         "device": "Rigbot",
         "model": "RBV002",
         "software": "11.0.53 and Newer",
@@ -3654,7 +3689,7 @@
         "company": "Azuga, Inc."
     },
     {
-        "device": "\"Gorilla Fleet Intelligence\" by Gorilla Safety Pacific Track and Android",
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety Pacific Track and Android\"",
         "model": "Gorilla Fleet Intelligence ELD PA",
         "software": "3.3.5 And Above",
         "identifier": "GS0003",
@@ -3675,11 +3710,32 @@
         "company": "THE BOSS ELD"
     },
     {
-        "device": "\"Gorilla Fleet Intelligence\" by Gorilla Safety ioSIX and iOS",
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety ioSIX and iOS\"",
         "model": "Gorilla Fleet Intelligence ELD II",
         "software": "3.4.2 And Above",
         "identifier": "GS0005",
         "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "ZMS ELD",
+        "model": "ZMS",
+        "software": "1.0.1",
+        "identifier": "ZMS001",
+        "company": "ZNS LLC"
+    },
+    {
+        "device": "PREMIERRIDE LOGS",
+        "model": "1RIDE",
+        "software": "2.22-10 or later",
+        "identifier": "PRD391",
+        "company": "PREMIERRIDE LOGS LLC"
+    },
+    {
+        "device": "ID ELD",
+        "model": "IDELD01",
+        "software": "4.5.0",
+        "identifier": "IDE001",
+        "company": "UELD"
     },
     {
         "device": "Pro-TracKing ELD (iOS version)",
@@ -3710,11 +3766,39 @@
         "company": "Smart eLog LLC"
     },
     {
+        "device": "RIGHT LOGS ELD",
+        "model": "RIG-01",
+        "software": "2.23-12",
+        "identifier": "RGH488",
+        "company": "Right Eld Inc."
+    },
+    {
+        "device": "TruckingOffice ELD",
+        "model": "1",
+        "software": "3.5.0",
+        "identifier": "TO_ELD",
+        "company": "TruckingOffice"
+    },
+    {
+        "device": "TeraHubELD",
+        "model": "THELD1000",
+        "software": "1.0.0",
+        "identifier": "THGPS1",
+        "company": "Terahub"
+    },
+    {
         "device": "Forward Thinking Systems - Field Warrior ELD (Garmin)",
         "model": "FW-Garmin",
         "software": "4.1.114",
         "identifier": "FTSFW2",
         "company": "Forward Thinking Systems LLC"
+    },
+    {
+        "device": "1 S EW ELD",
+        "model": "SEWL",
+        "software": "2.21.02 and above",
+        "identifier": "SEW929",
+        "company": "1 S EW ELD INC."
     },
     {
         "device": "EMPIRE LOGS",
@@ -3759,6 +3843,13 @@
         "company": "Smart eLog LLC"
     },
     {
+        "device": "Azuga ELD",
+        "model": "iOS & Danlaw",
+        "software": "2227.230724.11",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc."
+    },
+    {
         "device": "Companion",
         "model": "TD4230",
         "software": "1.1",
@@ -3787,7 +3878,7 @@
         "company": "Motive Technologies, Inc."
     },
     {
-        "device": "\" DataTrack247 ELD\"",
+        "device": "\"\"\" DataTrack247 ELD\"\"\"",
         "model": "DT247-BT-ELD",
         "software": "3.0.6",
         "identifier": "WLI001",
@@ -3823,7 +3914,7 @@
     },
     {
         "device": "GPSi Fleet",
-        "model": "0",
+        "model": "#REF!",
         "software": "1.0.1625.6584",
         "identifier": "TTELD1",
         "company": "GPSi"
@@ -4018,7 +4109,7 @@
         "company": "Geotab Inc."
     },
     {
-        "device": "\"Compliance Now\" Hours of Service",
+        "device": "\"\"\"Compliance Now\"\" Hours of Service\"",
         "model": "Android & CalAmp 4230",
         "software": "1.0.1905.190710",
         "identifier": "GEO001",
@@ -4508,6 +4599,13 @@
         "company": "True Road Elogs"
     },
     {
+        "device": "Light and Travel ELD",
+        "model": "LNTRA",
+        "software": "2.19.08 and later",
+        "identifier": "LNT780",
+        "company": "LIGHT AND TRAVEL LLC"
+    },
+    {
         "device": "StreetEagle ELD with SE Utility Tablet",
         "model": "ELDSEU",
         "software": "1.1.0.0 or above",
@@ -4608,7 +4706,7 @@
     {
         "device": "AKAL ELD",
         "model": "AKAL100",
-        "software": "v 5.5.0.0 And Higher",
+        "software": "v 6.3.3.2 and higher",
         "identifier": "FF66EE",
         "company": "RoadReady Solutions (formerly GeoSpace Labs)"
     },
@@ -4846,7 +4944,7 @@
     {
         "device": "ELOG42",
         "model": "ERS",
-        "software": "2.18.4 and later",
+        "software": "2.29 and later",
         "identifier": "ERS156",
         "company": "Leko INC"
     },
@@ -4884,13 +4982,6 @@
         "software": "20.10+",
         "identifier": "MiXR40",
         "company": "MiX Telematics"
-    },
-    {
-        "device": "WORLD TRUCKING ELD",
-        "model": "WRS",
-        "software": "2.12-1 or up.",
-        "identifier": "WRS196",
-        "company": "WORLD TRUCKING LLC"
     },
     {
         "device": "INFINITY ELD",
@@ -4956,7 +5047,7 @@
         "company": "ORBCOMM"
     },
     {
-        "device": "\"HOS Reporter PLUS\"",
+        "device": "\"\"\"HOS Reporter PLUS\"\"\"",
         "model": "XEL-003",
         "software": "215 or Higher",
         "identifier": "XEL003",
@@ -5047,7 +5138,7 @@
         "company": "Azuga, Inc."
     },
     {
-        "device": "\"Gorilla Fleet Intelligence\" by Gorilla Safety ioSIX and Android",
+        "device": "\"\"\"Gorilla Fleet Intelligence\"\" by Gorilla Safety ioSIX and Android\"",
         "model": "Gorilla Fleet Intelligence ELD IA",
         "software": "3.3.5 And Above",
         "identifier": "GS0006",
@@ -5134,6 +5225,20 @@
         "device": "Hours Of Service",
         "model": "Android & Geotab",
         "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc."
+    },
+    {
+        "device": "MT Eld",
+        "model": "GDELD1000",
+        "software": "1.0.0 or newer",
+        "identifier": "MT3ELD",
+        "company": "MT ELD INC"
+    },
+    {
+        "device": "Azuga ELD",
+        "model": "Android & Danlaw",
+        "software": "3.0.2220.230627",
         "identifier": "HOS001",
         "company": "Azuga, Inc."
     },
@@ -5615,8 +5720,8 @@
     },
     {
         "device": "TN360 ELD",
-        "model": "Android OS Version 9 +",
-        "software": "1.3.8.50+",
+        "model": "Android OS Version 9 +; iOS 12.0+",
+        "software": "1.3.8.50+;iOS 2.0.0+",
         "identifier": "TTN001",
         "company": "Teletrac Navman"
     },
@@ -5686,7 +5791,7 @@
     {
         "device": "TST 1 ELD",
         "model": "TRS",
-        "software": "2.23.11 and later",
+        "software": "2.43.3",
         "identifier": "TRS220",
         "company": "TST GROUP INC."
     },
@@ -5859,6 +5964,13 @@
         "company": "Ensi Log"
     },
     {
+        "device": "MYLOGS ELD",
+        "model": "MYLGS",
+        "software": "1",
+        "identifier": "MRS201",
+        "company": "Mylogs Inc."
+    },
+    {
         "device": "Green Light ELD",
         "model": "PT30",
         "software": "1.01.01",
@@ -5913,6 +6025,13 @@
         "software": "1.0.0",
         "identifier": "TTGPS1",
         "company": "Transit Tracking"
+    },
+    {
+        "device": "TRC eLOGS",
+        "model": "TRCLGS",
+        "software": "2.17.04 or later",
+        "identifier": "TRC880",
+        "company": "TRACLOG ELD Solutions"
     },
     {
         "device": "Hours Of Service",
