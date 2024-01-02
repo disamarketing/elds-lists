@@ -175,6 +175,13 @@
         "company": "GPS Insight"
     },
     {
+        "device": "GOLDEN ELD",
+        "model": "GRS",
+        "software": "2.50.15 or above",
+        "identifier": "GRS199",
+        "company": "GOLDEN ELD"
+    },
+    {
         "device": "ELDMANDATE (Android ELM327)",
         "model": "LBT26017",
         "software": "1.0.1905.190710 & up",
@@ -301,6 +308,13 @@
         "company": "Earthwave Technologies"
     },
     {
+        "device": "ELD-2000",
+        "model": "ELD-2000",
+        "software": "10.0.4A or higher",
+        "identifier": "GPSI01",
+        "company": "GPS Insight"
+    },
+    {
         "device": "FleetConnect",
         "model": "FC-SQ-BT-ELD-001",
         "software": "1",
@@ -355,6 +369,13 @@
         "software": "2",
         "identifier": "HAUL02",
         "company": "Xpress Technologies, Inc."
+    },
+    {
+        "device": "TruckX-ELD",
+        "model": "XELD",
+        "software": "2.1.13+",
+        "identifier": "TRX927",
+        "company": "TruckX Inc"
     },
     {
         "device": "Matrack SmartELD for Android",
@@ -460,6 +481,20 @@
         "software": "3.0.2116.210920",
         "identifier": "CSE001",
         "company": "Computer Software Engineers"
+    },
+    {
+        "device": "ELD4TRUCKING",
+        "model": "ERS",
+        "software": "2.21.32 and later",
+        "identifier": "ERS174",
+        "company": "ELD4TRUCKING LLC"
+    },
+    {
+        "device": "ELD 2 GO",
+        "model": "GOMAX",
+        "software": "2.40.0 and later",
+        "identifier": "ERS200",
+        "company": "ELD 2 GO"
     },
     {
         "device": "ELD ONE",
@@ -581,6 +616,13 @@
         "company": "GPS Trackit"
     },
     {
+        "device": "ELOG365",
+        "model": "ERS",
+        "software": "2.48.0 or higher",
+        "identifier": "ERS127",
+        "company": "EZ ELD Solutions Inc"
+    },
+    {
         "device": "M2M ELD",
         "model": "M2M Geometris (iOS)",
         "software": "2022.201222 +",
@@ -635,6 +677,13 @@
         "software": "2.0 or higher",
         "identifier": "ARS194",
         "company": "All Truckers ELD"
+    },
+    {
+        "device": "STEER RIGHT ELD",
+        "model": "STRID",
+        "software": "2.15-15 or higher.",
+        "identifier": "SRS273",
+        "company": "STEER RIGHT LLC"
     },
     {
         "device": "TestV0",
@@ -924,7 +973,7 @@
         "company": "Vnomics Corp"
     },
     {
-        "device": "\"\"\"EDGE MDT\"\"\"",
+        "device": "\"EDGE MDT\"",
         "model": "iGbl E210",
         "software": "v. 55 and newer",
         "identifier": "IGBE61",
@@ -1064,7 +1113,7 @@
         "company": "BSM Technologies Ltd."
     },
     {
-        "device": "\"\"\"EDGE MDT\"\"\"",
+        "device": "\"EDGE MDT\"",
         "model": "IGBL-E215",
         "software": "v. 55 or higher",
         "identifier": "IGBE61",
@@ -1120,6 +1169,13 @@
         "company": "Satinder Singh"
     },
     {
+        "device": "TST 1 ELD",
+        "model": "TRS",
+        "software": "2.43.3",
+        "identifier": "TRS220",
+        "company": "TST GROUP INC."
+    },
+    {
         "device": "FALCON ELD",
         "model": "FTX ELD",
         "software": "1.0.0",
@@ -1132,5 +1188,12 @@
         "software": "2.4",
         "identifier": "AWTELD",
         "company": "ALL-WAYS TRACK, LLC."
+    },
+    {
+        "device": "MiX ELD Driver Logs",
+        "model": "MDL1",
+        "software": "7.1 or higher",
+        "identifier": "MDL001",
+        "company": "Trimble"
     }
 ]
