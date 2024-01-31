@@ -182,6 +182,41 @@
         "company": "GOLDEN ELD"
     },
     {
+        "device": "11",
+        "model": "22",
+        "software": "33",
+        "identifier": "123456",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "11",
+        "model": "22",
+        "software": "33",
+        "identifier": "123456",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "1-Nov",
+        "model": "22",
+        "software": "33",
+        "identifier": "123456",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "Irina ELD",
+        "model": "EL350",
+        "software": "2.22-06 and later",
+        "identifier": "SEL983",
+        "company": "Tenor ELD LLC"
+    },
+    {
+        "device": "11",
+        "model": "22",
+        "software": "33",
+        "identifier": "123456",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
         "device": "ELDMANDATE (Android ELM327)",
         "model": "LBT26017",
         "software": "1.0.1905.190710 & up",
@@ -1195,5 +1230,26 @@
         "software": "7.1 or higher",
         "identifier": "MDL001",
         "company": "Trimble"
+    },
+    {
+        "device": "11",
+        "model": "22",
+        "software": "33",
+        "identifier": "123456",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "11",
+        "model": "22",
+        "software": "33",
+        "identifier": "123456",
+        "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "11",
+        "model": "22",
+        "software": "33",
+        "identifier": "123456",
+        "company": "SOAR Solutions, Inc."
     }
 ]
