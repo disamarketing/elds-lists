@@ -147,6 +147,13 @@
         "company": "Arion Tech Inc."
     },
     {
+        "device": "KSK ELD",
+        "model": "KSK1.0",
+        "software": "android4.4&iOS3.4&up",
+        "identifier": "KSKA01",
+        "company": "KSK Group, Inc."
+    },
+    {
         "device": "ELD ELD",
         "model": "1020",
         "software": "1",
@@ -175,11 +182,25 @@
         "company": "GPS Insight"
     },
     {
+        "device": "TT ELD 1010",
+        "model": "IOS-1010-WBG",
+        "software": "4.4.7 and higher",
+        "identifier": "TTAH48",
+        "company": "TT ELD Inc"
+    },
+    {
         "device": "GOLDEN ELD",
         "model": "GRS",
         "software": "2.50.15 or above",
         "identifier": "GRS199",
         "company": "GOLDEN ELD"
+    },
+    {
+        "device": "TT ELD 30",
+        "model": "PT30",
+        "software": "4.4.7 and higher",
+        "identifier": "TTAH47",
+        "company": "TT ELD Inc"
     },
     {
         "device": "11",
@@ -1099,6 +1120,20 @@
         "company": "Darex Solutions"
     },
     {
+        "device": "CI ELD LOGS",
+        "model": "CILGS",
+        "software": "2.14.8 or higher",
+        "identifier": "CRS270",
+        "company": "CV Options LLC"
+    },
+    {
+        "device": "Inthinc Connect",
+        "model": "WS850",
+        "software": "3.5",
+        "identifier": "ELD850",
+        "company": "ORBCOMM"
+    },
+    {
         "device": "Titan GPS Logbook",
         "model": "TT1800 ELD Android",
         "software": "1.0.1905.190710 +",
@@ -1195,6 +1230,13 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch"
+    },
+    {
+        "device": "CN ELD",
+        "model": "CNCTNOW",
+        "software": "2.101.82 and above",
+        "identifier": "CRS235",
+        "company": "ELD CONNECTION"
     },
     {
         "device": "Keep Truckin",
