@@ -240,6 +240,14 @@
         "": ""
     },
     {
+        "device": "Hours Of Service",
+        "model": "iOS & GenEx GNX-6",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
         "device": "TT ELD 30",
         "model": "PT30",
         "software": "4.4.7 and higher",
@@ -293,14 +301,6 @@
         "software": "1.4.72 or higher",
         "identifier": "AGLX01",
         "company": "Linxup",
-        "": ""
-    },
-    {
-        "device": "ELDMANDATE (Android ELM327)",
-        "model": "LBT26017",
-        "software": "1.0.1905.190710 & up",
-        "identifier": "EMpt30",
-        "company": "ELD Mandate",
         "": ""
     },
     {
@@ -437,6 +437,38 @@
         "software": "2120.211209 & up",
         "identifier": "LXVT01",
         "company": "Linxup",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Atlas",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours of Service",
+        "model": "Android & Trackit",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Astus",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "GOLDEN ELD 2.0",
+        "model": "GRS",
+        "software": "2.55 or above",
+        "identifier": "GRS200",
+        "company": "GOLDEN ELD",
         "": ""
     },
     {
@@ -720,14 +752,6 @@
         "": ""
     },
     {
-        "device": "ELDMANDATE (Android Geometris)",
-        "model": "LBT26018",
-        "software": "1.0.1905.190710",
-        "identifier": "EMpt30",
-        "company": "ELD Mandate",
-        "": ""
-    },
-    {
         "device": "Trimble TrimFleet Mobile TVG850",
         "model": "TFM001 (TVG 850 & Samsung or TCT Display)",
         "software": "v6.0.1A",
@@ -904,11 +928,35 @@
         "": ""
     },
     {
+        "device": "Hours Of Service",
+        "model": "iOS & ATrack AK11",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
         "device": "TestV0",
         "model": "V0",
         "software": "v0.0.0",
         "identifier": "DEV000",
         "company": "OpenEyes lnsurance Agency Inc",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & GenEx GNX-6",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & ATrack AK11",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
         "": ""
     },
     {
@@ -1045,6 +1093,22 @@
         "software": "3.2.1 and higher",
         "identifier": "RIDER8",
         "company": "Darex Solutions",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Suntech ST20",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & Astus",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
         "": ""
     },
     {
@@ -1208,6 +1272,22 @@
         "": ""
     },
     {
+        "device": "Hours Of Service",
+        "model": "iOS & Atlas",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & ATrack AX11",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
         "device": "J. J. Keller ELD - Android Tablet 2.0",
         "model": "20C",
         "software": "Version 3 and higher",
@@ -1248,7 +1328,7 @@
         "": ""
     },
     {
-        "device": "\"\"\"EDGE MDT\"\"\"",
+        "device": "\"\"EDGE MDT\"\"",
         "model": "iGbl E210",
         "software": "v. 55 and newer",
         "identifier": "IGBE61",
@@ -1352,6 +1432,14 @@
         "": ""
     },
     {
+        "device": "Hours Of Service",
+        "model": "iOS & ATrack AX7B",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
         "device": "QUICK ELOGS",
         "model": "QE1000",
         "software": "2.87.06 or up",
@@ -1432,7 +1520,7 @@
         "": ""
     },
     {
-        "device": "\"\"\"EDGE MDT\"\"\"",
+        "device": "\"\"EDGE MDT\"\"",
         "model": "IGBL-E215",
         "software": "v. 55 or higher",
         "identifier": "IGBE61",
@@ -1525,6 +1613,46 @@
         "software": "2.4",
         "identifier": "AWTELD",
         "company": "ALL-WAYS TRACK, LLC.",
+        "": ""
+    },
+    {
+        "device": "Hours of Service",
+        "model": "iOS & Trackit",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & Digi WVA",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & ATrack AX7B",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "iOS & ATrack AX11",
+        "software": "2116.21092",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
+        "": ""
+    },
+    {
+        "device": "Hours Of Service",
+        "model": "Android & BAFX/ELM327",
+        "software": "3.0.2116.210920",
+        "identifier": "HOS001",
+        "company": "Azuga, Inc.",
         "": ""
     },
     {
