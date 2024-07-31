@@ -352,6 +352,14 @@
         "": ""
     },
     {
+        "device": "CTE-LOG ELD",
+        "model": "CRS",
+        "software": "2.87.0 or up.",
+        "identifier": "CRS102",
+        "company": "CTE LOG ELD LLC",
+        "": ""
+    },
+    {
         "device": "e-Track Certified",
         "model": "ATS001",
         "software": "1.1.0.0 or above",
@@ -560,7 +568,7 @@
         "": ""
     },
     {
-        "device": "TruckX-ELD",
+        "device": "TruckX-ELD n/k/a ELD 0.2",
         "model": "XELD",
         "software": "2.1.13+",
         "identifier": "TRX927",
@@ -736,11 +744,27 @@
         "": ""
     },
     {
+        "device": "Stoneridge EZ-ELD Android",
+        "model": "ELD1.0",
+        "software": "App 1.0 or higher",
+        "identifier": "EZELD1",
+        "company": "Stoneridge Inc.",
+        "": ""
+    },
+    {
         "device": "ELD MANDATE PLUS",
         "model": "EMPPT30",
         "software": "Android 23+ iOS 24+",
         "identifier": "ELDP30",
         "company": "ELD Mandate",
+        "": ""
+    },
+    {
+        "device": "ORBCOMM Driver",
+        "model": "FM5000",
+        "software": "7.18.0 or Greater",
+        "identifier": "ELDF5K",
+        "company": "ORBCOMM",
         "": ""
     },
     {
@@ -960,6 +984,14 @@
         "": ""
     },
     {
+        "device": "Inthinc Connect",
+        "model": "Pro400",
+        "software": "3.5",
+        "identifier": "PRO400",
+        "company": "ORBCOMM",
+        "": ""
+    },
+    {
         "device": "VDO RoadLog ELD",
         "model": "3290",
         "software": "12.01.00 and above",
@@ -1037,6 +1069,14 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
+        "": ""
+    },
+    {
+        "device": "TFM ELD",
+        "model": "TFM100",
+        "software": "Android4.8.1iOS3.5.2",
+        "identifier": "TFM001",
+        "company": "TFM GROUP INC.",
         "": ""
     },
     {
@@ -1421,6 +1461,14 @@
         "software": "3.2.1 and higher",
         "identifier": "RIDER8",
         "company": "Darex Solutions",
+        "": ""
+    },
+    {
+        "device": "ELD VOLT",
+        "model": "ERS",
+        "software": "2.91.1 or above",
+        "identifier": "ERS246",
+        "company": "Power Deal Corp",
         "": ""
     },
     {
