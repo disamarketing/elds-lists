@@ -743,15 +743,7 @@
         "company": "Vortex ELD",
         "": ""
     },
-    {
-        "device": "ELDMANDATE HOS",
-        "model": "EMPT30",
-        "software": "3.0.2212.220822",
-        "identifier": "EMpt30",
-        "company": "ELD Mandate",
-        "": ""
-    },
-    {
+        {
         "device": "LEON ELD",
         "model": "RR-LN",
         "software": "2.89",
@@ -1447,14 +1439,7 @@
         "company": "Interonelogs",
         "": ""
     },
-    {
-        "device": "ELD Mandate Pro",
-        "model": "ELDPRO1",
-        "software": "1.0 and above",
-        "identifier": "ELDPR1",
-        "company": "ELD Mandate",
-        "": ""
-    },
+    
     {
         "device": "Speed ELD",
         "model": "SPE 1",
@@ -2463,14 +2448,7 @@
         "company": "Legacy Safety Solutions Inc",
         "": ""
     },
-    {
-        "device": "ELD Mandate Prime",
-        "model": "EMPRM1",
-        "software": "Version 7",
-        "identifier": "EMPR63",
-        "company": "ELD Mandate",
-        "": ""
-    },
+    
     {
         "device": "MasTrack ELD",
         "model": "APO-101",
@@ -2559,14 +2537,7 @@
         "company": "GLOBAL TRUCK ELD",
         "": ""
     },
-    {
-        "device": "BLUE STAR ELD",
-        "model": "BSE",
-        "software": "1.0.0 or higher",
-        "identifier": "BSE777",
-        "company": "BLUE STAR ELD INC",
-        "": ""
-    },
+
     {
         "device": "FACTOR ELD",
         "model": "FACTORELD1",
@@ -7223,14 +7194,7 @@
         "company": "Blog ELD",
         "": ""
     },
-    {
-        "device": "BLUE STAR ELD",
-        "model": "BRS",
-        "software": "2.71.44 or above",
-        "identifier": "BRS153",
-        "company": "BLUE STAR ELD INC",
-        "": ""
-    },
+
     {
         "device": "Command Alkon TFleet TFVG850",
         "model": "TFVG850",
@@ -7799,14 +7763,7 @@
         "company": "LOGSFLY LLC",
         "": ""
     },
-    {
-        "device": "Blue Star ELD Solutions",
-        "model": "BSESOLUTIONS1",
-        "software": "1.0.0 or higher",
-        "identifier": "BSESS1",
-        "company": "TONYS P1 LOGISTICS LLC",
-        "": ""
-    },
+
     {
         "device": "CloudHawk ELD",
         "model": "CELD01",
