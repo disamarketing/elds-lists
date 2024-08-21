@@ -5,7 +5,8 @@
         "software": "1919.191121.1",
         "identifier": "GFI001",
         "company": "GFI Systems Inc.",
-        "": ""
+        "Date Revoked": "6/24/20 15:01",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CommandGPS ELD",
@@ -13,7 +14,8 @@
         "software": "1.4.72 or higher",
         "identifier": "AGCM01",
         "company": "Linxup",
-        "": ""
+        "Date Revoked": "6/3/24 13:13",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FleetOperate ELD",
@@ -21,7 +23,8 @@
         "software": "1",
         "identifier": "KR1SHN",
         "company": "Jackfruit Systems Inc.",
-        "": ""
+        "Date Revoked": "12/9/19 3:47",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Octo Fleet",
@@ -29,7 +32,8 @@
         "software": "1.0.0",
         "identifier": "OELD01",
         "company": "Octo Telematics North America, LLC",
-        "": ""
+        "Date Revoked": "11/19/18 12:19",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TSO ELD",
@@ -37,7 +41,8 @@
         "software": "1621.6202 or higher",
         "identifier": "TSO101",
         "company": "TSO MOBILE by Tracking Solutions Corp",
-        "": ""
+        "Date Revoked": "2/2/23 16:39",
+        "Status": "Self-Revoked"
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
@@ -45,7 +50,8 @@
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc.",
-        "": ""
+        "Date Revoked": "12/7/20 20:13",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trimble Oil & Gas - WinCE ELD",
@@ -53,7 +59,8 @@
         "software": "20043 or higher",
         "identifier": "TOGS03",
         "company": "Trimble Oil and Gas Services",
-        "": ""
+        "Date Revoked": "4/29/22 17:17",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Matrack SmartELD for Android",
@@ -61,7 +68,8 @@
         "software": "1.0 and above",
         "identifier": "A32V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "1/31/23 21:44",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Titan GPS Logbook",
@@ -69,7 +77,8 @@
         "software": "1905.190710 and up",
         "identifier": "THOS01",
         "company": "Certified Tracking Solutions",
-        "": ""
+        "Date Revoked": "4/14/23 20:05",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FOCUS ELD",
@@ -77,7 +86,8 @@
         "software": "1905.190710 & up",
         "identifier": "LM423X",
         "company": "Focus fleet and fuel management inc",
-        "": ""
+        "Date Revoked": "1/27/23 17:39",
+        "Status": "Self-Revoked"
     },
     {
         "device": "PRIMELD",
@@ -85,7 +95,8 @@
         "software": "2.0 or higher",
         "identifier": "PRS139",
         "company": "Primeld",
-        "": ""
+        "Date Revoked": "7/25/23 13:42",
+        "Status": "Revoked"
     },
     {
         "device": "M2M ELD",
@@ -93,7 +104,8 @@
         "software": "1.0.2022.201130 +",
         "identifier": "M2M018",
         "company": "AAMP Global (Formerly M2M In Motion)",
-        "": ""
+        "Date Revoked": "4/5/23 14:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -101,7 +113,8 @@
         "software": "2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -109,7 +122,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Atlas",
@@ -117,7 +131,8 @@
         "software": "2020.201026 or above",
         "identifier": "XEL001",
         "company": "HOS-Reporter",
-        "": ""
+        "Date Revoked": "4/2/23 11:17",
+        "Status": "Self-Revoked"
     },
     {
         "device": "XT ELD (formally called Haulynx ELD)",
@@ -125,7 +140,8 @@
         "software": "2.4",
         "identifier": "HLX001",
         "company": "Xpress Technologies, Inc.",
-        "": ""
+        "Date Revoked": "7/13/22 23:07",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - iOS",
@@ -133,7 +149,8 @@
         "software": "2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "MasTrack ELD",
@@ -141,7 +158,8 @@
         "software": "1.0.1921.191216",
         "identifier": "MAS001",
         "company": "Mastrack",
-        "": ""
+        "Date Revoked": "1/31/23 18:54",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ONE PLUS ELD (n/k/a 1 PL Logs)",
@@ -149,7 +167,8 @@
         "software": "higher than 2.25.5",
         "identifier": "ORS160",
         "company": "ONE PLUS ELD (n/k/a 1 PL LOGS)",
-        "": ""
+        "Date Revoked": "2/8/23 15:29",
+        "Status": "Revoked"
     },
     {
         "device": "SHAHAD ELD",
@@ -157,7 +176,8 @@
         "software": "2.0 or higher",
         "identifier": "SRS159",
         "company": "SHAHAD ELD",
-        "": ""
+        "Date Revoked": "3/9/21 18:53",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CyntrX ELD Pro",
@@ -165,7 +185,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "FlexCX",
         "company": "CyntrX",
-        "": ""
+        "Date Revoked": "4/12/23 14:07",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ArionT ELD",
@@ -173,7 +194,8 @@
         "software": "402 or Higher",
         "identifier": "AR1ONT",
         "company": "Arion Tech Inc.",
-        "": ""
+        "Date Revoked": "6/24/22 13:40",
+        "Status": "Revoked"
     },
     {
         "device": "KSK ELD",
@@ -181,7 +203,8 @@
         "software": "android4.4&iOS3.4&up",
         "identifier": "KSKA01",
         "company": "KSK Group, Inc.",
-        "": ""
+        "Date Revoked": "2/29/24 0:00",
+        "Status": "Revoked"
     },
     {
         "device": "ELD ELD",
@@ -189,7 +212,8 @@
         "software": "1",
         "identifier": "ES2022",
         "company": "ONE PLUS ELD (n/k/a 1 PL LOGS)",
-        "": ""
+        "Date Revoked": "5/3/22 9:21",
+        "Status": "Self-Revoked"
     },
     {
         "device": "POWERTRUCKS ELD",
@@ -197,7 +221,8 @@
         "software": "2.110.138",
         "identifier": "PRS211",
         "company": "Miran Support LLC",
-        "": ""
+        "Date Revoked": "7/23/24 13:39",
+        "Status": "Revoked"
     },
     {
         "device": "FleetHunt ELD",
@@ -205,7 +230,8 @@
         "software": "Version 1 and above",
         "identifier": "FHELD2",
         "company": "Fleethunt Technologies",
-        "": ""
+        "Date Revoked": "3/8/22 6:19",
+        "Status": "Self-Revoked"
     },
     {
         "device": "GPS Insight ELD Flex (iOS)",
@@ -213,7 +239,8 @@
         "software": "2116.21092",
         "identifier": "GPSI02",
         "company": "GPS Insight",
-        "": ""
+        "Date Revoked": "1/3/23 18:16",
+        "Status": "Self-Revoked"
     },
     {
         "device": "GPS Insight ELD Flex (Android)",
@@ -221,7 +248,8 @@
         "software": "3.0.2116.210920",
         "identifier": "GPSI02",
         "company": "GPS Insight",
-        "": ""
+        "Date Revoked": "1/3/23 18:16",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TT ELD 1010",
@@ -229,7 +257,8 @@
         "software": "4.4.7 and higher",
         "identifier": "TTAH48",
         "company": "TT ELD Inc",
-        "": ""
+        "Date Revoked": "2/29/24 14:40",
+        "Status": "Revoked"
     },
     {
         "device": "GOLDEN ELD",
@@ -237,7 +266,8 @@
         "software": "2.50.15 or above",
         "identifier": "GRS199",
         "company": "GOLDEN ELD",
-        "": ""
+        "Date Revoked": "7/25/23 13:41",
+        "Status": "Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -245,7 +275,8 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:21",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TT ELD 30",
@@ -253,7 +284,8 @@
         "software": "4.4.7 and higher",
         "identifier": "TTAH47",
         "company": "TT ELD Inc",
-        "": ""
+        "Date Revoked": "2/29/24 14:39",
+        "Status": "Revoked"
     },
     {
         "device": "11",
@@ -261,7 +293,8 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc.",
-        "": ""
+        "Date Revoked": "1/18/24 7:57",
+        "Status": "Self-Revoked"
     },
     {
         "device": "11",
@@ -269,7 +302,8 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc.",
-        "": ""
+        "Date Revoked": "1/18/24 7:57",
+        "Status": "Self-Revoked"
     },
     {
         "device": "1-Nov",
@@ -277,7 +311,8 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc.",
-        "": ""
+        "Date Revoked": "1/18/24 7:58",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Irina ELD",
@@ -285,7 +320,8 @@
         "software": "2.22-06 and later",
         "identifier": "SEL983",
         "company": "Tenor ELD LLC",
-        "": ""
+        "Date Revoked": "1/25/24 16:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "11",
@@ -293,7 +329,8 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc.",
-        "": ""
+        "Date Revoked": "1/18/24 7:58",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Linxup ELD",
@@ -301,7 +338,8 @@
         "software": "1.4.72 or higher",
         "identifier": "AGLX01",
         "company": "Linxup",
-        "": ""
+        "Date Revoked": "6/3/24 13:14",
+        "Status": "Self-Revoked"
     },
     {
         "device": "PeopleNet g3 - eDriver Logs ELD (for WinCE)",
@@ -309,7 +347,8 @@
         "software": ".19xxx or higher",
         "identifier": "g3x002",
         "company": "PeopleNet",
-        "": ""
+        "Date Revoked": "4/1/22 12:56",
+        "Status": "Self-Revoked"
     },
     {
         "device": "GFI eLogs",
@@ -317,7 +356,8 @@
         "software": "1919.191121.1",
         "identifier": "GFI001",
         "company": "GFI Systems Inc.",
-        "": ""
+        "Date Revoked": "6/24/20 15:02",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trimble FieldMaster Logs",
@@ -325,7 +365,8 @@
         "software": "v3.0 or higher",
         "identifier": "FML001",
         "company": "Trimble",
-        "": ""
+        "Date Revoked": "7/6/22 18:22",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Descartes Telematics - G Tablet",
@@ -333,7 +374,8 @@
         "software": "18.05 or higher",
         "identifier": "DSGGT1",
         "company": "The Descartes Systems Group Inc",
-        "": ""
+        "Date Revoked": "2/28/23 8:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
@@ -341,7 +383,8 @@
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc.",
-        "": ""
+        "Date Revoked": "12/7/20 20:14",
+        "Status": "Self-Revoked"
     },
     {
         "device": "AAT HOS",
@@ -349,7 +392,8 @@
         "software": "V1.4.1810",
         "identifier": "AXHOS1",
         "company": "Air Automotive Tracking Inc.",
-        "": ""
+        "Date Revoked": "4/29/21 13:34",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CTE-LOG ELD",
@@ -357,7 +401,8 @@
         "software": "2.87.0 or up.",
         "identifier": "CRS102",
         "company": "CTE LOG ELD LLC",
-        "": ""
+        "Date Revoked": "7/23/24 13:37",
+        "Status": "Revoked"
     },
     {
         "device": "e-Track Certified",
@@ -365,7 +410,8 @@
         "software": "1.1.0.0 or above",
         "identifier": "ATS001",
         "company": "ATS Fleet Management Solutions",
-        "": ""
+        "Date Revoked": "9/1/20 23:48",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TH HOS247",
@@ -373,7 +419,8 @@
         "software": "2.0 or higher",
         "identifier": "HOS247",
         "company": "Trucking Hub, LLC",
-        "": ""
+        "Date Revoked": "12/12/22 20:33",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CloudELD",
@@ -381,7 +428,8 @@
         "software": "1.0.00",
         "identifier": "ETSELD",
         "company": "LiRCTek Inc",
-        "": ""
+        "Date Revoked": "8/29/23 5:16",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -389,7 +437,8 @@
         "software": "2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - Android",
@@ -397,7 +446,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Log n Drive (Android & Pacific Track PT30)",
@@ -405,7 +455,8 @@
         "software": "3.0.2116.210920",
         "identifier": "CSE001",
         "company": "Computer Software Engineers",
-        "": ""
+        "Date Revoked": "6/27/23 19:26",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CyntrX ELD Pro",
@@ -413,7 +464,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "FlexCX",
         "company": "CyntrX",
-        "": ""
+        "Date Revoked": "4/12/23 14:07",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Nationwide ELD",
@@ -421,7 +473,8 @@
         "software": "2.0.0",
         "identifier": "NWT001",
         "company": "Nationwide Technologies Inc",
-        "": ""
+        "Date Revoked": "2/3/23 14:10",
+        "Status": "Revoked"
     },
     {
         "device": "Omnitracs Mobile Computing Platform",
@@ -429,7 +482,8 @@
         "software": "CA1399R or Later",
         "identifier": "MCP050",
         "company": "Omnitracs, LLC",
-        "": ""
+        "Date Revoked": "6/15/22 14:09",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trak iT ELD",
@@ -437,7 +491,8 @@
         "software": "2.1 or higher",
         "identifier": "TRAKIT",
         "company": "Trak iT Wireless Inc",
-        "": ""
+        "Date Revoked": "6/4/24 13:30",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Linxup VT ELD",
@@ -445,7 +500,8 @@
         "software": "2120.211209 & up",
         "identifier": "LXVT01",
         "company": "Linxup",
-        "": ""
+        "Date Revoked": "4/11/23 15:16",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -453,7 +509,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:23",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours of Service",
@@ -461,7 +518,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:22",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -469,7 +527,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:23",
+        "Status": "Self-Revoked"
     },
     {
         "device": "GOLDEN ELD 2.0",
@@ -477,7 +536,8 @@
         "software": "2.55 or above",
         "identifier": "GRS200",
         "company": "GOLDEN ELD",
-        "": ""
+        "Date Revoked": "6/24/24 14:15",
+        "Status": "Self-Revoked"
     },
     {
         "device": "E-Logbook - JBus",
@@ -485,7 +545,8 @@
         "software": "Version6.2 or Higher",
         "identifier": "XT637A",
         "company": "I-Soft Global Software Solutions",
-        "": ""
+        "Date Revoked": "3/12/24 23:53",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Fleetwatcher E-Logs",
@@ -493,7 +554,8 @@
         "software": "1.0.1",
         "identifier": "GS4230",
         "company": "Earthwave Technologies",
-        "": ""
+        "Date Revoked": "2/1/23 15:32",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD-2000",
@@ -501,7 +563,8 @@
         "software": "10.0.4A or higher",
         "identifier": "GPSI01",
         "company": "GPS Insight",
-        "": ""
+        "Date Revoked": "12/4/23 19:33",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FleetConnect",
@@ -509,7 +572,8 @@
         "software": "1",
         "identifier": "FCSQ01",
         "company": "Car Delivery Network Inc",
-        "": ""
+        "Date Revoked": "10/19/20 7:44",
+        "Status": "Self-Revoked"
     },
     {
         "device": "J. J. Keller ELD – Android Compliance Tablet 2.5",
@@ -517,7 +581,8 @@
         "software": "Version 3 and higher",
         "identifier": "25C003",
         "company": "J. J. Keller & Associates, Inc.",
-        "": ""
+        "Date Revoked": "",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TSO INCABIN PLUS",
@@ -525,7 +590,8 @@
         "software": "2.0 or higher",
         "identifier": "TSO100",
         "company": "TSO MOBILE by Tracking Solutions Corp",
-        "": ""
+        "Date Revoked": "2/2/23 16:39",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trakopolis ELD",
@@ -533,7 +599,8 @@
         "software": "1.3.37.1",
         "identifier": "TRK001",
         "company": "Trakopolis",
-        "": ""
+        "Date Revoked": "2/24/21 19:05",
+        "Status": "Self-Revoked"
     },
     {
         "device": "GFI eLogs",
@@ -541,7 +608,8 @@
         "software": "1.0.1919.191121",
         "identifier": "GFI002",
         "company": "GFI Systems Inc.",
-        "": ""
+        "Date Revoked": "6/24/20 14:59",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Descartes Telematics - Tablet",
@@ -549,7 +617,8 @@
         "software": "17.11 or higher",
         "identifier": "DSGTT1",
         "company": "The Descartes Systems Group Inc",
-        "": ""
+        "Date Revoked": "2/28/23 8:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trucker Path ELD",
@@ -557,7 +626,8 @@
         "software": "2900",
         "identifier": "TPATHI",
         "company": "Trucker Path",
-        "": ""
+        "Date Revoked": "1/1/20 8:02",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Haulynx 2.0 (XT ELD)",
@@ -565,7 +635,8 @@
         "software": "2",
         "identifier": "HAUL02",
         "company": "Xpress Technologies, Inc.",
-        "": ""
+        "Date Revoked": "7/13/22 23:08",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TruckX-ELD n/k/a ELD 0.2",
@@ -573,7 +644,8 @@
         "software": "2.1.13+",
         "identifier": "TRX927",
         "company": "TruckX Inc",
-        "": ""
+        "Date Revoked": "12/1/23 16:20",
+        "Status": "Revoked"
     },
     {
         "device": "Matrack SmartELD for Android",
@@ -581,7 +653,8 @@
         "software": "1.0 and above",
         "identifier": "A34V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "1/31/23 21:45",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Matrack SmartELD for iOS",
@@ -589,7 +662,8 @@
         "software": "1.0 and above",
         "identifier": "I34V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "1/31/23 21:47",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Matrack SmartELD for Android",
@@ -597,7 +671,8 @@
         "software": "1.0 and above",
         "identifier": "A30V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "2/1/23 0:34",
+        "Status": "Self-Revoked"
     },
     {
         "device": "HCSSELDIOS",
@@ -605,7 +680,8 @@
         "software": "1816.181017",
         "identifier": "GEO84A",
         "company": "HCSS",
-        "": ""
+        "Date Revoked": "2/1/23 23:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FOCUS ELD",
@@ -613,7 +689,8 @@
         "software": "1.0.1905.190710 & up",
         "identifier": "LM423X",
         "company": "Focus fleet and fuel management inc",
-        "": ""
+        "Date Revoked": "1/27/23 17:43",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -621,7 +698,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - iOS",
@@ -629,7 +707,8 @@
         "software": "2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - Android",
@@ -637,7 +716,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -645,7 +725,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -653,7 +734,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -661,7 +743,8 @@
         "software": "2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Matrack SmartELD for Android",
@@ -669,7 +752,8 @@
         "software": "1.0 and above",
         "identifier": "A34V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "2/1/23 0:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "MATRACK SmartELD for iOS",
@@ -677,7 +761,8 @@
         "software": "1.0 and above",
         "identifier": "I34V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "2/1/23 0:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CyntrX ELD Pro",
@@ -685,7 +770,8 @@
         "software": "2116.210920 & up",
         "identifier": "FlexCX",
         "company": "CyntrX",
-        "": ""
+        "Date Revoked": "4/12/23 14:08",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Log n Drive (Android and Calamp LMU4230)",
@@ -693,7 +779,8 @@
         "software": "3.0.2116.210920",
         "identifier": "CSE001",
         "company": "Computer Software Engineers",
-        "": ""
+        "Date Revoked": "6/27/23 19:27",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD4TRUCKING",
@@ -701,7 +788,8 @@
         "software": "2.21.32 and later",
         "identifier": "ERS174",
         "company": "ELD4TRUCKING LLC",
-        "": ""
+        "Date Revoked": "12/1/23 16:21",
+        "Status": "Revoked"
     },
     {
         "device": "ELD 2 GO",
@@ -709,7 +797,8 @@
         "software": "2.40.0 and later",
         "identifier": "ERS200",
         "company": "ELD 2 GO",
-        "": ""
+        "Date Revoked": "12/1/23 16:15",
+        "Status": "Revoked"
     },
     {
         "device": "ELD ONE",
@@ -717,7 +806,8 @@
         "software": "IOS3.4.0Android4.4.0",
         "identifier": "OWLA01",
         "company": "TMS ONE",
-        "": ""
+        "Date Revoked": "1/31/23 13:45",
+        "Status": "Revoked"
     },
     {
         "device": "OnroadELD",
@@ -725,7 +815,8 @@
         "software": "1.0 or higher",
         "identifier": "onroad",
         "company": "Onroad Networks",
-        "": ""
+        "Date Revoked": "10/6/22 18:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELDS HOS (Android)",
@@ -733,7 +824,8 @@
         "software": "3.0.2212.220905 & up",
         "identifier": "ELDS12",
         "company": "ELD Solutions",
-        "": ""
+        "Date Revoked": "3/1/23 16:07",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CarmaLink ELD",
@@ -741,7 +833,8 @@
         "software": "v1.0+",
         "identifier": "RHA10X",
         "company": "Carmalink, Inc.",
-        "": ""
+        "Date Revoked": "9/14/22 17:13",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Stoneridge EZ-ELD Android",
@@ -749,7 +842,8 @@
         "software": "App 1.0 or higher",
         "identifier": "EZELD1",
         "company": "Stoneridge Inc.",
-        "": ""
+        "Date Revoked": "7/12/24 13:50",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD MANDATE PLUS",
@@ -757,7 +851,8 @@
         "software": "Android 23+ iOS 24+",
         "identifier": "ELDP30",
         "company": "ELD Mandate",
-        "": ""
+        "Date Revoked": "5/21/24 13:36",
+        "Status": "Revoked"
     },
     {
         "device": "ORBCOMM Driver",
@@ -765,7 +860,8 @@
         "software": "7.18.0 or Greater",
         "identifier": "ELDF5K",
         "company": "ORBCOMM",
-        "": ""
+        "Date Revoked": "7/18/24 12:15",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FleetSharp- ELD",
@@ -773,7 +869,8 @@
         "software": "1.4.72 or higher",
         "identifier": "AGFS01",
         "company": "FleetSharp",
-        "": ""
+        "Date Revoked": "6/3/24 13:08",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trimble TrimFleet Mobile TVG850",
@@ -781,7 +878,8 @@
         "software": "v6.0.1A",
         "identifier": "TFM001",
         "company": "Trimble",
-        "": ""
+        "Date Revoked": "7/6/22 14:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "BSM Drive",
@@ -789,7 +887,8 @@
         "software": "6.0 or higher",
         "identifier": "ICMP01",
         "company": "BSM Technologies Ltd.",
-        "": ""
+        "Date Revoked": "10/31/18 15:17",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trakopolis ELD",
@@ -797,7 +896,8 @@
         "software": "1.3.37.1",
         "identifier": "TRK001",
         "company": "Trakopolis",
-        "": ""
+        "Date Revoked": "2/24/21 19:05",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TSO ELD",
@@ -805,7 +905,8 @@
         "software": "1621.6202 or higher",
         "identifier": "TSO101",
         "company": "TSO MOBILE by Tracking Solutions Corp",
-        "": ""
+        "Date Revoked": "2/2/23 16:39",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Geotab GO7 - J. J. Keller Android Tablet",
@@ -813,7 +914,8 @@
         "software": "Version 3 and higher",
         "identifier": "G7C003",
         "company": "J. J. Keller & Associates, Inc.",
-        "": ""
+        "Date Revoked": "",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Titan GPS Logbook",
@@ -821,7 +923,8 @@
         "software": "1.0.1905.190710 +",
         "identifier": "THOS01",
         "company": "Certified Tracking Solutions",
-        "": ""
+        "Date Revoked": "4/14/23 20:05",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Matrack SmartELD for iOS",
@@ -829,7 +932,8 @@
         "software": "1.0 and above",
         "identifier": "I32V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "2/1/23 0:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FAST AND SAFE ELD",
@@ -837,7 +941,8 @@
         "software": "2.0 or higher",
         "identifier": "FRS115",
         "company": "Fast and Safe llc",
-        "": ""
+        "Date Revoked": "11/30/21 20:32",
+        "Status": "Self-Revoked"
     },
     {
         "device": "PRO DRIVER ELD",
@@ -845,7 +950,8 @@
         "software": "2.0 or higher",
         "identifier": "PRS149",
         "company": "ProDriverEld",
-        "": ""
+        "Date Revoked": "12/9/20 5:23",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FOCUS ELD",
@@ -853,7 +959,8 @@
         "software": "1905.190710 & up",
         "identifier": "LM423X",
         "company": "Focus fleet and fuel management inc",
-        "": ""
+        "Date Revoked": "1/27/23 17:44",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - Android",
@@ -861,7 +968,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -869,7 +977,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELOG365",
@@ -877,7 +986,8 @@
         "software": "2.48.0 or higher",
         "identifier": "ERS127",
         "company": "EZ ELD Solutions Inc",
-        "": ""
+        "Date Revoked": "12/1/23 16:28",
+        "Status": "Revoked"
     },
     {
         "device": "M2M ELD",
@@ -885,7 +995,8 @@
         "software": "2022.201222 +",
         "identifier": "M2M018",
         "company": "AAMP Global (Formerly M2M In Motion)",
-        "": ""
+        "Date Revoked": "4/5/23 14:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "M2M ELD",
@@ -893,7 +1004,8 @@
         "software": "2022.201222 +",
         "identifier": "M2M018",
         "company": "AAMP Global (Formerly M2M In Motion)",
-        "": ""
+        "Date Revoked": "4/5/23 14:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -901,7 +1013,8 @@
         "software": "2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - Android",
@@ -909,7 +1022,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "LiveViewGPS Hours Of Service",
@@ -917,7 +1031,8 @@
         "software": "3.0.2116.210920 min",
         "identifier": "LVEND1",
         "company": "LiveViewGPS",
-        "": ""
+        "Date Revoked": "4/7/23 22:50",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Omnitracs Mobile Computing Platform",
@@ -925,7 +1040,8 @@
         "software": "AA1839R or Later",
         "identifier": "MCP110",
         "company": "Omnitracs, LLC",
-        "": ""
+        "Date Revoked": "6/15/22 14:09",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELDorado ELD",
@@ -933,7 +1049,8 @@
         "software": "2.0 or higher",
         "identifier": "ERS186",
         "company": "ELDorado",
-        "": ""
+        "Date Revoked": "9/7/22 19:40",
+        "Status": "Revoked"
     },
     {
         "device": "ALL TRUCKERS ELD",
@@ -941,7 +1058,8 @@
         "software": "2.0 or higher",
         "identifier": "ARS194",
         "company": "All Truckers ELD",
-        "": ""
+        "Date Revoked": "7/25/23 13:40",
+        "Status": "Revoked"
     },
     {
         "device": "STEER RIGHT ELD",
@@ -949,7 +1067,8 @@
         "software": "2.15-15 or higher.",
         "identifier": "SRS273",
         "company": "STEER RIGHT LLC",
-        "": ""
+        "Date Revoked": "12/1/23 16:32",
+        "Status": "Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -957,7 +1076,8 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:24",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TestV0",
@@ -965,7 +1085,8 @@
         "software": "v0.0.0",
         "identifier": "DEV000",
         "company": "OpenEyes lnsurance Agency Inc",
-        "": ""
+        "Date Revoked": "5/18/23 11:01",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -973,7 +1094,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:25",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -981,7 +1103,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:25",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Inthinc Connect",
@@ -989,7 +1112,8 @@
         "software": "3.5",
         "identifier": "PRO400",
         "company": "ORBCOMM",
-        "": ""
+        "Date Revoked": "7/14/24 22:47",
+        "Status": "Self-Revoked"
     },
     {
         "device": "VDO RoadLog ELD",
@@ -997,7 +1121,8 @@
         "software": "12.01.00 and above",
         "identifier": "RDLG01",
         "company": "Continental",
-        "": ""
+        "Date Revoked": "8/31/20 13:15",
+        "Status": "Self-Revoked"
     },
     {
         "device": "PROPRO ELD",
@@ -1005,7 +1130,8 @@
         "software": "2.2 and up",
         "identifier": "PROPRO",
         "company": "HOS247 LLC",
-        "": ""
+        "Date Revoked": "11/15/22 18:44",
+        "Status": "Self-Revoked"
     },
     {
         "device": "!1Axle Bottlecap",
@@ -1013,7 +1139,8 @@
         "software": "6.0 and above",
         "identifier": "axe018",
         "company": "Axle Technologies Inc",
-        "": ""
+        "Date Revoked": "12/13/19 8:52",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TraceIT ELD",
@@ -1021,7 +1148,8 @@
         "software": "v2.0 and newer",
         "identifier": "TELD01",
         "company": "TraceIT LLC",
-        "": ""
+        "Date Revoked": "5/9/19 22:55",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Vnomics ELD",
@@ -1029,7 +1157,8 @@
         "software": "15 or later",
         "identifier": "57215A",
         "company": "Vnomics Corp",
-        "": ""
+        "Date Revoked": "3/1/22 16:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - iOS",
@@ -1037,7 +1166,8 @@
         "software": "2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -1045,7 +1175,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -1053,7 +1184,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FOCUS ELD",
@@ -1061,7 +1193,8 @@
         "software": "1.0.1905.190710 & up",
         "identifier": "LM423X",
         "company": "Focus fleet and fuel management inc",
-        "": ""
+        "Date Revoked": "1/27/23 17:44",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -1069,7 +1202,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TFM ELD",
@@ -1077,7 +1211,8 @@
         "software": "Android4.8.1iOS3.5.2",
         "identifier": "TFM001",
         "company": "TFM GROUP INC.",
-        "": ""
+        "Date Revoked": "7/23/24 13:41",
+        "Status": "Revoked"
     },
     {
         "device": "M2M ELD",
@@ -1085,7 +1220,8 @@
         "software": "1.0.2022.201130 +",
         "identifier": "M2M018",
         "company": "AAMP Global (Formerly M2M In Motion)",
-        "": ""
+        "Date Revoked": "4/5/23 14:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Atlas-Pro",
@@ -1093,7 +1229,8 @@
         "software": "2020.201026 or above",
         "identifier": "XEL002",
         "company": "HOS-Reporter",
-        "": ""
+        "Date Revoked": "4/2/23 11:18",
+        "Status": "Self-Revoked"
     },
     {
         "device": "M2MIM ELD",
@@ -1101,7 +1238,8 @@
         "software": "1.0.2022.201130 +",
         "identifier": "M2M018",
         "company": "AAMP Global (Formerly M2M In Motion)",
-        "": ""
+        "Date Revoked": "4/5/23 14:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trak iT ELD",
@@ -1109,7 +1247,8 @@
         "software": "3.0.2114.210816 & up",
         "identifier": "ELD001",
         "company": "Trak iT Wireless Inc",
-        "": ""
+        "Date Revoked": "6/4/24 13:29",
+        "Status": "Self-Revoked"
     },
     {
         "device": "A to Z ELD",
@@ -1117,7 +1256,8 @@
         "software": "207 or higher",
         "identifier": "ABC369",
         "company": "A to Z Appliance Services Inc.",
-        "": ""
+        "Date Revoked": "8/27/22 5:47",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FACTOR ELD",
@@ -1125,7 +1265,8 @@
         "software": "2.6.13 or higher",
         "identifier": "FRS278",
         "company": "FACTOR ELD",
-        "": ""
+        "Date Revoked": "1/25/23 16:56",
+        "Status": "Self-Revoked"
     },
     {
         "device": "LionEight ELD",
@@ -1133,7 +1274,8 @@
         "software": "3.2.1 and higher",
         "identifier": "RIDER8",
         "company": "Darex Solutions",
-        "": ""
+        "Date Revoked": "4/3/23 13:43",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1141,7 +1283,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:26",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1149,7 +1292,8 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:26",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ZED ELD",
@@ -1157,7 +1301,8 @@
         "software": "3.8",
         "identifier": "ZEDELD",
         "company": "Zed Connect Inc.",
-        "": ""
+        "Date Revoked": "",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Haulynx ELD (The FREE ELD)",
@@ -1165,7 +1310,8 @@
         "software": "1.0.17 and above",
         "identifier": "HAUL01",
         "company": "Xpress Technologies, Inc.",
-        "": ""
+        "Date Revoked": "9/17/21 20:42",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ONE20 F-ELD for Android",
@@ -1173,7 +1319,8 @@
         "software": "1.1 or higher",
         "identifier": "ONE20A",
         "company": "ONE20, Inc.",
-        "": ""
+        "Date Revoked": "6/18/18 14:27",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ONE20 F-ELD for iOS",
@@ -1181,7 +1328,8 @@
         "software": "1.1 or higher",
         "identifier": "ONE20I",
         "company": "ONE20, Inc.",
-        "": ""
+        "Date Revoked": "6/18/18 14:27",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TSO ELD",
@@ -1189,7 +1337,8 @@
         "software": "1621.6202 or higher",
         "identifier": "TSO101",
         "company": "TSO MOBILE by Tracking Solutions Corp",
-        "": ""
+        "Date Revoked": "2/2/23 16:39",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Descartes Telematics - Smart Device",
@@ -1197,7 +1346,8 @@
         "software": "18.01 or higher",
         "identifier": "DSGSD1",
         "company": "The Descartes Systems Group Inc",
-        "": ""
+        "Date Revoked": "2/28/23 8:29",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trucker Path ELD",
@@ -1205,7 +1355,8 @@
         "software": "2.9.0.0",
         "identifier": "TPATHA",
         "company": "Trucker Path",
-        "": ""
+        "Date Revoked": "1/1/20 8:01",
+        "Status": "Self-Revoked"
     },
     {
         "device": "eLogPro",
@@ -1213,7 +1364,8 @@
         "software": "1",
         "identifier": "ELP001",
         "company": "National Fleet Tracking",
-        "": ""
+        "Date Revoked": "11/8/21 18:27",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TM-ELD",
@@ -1221,7 +1373,8 @@
         "software": "2.2.50",
         "identifier": "TM0002",
         "company": "TFM GROUP INC.",
-        "": ""
+        "Date Revoked": "1/27/20 18:53",
+        "Status": "Self-Revoked"
     },
     {
         "device": "FOCUS ELD",
@@ -1229,7 +1382,8 @@
         "software": "1.0.1905.190710 & up",
         "identifier": "LM423X",
         "company": "Focus fleet and fuel management inc",
-        "": ""
+        "Date Revoked": "1/27/23 17:44",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Eleos Drive ELD",
@@ -1237,7 +1391,8 @@
         "software": "5.7.1804 or above",
         "identifier": "ELEOS1",
         "company": "Eleos Technologies, LLC",
-        "": ""
+        "Date Revoked": "5/23/23 13:22",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Log n Drive (Android & Atracks AX11)",
@@ -1245,7 +1400,8 @@
         "software": "3.0.2116.210920",
         "identifier": "CSE001",
         "company": "Computer Software Engineers",
-        "": ""
+        "Date Revoked": "6/27/23 19:26",
+        "Status": "Self-Revoked"
     },
     {
         "device": "MasTrack ELD",
@@ -1253,7 +1409,8 @@
         "software": "1.0.1921.191216",
         "identifier": "MAS001",
         "company": "Mastrack",
-        "": ""
+        "Date Revoked": "1/31/23 18:54",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CDSUS ELD",
@@ -1261,7 +1418,8 @@
         "software": "2.0 or higher",
         "identifier": "CRS167",
         "company": "CDSUS",
-        "": ""
+        "Date Revoked": "9/6/23 18:55",
+        "Status": "Self-Revoked"
     },
     {
         "device": "CMG ELD",
@@ -1269,7 +1427,8 @@
         "software": "2.0 or higher",
         "identifier": "CRS204",
         "company": "Cargo Management Group Inc",
-        "": ""
+        "Date Revoked": "7/28/21 16:46",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELDS HOS (iOS)",
@@ -1277,7 +1436,8 @@
         "software": "2212.220905 and up",
         "identifier": "ELDS12",
         "company": "ELD Solutions",
-        "": ""
+        "Date Revoked": "3/1/23 16:07",
+        "Status": "Self-Revoked"
     },
     {
         "device": "GLS ELD",
@@ -1285,7 +1445,8 @@
         "software": "2.0 or higher",
         "identifier": "GLS241",
         "company": "GLOBAL LOGISTICS SYSTEM ELD LLC",
-        "": ""
+        "Date Revoked": "3/3/22 17:56",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trak iT ELD",
@@ -1293,7 +1454,8 @@
         "software": "2114.210829 & up",
         "identifier": "ELD001",
         "company": "Trak iT Wireless Inc",
-        "": ""
+        "Date Revoked": "6/4/24 13:30",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Linxup VT ELD",
@@ -1301,7 +1463,8 @@
         "software": "3.0.2120.211209 & up",
         "identifier": "LXVT01",
         "company": "Linxup",
-        "": ""
+        "Date Revoked": "4/11/23 15:17",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TOP TRUCK ELD",
@@ -1309,7 +1472,8 @@
         "software": "2.0 or higher",
         "identifier": "TRS249",
         "company": "TOP ELD CORP",
-        "": ""
+        "Date Revoked": "11/9/22 3:42",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1317,7 +1481,8 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:27",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1325,7 +1490,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:27",
+        "Status": "Self-Revoked"
     },
     {
         "device": "J. J. Keller ELD - Android Tablet 2.0",
@@ -1333,7 +1499,8 @@
         "software": "Version 3 and higher",
         "identifier": "20C003",
         "company": "J. J. Keller & Associates, Inc.",
-        "": ""
+        "Date Revoked": "",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD by 3rd EYE",
@@ -1341,7 +1508,8 @@
         "software": "1.0.0.1837 and above",
         "identifier": "3rdEye",
         "company": "ELD by 3rd Eye",
-        "": ""
+        "Date Revoked": "11/30/20 21:11",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Titan GPS Logbook",
@@ -1349,7 +1517,8 @@
         "software": "1905.190710 and up",
         "identifier": "THOS01",
         "company": "Certified Tracking Solutions",
-        "": ""
+        "Date Revoked": "4/14/23 20:05",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trimble FieldMaster Logs",
@@ -1357,7 +1526,8 @@
         "software": "v3.0 or Higher",
         "identifier": "FML002",
         "company": "Trimble",
-        "": ""
+        "Date Revoked": "7/6/22 18:22",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Vnomics ELD",
@@ -1365,7 +1535,8 @@
         "software": "15 or later",
         "identifier": "55015A",
         "company": "Vnomics Corp",
-        "": ""
+        "Date Revoked": "3/1/22 16:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "\"\"EDGE MDT\"\"",
@@ -1373,7 +1544,8 @@
         "software": "v. 55 and newer",
         "identifier": "IGBE61",
         "company": "iGlobal LLC",
-        "": ""
+        "Date Revoked": "8/21/19 13:32",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trimble FieldMaster Logs",
@@ -1381,7 +1553,8 @@
         "software": "v3.3 or higher",
         "identifier": "FML003",
         "company": "Trimble",
-        "": ""
+        "Date Revoked": "7/6/22 18:23",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Matrack SmartELD for iOS",
@@ -1389,7 +1562,8 @@
         "software": "1.0 and above",
         "identifier": "I30V01",
         "company": "Matrack Inc.",
-        "": ""
+        "Date Revoked": "2/1/23 0:37",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Logbooks",
@@ -1397,7 +1571,8 @@
         "software": "1.0.0",
         "identifier": "PLS100",
         "company": "2701545 Canada Inc.",
-        "": ""
+        "Date Revoked": "1/18/23 16:06",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -1405,7 +1580,8 @@
         "software": "2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:35",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - iOS",
@@ -1413,7 +1589,8 @@
         "software": "2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - Android",
@@ -1421,7 +1598,8 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Omnitracs Mobile Computing Platform",
@@ -1429,7 +1607,8 @@
         "software": "AA1839R or Later",
         "identifier": "MCP200",
         "company": "Omnitracs, LLC",
-        "": ""
+        "Date Revoked": "6/15/22 14:09",
+        "Status": "Self-Revoked"
     },
     {
         "device": "WORLD TRUCKING ELD",
@@ -1437,7 +1616,8 @@
         "software": "2.12-1 or up.",
         "identifier": "WRS196",
         "company": "WORLD TRUCKING LLC",
-        "": ""
+        "Date Revoked": "12/1/23 16:27",
+        "Status": "Revoked"
     },
     {
         "device": "SECURE ELD",
@@ -1445,7 +1625,8 @@
         "software": "2.25.1 or higher",
         "identifier": "SRS224",
         "company": "WBCS GROUP LLC",
-        "": ""
+        "Date Revoked": "7/25/23 13:42",
+        "Status": "Revoked"
     },
     {
         "device": "Fleet Hawks ELD",
@@ -1453,7 +1634,8 @@
         "software": "196",
         "identifier": "FHUSA1",
         "company": "Fleet Hawks Inc.",
-        "": ""
+        "Date Revoked": "4/15/23 19:30",
+        "Status": "Self-Revoked"
     },
     {
         "device": "LionEight ELD",
@@ -1461,7 +1643,8 @@
         "software": "3.2.1 and higher",
         "identifier": "RIDER8",
         "company": "Darex Solutions",
-        "": ""
+        "Date Revoked": "4/3/23 13:43",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD VOLT",
@@ -1469,7 +1652,8 @@
         "software": "2.91.1 or above",
         "identifier": "ERS246",
         "company": "Power Deal Corp",
-        "": ""
+        "Date Revoked": "7/23/24 13:40",
+        "Status": "Revoked"
     },
     {
         "device": "CI ELD LOGS",
@@ -1477,7 +1661,8 @@
         "software": "2.14.8 or higher",
         "identifier": "CRS270",
         "company": "CV Options LLC",
-        "": ""
+        "Date Revoked": "2/29/24 0:00",
+        "Status": "Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1485,7 +1670,8 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "QUICK ELOGS",
@@ -1493,7 +1679,8 @@
         "software": "2.87.06 or up",
         "identifier": "QLG830",
         "company": "AV MANAGEMENT LLC",
-        "": ""
+        "Date Revoked": "4/11/24 20:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Inthinc Connect",
@@ -1501,7 +1688,8 @@
         "software": "3.5",
         "identifier": "ELD850",
         "company": "ORBCOMM",
-        "": ""
+        "Date Revoked": "2/26/24 0:44",
+        "Status": "Self-Revoked"
     },
     {
         "device": "AwareGPS- ELD",
@@ -1509,7 +1697,8 @@
         "software": "1.4.72 or higher",
         "identifier": "AGAW01",
         "company": "AwareGPS",
-        "": ""
+        "Date Revoked": "6/3/24 13:10",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Titan GPS Logbook",
@@ -1517,7 +1706,8 @@
         "software": "1.0.1905.190710 +",
         "identifier": "THOS01",
         "company": "Certified Tracking Solutions",
-        "": ""
+        "Date Revoked": "4/14/23 20:06",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Versalog",
@@ -1525,7 +1715,8 @@
         "software": "1.2.0",
         "identifier": "VERSA1",
         "company": "Brian Martin",
-        "": ""
+        "Date Revoked": "4/2/21 10:43",
+        "Status": "Self-Revoked"
     },
     {
         "device": "BSM Drive",
@@ -1533,7 +1724,8 @@
         "software": "6.0 or higher",
         "identifier": "ACMP01",
         "company": "BSM Technologies Ltd.",
-        "": ""
+        "Date Revoked": "10/31/18 15:16",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Trimble TrimFleet Mobile TVG950",
@@ -1541,7 +1733,8 @@
         "software": "v6.0.1A",
         "identifier": "TFM002",
         "company": "Trimble",
-        "": ""
+        "Date Revoked": "7/6/22 14:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "PeopleNet Mobile Gateway - eDriver Logs ELD (for WinCE)",
@@ -1549,7 +1742,8 @@
         "software": ".19xxx or higher",
         "identifier": "PMG002",
         "company": "PeopleNet",
-        "": ""
+        "Date Revoked": "4/1/22 12:56",
+        "Status": "Self-Revoked"
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
@@ -1557,7 +1751,8 @@
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc.",
-        "": ""
+        "Date Revoked": "12/7/20 20:14",
+        "Status": "Self-Revoked"
     },
     {
         "device": "BSM ELD",
@@ -1565,7 +1760,8 @@
         "software": "1.0 and newer",
         "identifier": "BSMELD",
         "company": "BSM Technologies Ltd.",
-        "": ""
+        "Date Revoked": "5/8/19 11:47",
+        "Status": "Self-Revoked"
     },
     {
         "device": "\"\"EDGE MDT\"\"",
@@ -1573,7 +1769,8 @@
         "software": "v. 55 or higher",
         "identifier": "IGBE61",
         "company": "iGlobal LLC",
-        "": ""
+        "Date Revoked": "8/13/20 13:50",
+        "Status": "Self-Revoked"
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
@@ -1581,7 +1778,17 @@
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc.",
-        "": ""
+        "Date Revoked": "12/7/20 20:15",
+        "Status": "Self-Revoked"
+    },
+    {
+        "device": "RELIABLE ELD",
+        "model": "RRS",
+        "software": "2.34 and up.",
+        "identifier": "RRS121",
+        "company": "Reliable ELD Inc",
+        "Date Revoked": "8/15/24 17:05",
+        "Status": "Revoked"
     },
     {
         "device": "HCSSELD",
@@ -1589,7 +1796,8 @@
         "software": "1.0.1816.180904",
         "identifier": "GEO84A",
         "company": "HCSS",
-        "": ""
+        "Date Revoked": "2/1/23 23:28",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -1597,7 +1805,8 @@
         "software": "2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "M2MIM ELD",
@@ -1605,7 +1814,8 @@
         "software": "1.0.2022.201130 +",
         "identifier": "M2M018",
         "company": "AAMP Global (Formerly M2M In Motion)",
-        "": ""
+        "Date Revoked": "4/5/23 14:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "ELD Fleet",
@@ -1613,7 +1823,8 @@
         "software": "2116.210920 & up",
         "identifier": "ELDFLT",
         "company": "GPS Trackit",
-        "": ""
+        "Date Revoked": "2/2/23 16:36",
+        "Status": "Self-Revoked"
     },
     {
         "device": "InTouch ELD - Android",
@@ -1621,7 +1832,17 @@
         "software": "3.0.2116.210920 & up",
         "identifier": "ITELD1",
         "company": "InTouch",
-        "": ""
+        "Date Revoked": "2/2/23 16:38",
+        "Status": "Self-Revoked"
+    },
+    {
+        "device": "BLUE STAR ELD",
+        "model": "BRS",
+        "software": "2.71.44 or above",
+        "identifier": "BRS153",
+        "company": "BLUE STAR ELD INC",
+        "Date Revoked": "8/15/24 17:06",
+        "Status": "Revoked"
     },
     {
         "device": "CN ELD",
@@ -1629,7 +1850,8 @@
         "software": "2.101.82 and above",
         "identifier": "CRS235",
         "company": "ELD CONNECTION",
-        "": ""
+        "Date Revoked": "2/29/24 14:37",
+        "Status": "Revoked"
     },
     {
         "device": "Keep Truckin",
@@ -1637,7 +1859,8 @@
         "software": "18.0 and higher",
         "identifier": "KTIELD",
         "company": "Satinder Singh",
-        "": ""
+        "Date Revoked": "8/24/22 16:57",
+        "Status": "Self-Revoked"
     },
     {
         "device": "TST 1 ELD",
@@ -1645,7 +1868,8 @@
         "software": "2.43.3",
         "identifier": "TRS220",
         "company": "TST GROUP INC.",
-        "": ""
+        "Date Revoked": "12/1/23 16:25",
+        "Status": "Revoked"
     },
     {
         "device": "FALCON ELD",
@@ -1653,7 +1877,8 @@
         "software": "1.0.0",
         "identifier": "FTX007",
         "company": "Falcon Telematics LLC",
-        "": ""
+        "Date Revoked": "9/14/23 18:34",
+        "Status": "Revoked"
     },
     {
         "device": "All-Ways Track",
@@ -1661,7 +1886,8 @@
         "software": "2.4",
         "identifier": "AWTELD",
         "company": "ALL-WAYS TRACK, LLC.",
-        "": ""
+        "Date Revoked": "3/27/23 13:48",
+        "Status": "Revoked"
     },
     {
         "device": "Hours of Service",
@@ -1669,7 +1895,8 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:29",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1677,7 +1904,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:29",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1685,7 +1913,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:29",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1693,7 +1922,8 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:29",
+        "Status": "Self-Revoked"
     },
     {
         "device": "Hours Of Service",
@@ -1701,7 +1931,8 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc.",
-        "": ""
+        "Date Revoked": "6/11/24 4:30",
+        "Status": "Self-Revoked"
     },
     {
         "device": "MiX ELD Driver Logs",
@@ -1709,7 +1940,8 @@
         "software": "7.1 or higher",
         "identifier": "MDL001",
         "company": "Trimble",
-        "": ""
+        "Date Revoked": "12/8/23 21:18",
+        "Status": "Self-Revoked"
     },
     {
         "device": "11",
@@ -1717,7 +1949,8 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc.",
-        "": ""
+        "Date Revoked": "1/18/24 7:57",
+        "Status": "Self-Revoked"
     },
     {
         "device": "11",
@@ -1725,7 +1958,8 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc.",
-        "": ""
+        "Date Revoked": "1/18/24 7:57",
+        "Status": "Self-Revoked"
     },
     {
         "device": "11",
@@ -1733,6 +1967,7 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc.",
-        "": ""
+        "Date Revoked": "1/18/24 7:57",
+        "Status": "Self-Revoked"
     }
 ]
