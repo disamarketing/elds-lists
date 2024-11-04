@@ -511,13 +511,6 @@
         "company": "Aireld Technologies"
     },
     {
-        "device": "Geotab Drive for Mack Trucks",
-        "model": "TGW 2.1, TGW3",
-        "software": "11.20.188+",
-        "identifier": "MACK01",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "AT&T Fleet Complete",
         "model": "FTxW-P",
         "software": "34.8 or higher",
@@ -630,6 +623,13 @@
         "company": "Rand McNally"
     },
     {
+        "device": "Geotab Drive for Mack Trucks",
+        "model": "TGW 2.1, TGW3",
+        "software": "11.20.188+",
+        "identifier": "MACK01",
+        "company": "Geotab Inc."
+    },
+    {
         "device": "ILOG ELD",
         "model": "ILOGELD1",
         "software": "1.0.0 or higher",
@@ -721,6 +721,13 @@
         "company": "Apex ELD Inc"
     },
     {
+        "device": "LorryTM ELD",
+        "model": "87A042620008",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
         "device": "Alert Gps Inc. ELD",
         "model": "Alert ELD",
         "software": "1.0.28 and above",
@@ -779,7 +786,7 @@
     {
         "device": "Geowiz ELD",
         "model": "IO100",
-        "software": "v 6.3.3.2 and higher",
+        "software": "v 6.3.3.3 and higher",
         "identifier": "FF44EE",
         "company": "RoadReady Solutions (formerly GeoSpace Labs)"
     },
@@ -1673,6 +1680,20 @@
         "company": "Kinesis Fleet ELD"
     },
     {
+        "device": "ALPHA e-LOGBOOK",
+        "model": "AEL092",
+        "software": "2.94.34 and up",
+        "identifier": "ALB296",
+        "company": "Alpha ELD Solutions INC"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620001",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
         "device": "StreetEagle ELD with SE Compliance Tablet",
         "model": "ELDCOM",
         "software": "1.1.0.0 or above",
@@ -2058,13 +2079,6 @@
         "company": "NYC HYPER CLASS INC"
     },
     {
-        "device": "MasterELD",
-        "model": "MELD03",
-        "software": "MELDA3.0",
-        "identifier": "MIOA01",
-        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
-    },
-    {
         "device": "TORCH ELD",
         "model": "TRS",
         "software": "2.0 OR HIGHER",
@@ -2240,13 +2254,6 @@
         "company": "Gorilla Fleet Safety, LLC"
     },
     {
-        "device": "Orion eLog",
-        "model": "354",
-        "software": "2.0.538",
-        "identifier": "674663",
-        "company": "Praxis Technologies, Inc."
-    },
-    {
         "device": "HorizonPath ELD",
         "model": "HPathELD1000",
         "software": "1.0.0 or higher",
@@ -2303,13 +2310,6 @@
         "company": "FACTOR ELD"
     },
     {
-        "device": "Geotab Drive for International Trucks",
-        "model": "N2",
-        "software": "11.20.188+",
-        "identifier": "NVSRN2",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "ProLogs",
         "model": "iOS & Geometris",
         "software": "2023.10.20 and up",
@@ -2347,7 +2347,7 @@
     {
         "device": "FleetHunt ELD",
         "model": "Android & Pacific Track",
-        "software": "Version 2+",
+        "software": "Version 2.0.62+",
         "identifier": "FHELD4",
         "company": "Fleethunt Technologies"
     },
@@ -2371,13 +2371,6 @@
         "software": "2.23.10 and later",
         "identifier": "LSP590",
         "company": "Logistics Service Provider LLC"
-    },
-    {
-        "device": "Sahara ELD",
-        "model": "GDELD1000",
-        "software": "1.0.0 or later",
-        "identifier": "SAHELD",
-        "company": "SAHARA ELD LLC"
     },
     {
         "device": "GEOX ELD",
@@ -2506,6 +2499,20 @@
         "company": "SimpleTruckELD INC"
     },
     {
+        "device": "Contractors E Logs - MC5",
+        "model": "MC5",
+        "software": "4.6.2",
+        "identifier": "MC5PEL",
+        "company": "EquipmentShare"
+    },
+    {
+        "device": "Sahara ELD",
+        "model": "GDELD1000",
+        "software": "1.0.0 or later",
+        "identifier": "SAHELD",
+        "company": "SAHARA ELD LLC"
+    },
+    {
         "device": "FORZA ELD",
         "model": "4ZALD",
         "software": "2.96.28",
@@ -2532,6 +2539,20 @@
         "software": "2.0 and up",
         "identifier": "BE0001",
         "company": "Big ELD"
+    },
+    {
+        "device": "Geotab Drive for International Trucks",
+        "model": "N2",
+        "software": "11.20.188+",
+        "identifier": "NVSRN2",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "One System ELD",
+        "model": "OSE 002",
+        "software": "1.3.0 or Higher",
+        "identifier": "OSE002",
+        "company": "ONE SYSTEM LLC"
     },
     {
         "device": "NEW ELD WORLD 1.4",
@@ -2574,6 +2595,41 @@
         "software": "Android 1.1",
         "identifier": "UNIELD",
         "company": "UNI ELD"
+    },
+    {
+        "device": "Orion eLog",
+        "model": "354",
+        "software": "2.0.538",
+        "identifier": "674663",
+        "company": "Praxis Technologies, Inc."
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620002",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620007",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620004",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620006",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
     },
     {
         "device": "ISE Fleet Services powered by eFleetSuite",
@@ -3199,13 +3255,6 @@
         "company": "Forward Thinking Systems LLC"
     },
     {
-        "device": "Geotab Drive Cloud ELD",
-        "model": "GO6, GO7, GO8, GO9, GO9B, PEP-GO7. PEP-GO8, ATT-GO7, ATT-GO8 or FL7 (Spireon), FL8 (Spireon) or RI7/8 (by BSM) or T7, T9",
-        "software": "11.29.27+",
-        "identifier": "GEOTAB",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "Sharp ELD (for Android)",
         "model": "PT30",
         "software": "1.01.01",
@@ -3416,6 +3465,20 @@
         "company": "Hutch Systems Inc"
     },
     {
+        "device": "Geotab Drive Cloud ELD",
+        "model": "GO6, GO7, GO8, GO9, GO9B, PEP-GO7. PEP-GO8, ATT-GO7, ATT-GO8 or FL7 (Spireon), FL8 (Spireon) or RI7/8 (by BSM) or T7, T9",
+        "software": "11.29.27+",
+        "identifier": "GEOTAB",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "FIRSTGATE ELD",
+        "model": "1ST-GT",
+        "software": "2.94 and above",
+        "identifier": "FGT816",
+        "company": "Bulgaru LLC"
+    },
+    {
         "device": "PRESTIGE ELD",
         "model": "PREELD1",
         "software": "1.0.0 or higher",
@@ -3428,6 +3491,13 @@
         "software": "1",
         "identifier": "AELD01",
         "company": "Apex ELD Inc"
+    },
+    {
+        "device": "Knight ELD",
+        "model": "K1",
+        "software": "1",
+        "identifier": "KNT999",
+        "company": "Knight ELD"
     },
     {
         "device": "FleetWaze eLog",
@@ -3558,7 +3628,7 @@
     {
         "device": "Trux ELD",
         "model": "TRUX100",
-        "software": "v 6.3.3.2 and higher",
+        "software": "v 6.3.3.3 and higher",
         "identifier": "FF55EE",
         "company": "RoadReady Solutions (formerly GeoSpace Labs)"
     },
@@ -3635,7 +3705,7 @@
     {
         "device": "\"\"Journey 8\"\" and \"\"Journey 8R\"\"",
         "model": "iGBL J8R",
-        "software": "7.1.83.310",
+        "software": "7.1.84.116",
         "identifier": "IGBW61",
         "company": "iGlobal LLC"
     },
@@ -3869,13 +3939,6 @@
         "software": "v1.0.0",
         "identifier": "AXHOS2",
         "company": "Air Automotive Tracking Inc."
-    },
-    {
-        "device": "MasterELD",
-        "model": "MELD02",
-        "software": "MELDA2.0",
-        "identifier": "MWLA01",
-        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
     },
     {
         "device": "Matrack ELD for Android",
@@ -4116,13 +4179,6 @@
         "company": "TruckingOffice"
     },
     {
-        "device": "TeraHubELD",
-        "model": "THELD1000",
-        "software": "1.0.0",
-        "identifier": "THGPS1",
-        "company": "Terahub"
-    },
-    {
         "device": "Forward Thinking Systems - Field Warrior ELD (Garmin)",
         "model": "FW-Garmin",
         "software": "5.0.030",
@@ -4144,13 +4200,6 @@
         "company": "Bison Elog"
     },
     {
-        "device": "Geotab Drive for Freightliner Trucks",
-        "model": "CTP2",
-        "software": "11.20.188+",
-        "identifier": "DAIM01",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "EMPIRE LOGS",
         "model": "EMPLGS",
         "software": "2.18.02 and higher",
@@ -4160,14 +4209,14 @@
     {
         "device": "FleetHunt ELD",
         "model": "Android & Xirgo 6300 Series",
-        "software": "Version 2+",
+        "software": "Version 2.0.62+",
         "identifier": "FHELD1",
         "company": "Fleethunt Technologies"
     },
     {
         "device": "FleetHunt ELD",
         "model": "iOS & Pacific Track",
-        "software": "Version 1+",
+        "software": "Version 1.0.85+",
         "identifier": "FHELD5",
         "company": "Fleethunt Technologies"
     },
@@ -4193,16 +4242,9 @@
         "company": "Azuga, Inc."
     },
     {
-        "device": "LorryTM ELD",
-        "model": "87A023490500",
-        "software": "0.2.3",
-        "identifier": "87-001",
-        "company": "Lorry Time"
-    },
-    {
         "device": "Blue Tree ELD",
         "model": "BT500 / BT504",
-        "software": "4.36 and higher",
+        "software": "4.38 and higher",
         "identifier": "ELD001",
         "company": "ORBCOMM"
     },
@@ -4375,11 +4417,32 @@
         "company": "TOP COMPLIANCE ELD"
     },
     {
+        "device": "Contractors E Logs - FJ2500",
+        "model": "FJ2500LA",
+        "software": "4.6.2",
+        "identifier": "FJ2500",
+        "company": "EquipmentShare"
+    },
+    {
+        "device": "TeraHubELD",
+        "model": "THELD1000",
+        "software": "1.0.0",
+        "identifier": "THGPS1",
+        "company": "Terahub"
+    },
+    {
         "device": "Synergy ELD",
         "model": "iOS & Geometris",
         "software": "1.0 and higher",
         "identifier": "SYNELD",
         "company": "Synergy Systems Solution, LLC"
+    },
+    {
+        "device": "MONSTER ELD",
+        "model": "4PK-BA",
+        "software": "2.96.21",
+        "identifier": "MNS915",
+        "company": "Monster ELD"
     },
     {
         "device": "Omnitracs One with Active Mobile Gateway with Communications",
@@ -4389,11 +4452,32 @@
         "company": "Omnitracs, LLC"
     },
     {
+        "device": "Geotab Drive for Freightliner Trucks",
+        "model": "CTP2",
+        "software": "11.20.188+",
+        "identifier": "DAIM01",
+        "company": "Geotab Inc."
+    },
+    {
         "device": "TRACKEASE ELD",
         "model": "TE816",
         "software": "4.05.055",
         "identifier": "EASE24",
         "company": "Trackease Inc"
+    },
+    {
+        "device": "MAX ELD",
+        "model": "MEA001",
+        "software": "5.3.3",
+        "identifier": "MEA010",
+        "company": "Max ELD"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A023490500",
+        "software": "0.2.3",
+        "identifier": "87-001",
+        "company": "Lorry Time"
     },
     {
         "device": "Companion",
@@ -4977,13 +5061,6 @@
         "company": "Darex Solutions"
     },
     {
-        "device": "Geotab Drive for Volvo Trucks",
-        "model": "TGW 2.1, TGW3",
-        "software": "11.20.188+",
-        "identifier": "VOLVO1",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "AirELD",
         "model": "Android & PT30",
         "software": "Version 1+",
@@ -5042,7 +5119,7 @@
     {
         "device": "FleetHunt ELD",
         "model": "Android & ATrack AK11 Series",
-        "software": "Version 1.2.2+",
+        "software": "Version 2.0.62+",
         "identifier": "FHELD3",
         "company": "Fleethunt Technologies"
     },
@@ -5194,13 +5271,6 @@
         "company": "ELD ON BOARD LLC"
     },
     {
-        "device": "LorryTM ELD",
-        "model": "87A023490501",
-        "software": "0.2.3",
-        "identifier": "87-001",
-        "company": "Lorry Time"
-    },
-    {
         "device": "ZeeLog ELD",
         "model": "ZeePT30",
         "software": "1.0.0",
@@ -5243,6 +5313,27 @@
         "company": "Terminus GPS ELD"
     },
     {
+        "device": "LorryTM ELD",
+        "model": "87A023490501",
+        "software": "0.2.3",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620009",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620010",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
         "device": "DLOG ELD",
         "model": "DL800",
         "software": "2.95.23",
@@ -5269,6 +5360,13 @@
         "software": "1",
         "identifier": "WFD717",
         "company": "Wizefleet Inc"
+    },
+    {
+        "device": "DriveTime ELD",
+        "model": "Ingenious BT-1",
+        "software": "4.07.001",
+        "identifier": "INT001",
+        "company": "Intangles USA Inc."
     },
     {
         "device": "DriverConnect",
@@ -5313,6 +5411,20 @@
         "company": "ZIGZAG SOLUTIONS LLC"
     },
     {
+        "device": "SIDE TO SIDE ELD",
+        "model": "S2SIDE",
+        "software": "2.90.09 and up",
+        "identifier": "S2S496",
+        "company": "SIDE TO SIDE LLC"
+    },
+    {
+        "device": "RSPRO ELD TECH",
+        "model": "RSP3-0",
+        "software": "2.99 or later",
+        "identifier": "RSP396",
+        "company": "Road Sense Technologies LLC"
+    },
+    {
         "device": "TFM ELD",
         "model": "TFMP",
         "software": "1.1.003",
@@ -5332,6 +5444,13 @@
         "software": "1.0.0",
         "identifier": "LEVELE",
         "company": "LEVEL ELD LLC"
+    },
+    {
+        "device": "Geotab Drive for Volvo Trucks",
+        "model": "TGW 2.1, TGW3",
+        "software": "11.20.188+",
+        "identifier": "VOLVO1",
+        "company": "Geotab Inc."
     },
     {
         "device": "StreetEagle ELD with SE Utility Tablet",
@@ -5434,7 +5553,7 @@
     {
         "device": "AKAL ELD",
         "model": "AKAL100",
-        "software": "v 6.3.3.2 and higher",
+        "software": "v 6.3.3.3 and higher",
         "identifier": "FF66EE",
         "company": "RoadReady Solutions (formerly GeoSpace Labs)"
     },
@@ -5831,13 +5950,6 @@
         "company": "Brave Elogs Inc"
     },
     {
-        "device": "Geotab Drive for Ford Trucks",
-        "model": "Ford PassConnect",
-        "software": "11.20.188+",
-        "identifier": "FORD01",
-        "company": "Geotab Inc."
-    },
-    {
         "device": "MiX Hours of Service for Rovi IV",
         "model": "R4",
         "software": "20.10+",
@@ -6048,6 +6160,13 @@
         "company": "IntelliShift"
     },
     {
+        "device": "ThinAir ELD",
+        "model": "DA-AP",
+        "software": "3003.2 and above",
+        "identifier": "TTHOS1",
+        "company": "ThinAir Telematics LLC"
+    },
+    {
         "device": "Core ELD",
         "model": "T229LA",
         "software": "4.2.7 or higher",
@@ -6060,6 +6179,13 @@
         "software": "2.87 and Up",
         "identifier": "CLV914",
         "company": "Clover ELD LLC"
+    },
+    {
+        "device": "Night Watch ELD",
+        "model": "PT30",
+        "software": "1.0.0 or higher",
+        "identifier": "NWE999",
+        "company": "Night Watch ELD"
     },
     {
         "device": "UNI ELD",
@@ -6097,11 +6223,32 @@
         "company": "ROYAL ELD"
     },
     {
+        "device": "Contractors E Logs - MCX1M1",
+        "model": "MCX1M1-A",
+        "software": "4.6.2",
+        "identifier": "MCX1M1",
+        "company": "EquipmentShare"
+    },
+    {
         "device": "S-LANE ELD",
         "model": "SLNET1",
         "software": "2.99.01 or higher",
         "identifier": "SLN515",
         "company": "SAFE LANE ELD INC"
+    },
+    {
+        "device": "Geotab Drive for Ford Trucks",
+        "model": "Ford PassConnect",
+        "software": "11.20.188+",
+        "identifier": "FORD01",
+        "company": "Geotab Inc."
+    },
+    {
+        "device": "MasterPro",
+        "model": "MSP05",
+        "software": "MSP5.0",
+        "identifier": "MSP005",
+        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
     },
     {
         "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
@@ -6566,13 +6713,6 @@
         "company": "Gorilla Fleet Safety, LLC"
     },
     {
-        "device": "MasterELD",
-        "model": "MELD04",
-        "software": "MELDA4.0",
-        "identifier": "MEPT04",
-        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
-    },
-    {
         "device": "TXT E Solutions Inc. ELD",
         "model": "TXTELD-5",
         "software": "5",
@@ -6750,7 +6890,7 @@
     {
         "device": "FleetHunt ELD",
         "model": "iOS & Xirgo 6300 Series",
-        "software": "Version 1.0.77+",
+        "software": "Version 1.0.85+",
         "identifier": "FHELD6",
         "company": "Fleethunt Technologies"
     },
@@ -6902,6 +7042,20 @@
         "company": "Rand McNally"
     },
     {
+        "device": "LorryTM ELD",
+        "model": "87A042620003",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
+        "device": "LorryTM ELD",
+        "model": "87A042620005",
+        "software": "187110520",
+        "identifier": "87-001",
+        "company": "Lorry Time"
+    },
+    {
         "device": "FLEXBOOK ELD",
         "model": "FLEX168",
         "software": "4.05.055",
@@ -6965,6 +7119,13 @@
         "company": "Last Minute ELD"
     },
     {
+        "device": "EasyELD",
+        "model": "MiXBYOD",
+        "software": "24.13+",
+        "identifier": "MiXNG1",
+        "company": "MiX Telematics"
+    },
+    {
         "device": "Star Track",
         "model": "ST1",
         "software": "1.1 or higher",
@@ -6977,5 +7138,12 @@
         "software": "6.9 or Later",
         "identifier": "SR5002",
         "company": "Omnitracs, LLC"
+    },
+    {
+        "device": "Bright Technologies",
+        "model": "B1",
+        "software": "1 or higher",
+        "identifier": "BRT001",
+        "company": "Bright Technologies"
     }
 ]
