@@ -665,6 +665,13 @@
         "company": "ELD Solutions"
     },
     {
+        "device": "MasterELD",
+        "model": "MELD03",
+        "software": "MELDA3.0",
+        "identifier": "MIOA01",
+        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
+    },
+    {
         "device": "CarmaLink ELD",
         "model": "RHA10X0X",
         "software": "v1.0+",
@@ -1034,6 +1041,13 @@
         "software": "3.0.2114.210816 & up",
         "identifier": "ELD001",
         "company": "Trak iT Wireless Inc"
+    },
+    {
+        "device": "MasterELD",
+        "model": "MELD02",
+        "software": "MELDA2.0",
+        "identifier": "MWLA01",
+        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
     },
     {
         "device": "A to Z ELD",
@@ -1568,6 +1582,13 @@
         "company": "TST GROUP INC."
     },
     {
+        "device": "MasterELD",
+        "model": "MELD04",
+        "software": "MELDA4.0",
+        "identifier": "MEPT04",
+        "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
+    },
+    {
         "device": "FALCON ELD",
         "model": "FTX ELD",
         "software": "1.0.0",
@@ -1643,5 +1664,12 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "Elite Power Unit AI",
+        "model": "EPU001",
+        "software": "1",
+        "identifier": "EPU001",
+        "company": "Elite Power Unit"
     }
 ]
