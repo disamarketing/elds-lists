@@ -36,7 +36,7 @@
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
-        "model": "XT6372 – VZW LTE",
+        "model": "XT6372 Ð VZW LTE",
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc."
@@ -309,7 +309,7 @@
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
-        "model": "XT6360 – AT&T 3G",
+        "model": "XT6360 Ð AT&T 3G",
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc."
@@ -469,7 +469,7 @@
         "company": "Car Delivery Network Inc"
     },
     {
-        "device": "J. J. Keller ELD – Android Compliance Tablet 2.5",
+        "device": "J. J. Keller ELD Ð Android Compliance Tablet 2.5",
         "model": "25C",
         "software": "Version 3 and higher",
         "identifier": "25C003",
@@ -693,6 +693,13 @@
         "company": "Stoneridge Inc."
     },
     {
+        "device": "ELD4LSP",
+        "model": "LSP-4",
+        "software": "2.23.10 and later",
+        "identifier": "LSP590",
+        "company": "Logistics Service Provider LLC"
+    },
+    {
         "device": "Hours of Service",
         "model": "iOS & CalAmp 3035",
         "software": "2116.21092",
@@ -712,6 +719,13 @@
         "software": "7.18.0 or Greater",
         "identifier": "ELDF5K",
         "company": "ORBCOMM"
+    },
+    {
+        "device": "ISE Fleet Services powered by eFleetSuite",
+        "model": "ANDA317",
+        "software": "1.2.70.0A or higher",
+        "identifier": "ISE001",
+        "company": "ISE Fleet Services, LLC"
     },
     {
         "device": "FleetSharp- ELD",
@@ -1064,6 +1078,13 @@
         "company": "FACTOR ELD"
     },
     {
+        "device": "Keep Tracking",
+        "model": "KTEELDV1.1",
+        "software": "1.1",
+        "identifier": "KTE001",
+        "company": "Keep Tracking"
+    },
+    {
         "device": "LionEight ELD",
         "model": "VGG",
         "software": "3.2.1 and higher",
@@ -1157,7 +1178,7 @@
     {
         "device": "TM-ELD",
         "model": "TM-200",
-        "software": "2.2.50",
+        "software": "2/2/50",
         "identifier": "TM0002",
         "company": "TFM GROUP INC."
     },
@@ -1272,6 +1293,13 @@
         "software": "1.0.0.1837 and above",
         "identifier": "3rdEye",
         "company": "ELD by 3rd Eye"
+    },
+    {
+        "device": "Rollingtrans ELD - ACCURATE ONE",
+        "model": "RT-ONE-BT01",
+        "software": "1.3.3.338",
+        "identifier": "RTOA47",
+        "company": "Rollingtrans"
     },
     {
         "device": "Titan GPS Logbook",
@@ -1458,7 +1486,7 @@
     {
         "device": "Versalog",
         "model": "V1000",
-        "software": "1.2.0",
+        "software": "1/2/00",
         "identifier": "VERSA1",
         "company": "Brian Martin"
     },
@@ -1485,7 +1513,7 @@
     },
     {
         "device": "OnCommand(R) Connection Electronic Driver Log",
-        "model": "XT6376 – AT&T LTE/3G",
+        "model": "XT6376 Ð AT&T LTE/3G",
         "software": "1.1 and higher",
         "identifier": "OCC001",
         "company": "Navistar, Inc."
@@ -1559,6 +1587,13 @@
         "software": "2.71.44 or above",
         "identifier": "BRS153",
         "company": "BLUE STAR ELD INC"
+    },
+    {
+        "device": "RT ELD Plus - ACCURATE PLUS",
+        "model": "RT-PLUS-BLE3647",
+        "software": "1.4",
+        "identifier": "RTPS47",
+        "company": "Rollingtrans"
     },
     {
         "device": "CN ELD",
