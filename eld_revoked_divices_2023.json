@@ -392,6 +392,13 @@
         "company": "Omnitracs, LLC"
     },
     {
+        "device": "XELD",
+        "model": "GSIPTH",
+        "software": "3.7.0 and higher",
+        "identifier": "AT3103",
+        "company": "XELD"
+    },
+    {
         "device": "Trak iT ELD",
         "model": "Trak iT ELD",
         "software": "2.1 or higher",
@@ -1281,6 +1288,13 @@
         "company": "Azuga, Inc."
     },
     {
+        "device": "Unione Eld",
+        "model": "Android & PT30",
+        "software": "1.1.6",
+        "identifier": "UNI001",
+        "company": "UNIONE LLC"
+    },
+    {
         "device": "J. J. Keller ELD - Android Tablet 2.0",
         "model": "20C",
         "software": "Version 3 and higher",
@@ -1440,6 +1454,13 @@
         "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc."
+    },
+    {
+        "device": "COLUMBUS ELD",
+        "model": "C-US",
+        "software": "2.199.51 and higher",
+        "identifier": "CMB388",
+        "company": "Columbus ELD"
     },
     {
         "device": "Hours Of Service",
@@ -1636,6 +1657,13 @@
         "software": "2.4",
         "identifier": "AWTELD",
         "company": "ALL-WAYS TRACK, LLC."
+    },
+    {
+        "device": "Mountain ELD",
+        "model": "MT01",
+        "software": "4/1/06",
+        "identifier": "MTIA01",
+        "company": "Alaska Safety Inc"
     },
     {
         "device": "Hours of Service",
