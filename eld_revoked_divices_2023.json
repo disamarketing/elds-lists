@@ -210,6 +210,20 @@
         "company": "GOLDEN ELD"
     },
     {
+        "device": "TrackEnsure ELD",
+        "model": "PT30",
+        "software": "3.01.47 and higher",
+        "identifier": "TE0101",
+        "company": "TrackEnsure Incorporated"
+    },
+    {
+        "device": "TrackEnsure ELD",
+        "model": "PT30",
+        "software": "3.0.59 or higher",
+        "identifier": "TE0101",
+        "company": "TrackEnsure Incorporated"
+    },
+    {
         "device": "Hours Of Service",
         "model": "iOS & GenEx GNX-6",
         "software": "2116.21092",
@@ -271,6 +285,13 @@
         "software": "33",
         "identifier": "123456",
         "company": "SOAR Solutions, Inc."
+    },
+    {
+        "device": "TeraTrackingELD",
+        "model": "GDELD1000",
+        "software": "1.0.0 or newer",
+        "identifier": "T3RATR",
+        "company": "Tera Tracking LLC"
     },
     {
         "device": "Linxup ELD",
@@ -413,6 +434,20 @@
         "company": "Linxup"
     },
     {
+        "device": "LB Technologies FleetTrack HOS",
+        "model": "LBTFTH",
+        "software": "1.17.1 and Above",
+        "identifier": "FTHOS1",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Speed ELD",
+        "model": "SPE 1",
+        "software": "v1.0 and higher",
+        "identifier": "SP33D3",
+        "company": "Speed ELD"
+    },
+    {
         "device": "Hours Of Service",
         "model": "Android & Atlas",
         "software": "3.0.2116.210920",
@@ -439,6 +474,13 @@
         "software": "3.0.2116.210920",
         "identifier": "HOS001",
         "company": "Azuga, Inc."
+    },
+    {
+        "device": "SR ELD",
+        "model": "SR-E",
+        "software": "2.110.0 and up",
+        "identifier": "SRE288",
+        "company": "SR ELD LLC"
     },
     {
         "device": "GOLDEN ELD 2.0",
@@ -523,13 +565,6 @@
         "software": "2",
         "identifier": "HAUL02",
         "company": "Xpress Technologies, Inc."
-    },
-    {
-        "device": "TruckX-ELD n/k/a ELD 0.2",
-        "model": "XELD",
-        "software": "2.1.13+",
-        "identifier": "TRX927",
-        "company": "TruckX Inc"
     },
     {
         "device": "Matrack SmartELD for Android",
@@ -658,6 +693,13 @@
         "company": "TMS ONE"
     },
     {
+        "device": "TruckX-ELD n/k/a ELD 0.2",
+        "model": "XELD",
+        "software": "2.1.13+",
+        "identifier": "TRX927",
+        "company": "TruckX Inc"
+    },
+    {
         "device": "OnroadELD",
         "model": "OELD",
         "software": "1.0 or higher",
@@ -684,6 +726,20 @@
         "software": "v1.0+",
         "identifier": "RHA10X",
         "company": "Carmalink, Inc."
+    },
+    {
+        "device": "HCSS ELD",
+        "model": "HCSSGE1",
+        "software": "1.20.1 and Above",
+        "identifier": "ELDH01",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "BLUE STAR ELD",
+        "model": "BSE",
+        "software": "1.0.0 or higher",
+        "identifier": "BSE777",
+        "company": "BLUE STAR ELD INC"
     },
     {
         "device": "Hours Of Service",
@@ -917,23 +973,16 @@
         "company": "OpenEyes lnsurance Agency Inc"
     },
     {
-        "device": "Hours Of Service",
-        "model": "Android & Pacific Track",
-        "software": "3.0.2116.210920",
-        "identifier": "HOS001",
-        "company": "Azuga, Inc."
+        "device": "AllwaysTrack",
+        "model": "AT001",
+        "software": "1.16.1 and Above",
+        "identifier": "ATN001",
+        "company": "Gorilla Fleet Safety, LLC"
     },
     {
         "device": "Hours of Service",
         "model": "Android & CalAmp 3035",
         "software": "3.0.2116.210920",
-        "identifier": "HOS001",
-        "company": "Azuga, Inc."
-    },
-    {
-        "device": "Hours Of Service",
-        "model": "iOS & Pacific Track",
-        "software": "2116.21092",
         "identifier": "HOS001",
         "company": "Azuga, Inc."
     },
@@ -957,6 +1006,13 @@
         "software": "3.5",
         "identifier": "PRO400",
         "company": "ORBCOMM"
+    },
+    {
+        "device": "Simplex ELD 2GO",
+        "model": "SXIOSAN",
+        "software": "1.17.1 and above",
+        "identifier": "SIM001",
+        "company": "Gorilla Fleet Safety, LLC"
     },
     {
         "device": "VDO RoadLog ELD",
@@ -1155,6 +1211,13 @@
         "company": "ONE20, Inc."
     },
     {
+        "device": "Dumax ELD",
+        "model": "PT30",
+        "software": "1",
+        "identifier": "PT30-0",
+        "company": "DUMAX GPS"
+    },
+    {
         "device": "TSO ELD",
         "model": "TSO101",
         "software": "1621.6202 or higher",
@@ -1288,6 +1351,34 @@
         "company": "Azuga, Inc."
     },
     {
+        "device": "Gorilla Safety Compact ELD",
+        "model": "GS0002",
+        "software": "4.21.1 And Above",
+        "identifier": "GS0002",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "ELDX",
+        "model": "XGEOAN",
+        "software": "1.17.1 and Above",
+        "identifier": "ELDX03",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
+        "device": "Stoneridge EZ-ELD",
+        "model": "ELD1.0",
+        "software": "App 1.0 or higher",
+        "identifier": "EZELD1",
+        "company": "Stoneridge Inc."
+    },
+    {
+        "device": "United Eld",
+        "model": "UE002",
+        "software": "4/4/05",
+        "identifier": "UEI002",
+        "company": "ROAD STAR INC."
+    },
+    {
         "device": "Unione Eld",
         "model": "Android & PT30",
         "software": "1.1.6",
@@ -1314,6 +1405,13 @@
         "software": "1.3.3.338",
         "identifier": "RTOA47",
         "company": "Rollingtrans"
+    },
+    {
+        "device": "Dumax ELD",
+        "model": "FMB001",
+        "software": "1",
+        "identifier": "FMB01A",
+        "company": "DUMAX GPS"
     },
     {
         "device": "Titan GPS Logbook",
@@ -1414,6 +1512,13 @@
         "company": "Fleet Hawks Inc."
     },
     {
+        "device": "Command Alkon Trackit",
+        "model": "CATT01",
+        "software": "1.23.1 and Above",
+        "identifier": "CATT01",
+        "company": "Gorilla Fleet Safety, LLC"
+    },
+    {
         "device": "LionEight ELD",
         "model": "VGG",
         "software": "3.2.1 and higher",
@@ -1433,6 +1538,13 @@
         "software": "2.14.8 or higher",
         "identifier": "CRS270",
         "company": "CV Options LLC"
+    },
+    {
+        "device": "ROAD STAR SOLUTIONS",
+        "model": "RSSE01",
+        "software": "RSSEA1.0",
+        "identifier": "RSSA01",
+        "company": "ROAD STAR INC."
     },
     {
         "device": "Hours Of Service",
@@ -1643,6 +1755,13 @@
         "software": "MELDA4.0",
         "identifier": "MEPT04",
         "company": "NATIONAL TRANSPORTATION PARTNERS LLC"
+    },
+    {
+        "device": "Trucker Path ELD Pro",
+        "model": "Trucker Path ELD Pro",
+        "software": "1.4.2 and Above",
+        "identifier": "TPPro2",
+        "company": "Gorilla Fleet Safety, LLC"
     },
     {
         "device": "FALCON ELD",
