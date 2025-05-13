@@ -504,6 +504,13 @@
         "company": "I-Soft Global Software Solutions"
     },
     {
+        "device": "TURTLE ELD",
+        "model": "TMNT",
+        "software": "2.98.09 or higher",
+        "identifier": "TRT817",
+        "company": "Turtle Eld LLC"
+    },
+    {
         "device": "Fleetwatcher E-Logs",
         "model": "GS4230",
         "software": "1.0.1",
@@ -1414,13 +1421,6 @@
         "company": "Rollingtrans"
     },
     {
-        "device": "Dumax ELD",
-        "model": "FMB001",
-        "software": "1",
-        "identifier": "FMB01A",
-        "company": "DUMAX GPS"
-    },
-    {
         "device": "Titan GPS Logbook",
         "model": "TT1800 ELD iOS",
         "software": "1905.190710 and up",
@@ -1608,6 +1608,13 @@
         "software": "3.5",
         "identifier": "ELD850",
         "company": "ORBCOMM"
+    },
+    {
+        "device": "Dumax ELD",
+        "model": "FMB001",
+        "software": "1",
+        "identifier": "FMB01A",
+        "company": "DUMAX GPS"
     },
     {
         "device": "AwareGPS- ELD",
@@ -1860,5 +1867,12 @@
         "software": "1",
         "identifier": "EPU001",
         "company": "Elite Power Unit"
+    },
+    {
+        "device": "\"\"AT ELD\"\"",
+        "model": "ATELD1",
+        "software": "1.1 or higher",
+        "identifier": "ATELD7",
+        "company": "AT ELD SERVICE"
     }
 ]
