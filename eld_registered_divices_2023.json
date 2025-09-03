@@ -315,13 +315,6 @@
     "company": "MIORA GROUP INC"
   },
   {
-    "device": "GPSTab ELD Edition",
-    "model": "GELDN01",
-    "software": "4.1.5",
-    "identifier": "GNA001",
-    "company": "Utech Inc."
-  },
-  {
     "device": "3PL TEK ELD",
     "model": "3RS",
     "software": "2.0 or higher",
@@ -352,7 +345,7 @@
   {
     "device": "Vista ELD ( Android)",
     "model": "PT30",
-    "software": "1.0.01",
+    "software": "1.0.01 or higher",
     "identifier": "VELD11",
     "company": "Vista ELD"
   },
@@ -390,13 +383,6 @@
     "software": "2.0 or higher",
     "identifier": "TRS263",
     "company": "Truckford ELD"
-  },
-  {
-    "device": "GPSTab ELD Edition",
-    "model": "GELDN01",
-    "software": "3.3.1",
-    "identifier": "GNA002",
-    "company": "Utech Inc."
   },
   {
     "device": "Onroad ELD",
@@ -518,13 +504,6 @@
     "company": "LEON ELD"
   },
   {
-    "device": "Omnitracs XRS ELD SYSTEM",
-    "model": "XRS",
-    "software": "7.1 or Later",
-    "identifier": "XRSAN1",
-    "company": "Omnitracs, LLC"
-  },
-  {
     "device": "VDOS ELD",
     "model": "VDOS ELD iOS/Geotab",
     "software": "2.5.0 or greater",
@@ -548,7 +527,7 @@
   {
     "device": "Geotab Drive for Mack Trucks",
     "model": "TGW 2.1, TGW3",
-    "software": "11.20.188+",
+    "software": "11.85.292+",
     "identifier": "MACK01",
     "company": "Geotab Inc."
   },
@@ -637,13 +616,6 @@
     "company": "Apex ELD Inc"
   },
   {
-    "device": "ZENELD",
-    "model": "WP 01004",
-    "software": "3.3 or higher",
-    "identifier": "WP0215",
-    "company": "Waypoint Solutions LLC"
-  },
-  {
     "device": "FleetVision ELD",
     "model": "TRA5XG",
     "software": "1.0.0",
@@ -721,6 +693,13 @@
     "company": "TruckX Inc"
   },
   {
+    "device": "Omnitracs XRS ELD SYSTEM",
+    "model": "XRS",
+    "software": "7.1 or Later",
+    "identifier": "XRSAN1",
+    "company": "Omnitracs, LLC"
+  },
+  {
     "device": "TrackPro ELD",
     "model": "PT30, IOSiX",
     "software": "1.01.01",
@@ -733,6 +712,20 @@
     "software": "2.4.0 or later",
     "identifier": "ETPGPS",
     "company": "ENTERPRISE GPS INC"
+  },
+  {
+    "device": "GPSTab ELD Edition",
+    "model": "GELDN01",
+    "software": "4.1.5",
+    "identifier": "GNA001",
+    "company": "Utech Inc."
+  },
+  {
+    "device": "GPSTab ELD Edition",
+    "model": "GELDN01",
+    "software": "3.3.1",
+    "identifier": "GNA002",
+    "company": "Utech Inc."
   },
   {
     "device": "Alert Gps Inc. ELD",
@@ -782,13 +775,6 @@
     "software": "6.08.00 and Higher",
     "identifier": "DT4R06",
     "company": "DriverTech LLC"
-  },
-  {
-    "device": "infoTRAK ELD",
-    "model": "infoTRAK Bluelink",
-    "software": "3.7 and Higher",
-    "identifier": "ISELD9",
-    "company": "e-Infospectrum Inc."
   },
   {
     "device": "Geowiz ELD",
@@ -1365,13 +1351,6 @@
     "company": "Century ELD INC"
   },
   {
-    "device": "WALKER ELD",
-    "model": "WAL-R",
-    "software": "2.23-05 or higher",
-    "identifier": "WLK790",
-    "company": "Walker ELD System INC"
-  },
-  {
     "device": "Azuga ELD",
     "model": "iOS & Geometris",
     "software": "2116.21092",
@@ -1589,13 +1568,6 @@
     "company": "Asritsolutions LLC"
   },
   {
-    "device": "Omnitracs One with Relay",
-    "model": "Relay-Android-Drive",
-    "software": "7.1 or later",
-    "identifier": "REL002",
-    "company": "Omnitracs, LLC"
-  },
-  {
     "device": "Radius ELD",
     "model": "RAD 0010",
     "software": "3.3 or higher",
@@ -1617,13 +1589,6 @@
     "company": "Regulog eld inc"
   },
   {
-    "device": "Mighty ELD",
-    "model": "M3Q9X1",
-    "software": "1.6.0 and up",
-    "identifier": "D7V5L8",
-    "company": "Mighty Log"
-  },
-  {
     "device": "PoP ELD",
     "model": "PE39OP",
     "software": "1.0 and higher",
@@ -1643,6 +1608,13 @@
     "software": "2.94.45 or above",
     "identifier": "DDL996",
     "company": "DocuDrive LLC"
+  },
+  {
+    "device": "infoTRAK ELD",
+    "model": "infoTRAK Bluelink",
+    "software": "3.7 and Higher",
+    "identifier": "ISELD9",
+    "company": "e-Infospectrum Inc."
   },
   {
     "device": "Rock ELD",
@@ -1687,6 +1659,13 @@
     "company": "Chameleon Innovation Technology"
   },
   {
+    "device": "Omnitracs One with Relay",
+    "model": "Relay-Android-Drive",
+    "software": "7.1 or later",
+    "identifier": "REL002",
+    "company": "Omnitracs, LLC"
+  },
+  {
     "device": "FM ELD",
     "model": "FMV1",
     "software": "FM V1.0.68.115",
@@ -1699,6 +1678,13 @@
     "software": "1",
     "identifier": "ELD880",
     "company": "ELD 88 LLC"
+  },
+  {
+    "device": "Next Fleet ELD",
+    "model": "M3Q9X1",
+    "software": "2.3.0 and up",
+    "identifier": "D7V5L8",
+    "company": "Next Fleet ELD"
   },
   {
     "device": "StreetEagle ELD with SE Compliance Tablet",
@@ -2277,16 +2263,9 @@
   {
     "device": "FleetHunt ELD",
     "model": "Android & Pacific Track",
-    "software": "Version 2.0.62+",
+    "software": "Version 2.0.90+",
     "identifier": "FHELD4",
     "company": "Fleethunt Technologies"
-  },
-  {
-    "device": "Shell Telematics ELD",
-    "model": "SH9",
-    "software": "5.7.2002.XXX & up",
-    "identifier": "SHELL9",
-    "company": "Shell Fleet Solutions"
   },
   {
     "device": "Panda ELD",
@@ -2431,7 +2410,7 @@
   {
     "device": "FORZA ELD",
     "model": "4ZALD",
-    "software": "2.96.28",
+    "software": "2.96.28+",
     "identifier": "FRZ616",
     "company": "Fortza ELD"
   },
@@ -2452,7 +2431,7 @@
   {
     "device": "Geotab Drive for International Trucks",
     "model": "N2",
-    "software": "11.20.188+",
+    "software": "11.85.292+",
     "identifier": "NVSRN2",
     "company": "Geotab Inc."
   },
@@ -2485,13 +2464,6 @@
     "company": "Route One Go INC"
   },
   {
-    "device": "Hutch ELD iOS",
-    "model": "HELD16I",
-    "software": "1.3.9.9 or Higher",
-    "identifier": "HELD23",
-    "company": "Hutch Systems Inc"
-  },
-  {
     "device": "Synergy ELD",
     "model": "Android & Geometris",
     "software": "1.0 and higher",
@@ -2511,13 +2483,6 @@
     "software": "Android 1.1",
     "identifier": "UNIELD",
     "company": "UNI ELD"
-  },
-  {
-    "device": "Orion eLog",
-    "model": "354",
-    "software": "2.0.545",
-    "identifier": "674663",
-    "company": "Praxis Technologies, Inc."
   },
   {
     "device": "GLOBAL ELD",
@@ -2560,13 +2525,6 @@
     "software": "5.0 and above",
     "identifier": "CAUS01",
     "company": "Gorilla Fleet Safety, LLC"
-  },
-  {
-    "device": "SIMPLETRUCKELD",
-    "model": "STEELDV15.1.0.19",
-    "software": "1.0.19",
-    "identifier": "STEELD",
-    "company": "SimpleTruckELD INC"
   },
   {
     "device": "J. J. Keller ELD - Android BYOD and Compliance Tablet Gen 3.0",
@@ -2618,10 +2576,10 @@
     "company": "ELD HUB"
   },
   {
-    "device": "NEW ELD WORLD 1.4",
-    "model": "NEW 004",
+    "device": "Got ELD",
+    "model": "GE 001",
     "software": "1.3.0 or Higher",
-    "identifier": "NEW004",
+    "identifier": "GoE001",
     "company": "NEW ELD WORLD INC"
   },
   {
@@ -2639,11 +2597,32 @@
     "company": "United Parcel Service"
   },
   {
+    "device": "Orion eLog",
+    "model": "354",
+    "software": "2.0.545",
+    "identifier": "674663",
+    "company": "Praxis Technologies, Inc."
+  },
+  {
     "device": "OxemonEld",
     "model": "PV0804",
     "software": "1.0.0",
     "identifier": "OXGPS1",
     "company": "Oxemon"
+  },
+  {
+    "device": "SIMPLETRUCKELD",
+    "model": "STEELDV15.1.0.19",
+    "software": "1.0.19",
+    "identifier": "STEELD",
+    "company": "SimpleTruckELD INC"
+  },
+  {
+    "device": "Hutch ELD iOS",
+    "model": "HELD16I",
+    "software": "1.3.9.9 or Higher",
+    "identifier": "HELD23",
+    "company": "Hutch Systems Inc"
   },
   {
     "device": "HOS247 ELD",
@@ -3101,13 +3080,6 @@
     "company": "Matrack Inc."
   },
   {
-    "device": "GPSTab ELD Edition",
-    "model": "GELD01",
-    "software": "4.1.5",
-    "identifier": "GBFA01",
-    "company": "Utech Inc."
-  },
-  {
     "device": "\"\"All in one\"\" Ez-Simple2 ELD by Ezlogz",
     "model": "EZ101",
     "software": "iOS.2.4.4/GP2.1.45UP",
@@ -3186,7 +3158,7 @@
   },
   {
     "device": "Lytx ELD",
-    "model": "SF300, SF400",
+    "model": "SF300, SF400, GO9B",
     "software": "5.17.230 or later",
     "identifier": "LYTX01",
     "company": "Lytx, Inc."
@@ -3367,13 +3339,6 @@
     "company": "Rand McNally"
   },
   {
-    "device": "Omnitracs Intelligent Vehicle Gateway",
-    "model": "IVG",
-    "software": "DA1313R or later",
-    "identifier": "IVG001",
-    "company": "Omnitracs, LLC"
-  },
-  {
     "device": "NS ELD",
     "model": "GDELD1000",
     "software": "1.0.0 or later",
@@ -3416,16 +3381,9 @@
     "company": "RING ELD"
   },
   {
-    "device": "Hutch ELD",
-    "model": "Mercury",
-    "software": "1.2.5.11 - higher",
-    "identifier": "HELD16",
-    "company": "Hutch Systems Inc"
-  },
-  {
     "device": "Geotab Drive Cloud ELD",
     "model": "GO6, GO7, GO8, GO9, GO9B, PEP-GO7. PEP-GO8, or FL7 (Spireon), FL8 (Spireon) or RI7/8 (by BSM) or T7, T9, SH9",
-    "software": "11.59.273+",
+    "software": "11.85.292+",
     "identifier": "GEOTAB",
     "company": "Geotab Inc."
   },
@@ -3493,25 +3451,25 @@
     "company": "Babakaj LLC"
   },
   {
-    "device": "SmartRecorderª 4",
-    "model": "SR4B",
-    "software": "7.1 or later",
-    "identifier": "SR4002",
-    "company": "Omnitracs, LLC"
-  },
-  {
-    "device": "FREEDOM LOGBOOK",
-    "model": "SSLSD5",
-    "software": "2.99 and up",
-    "identifier": "FRD316",
-    "company": "Freedom Log Book LLC"
-  },
-  {
     "device": "FIRSTGATE ELD",
     "model": "1ST-GT",
     "software": "2.94 and above",
     "identifier": "FGT816",
     "company": "Firstgates LLC"
+  },
+  {
+    "device": "Omnitracs Intelligent Vehicle Gateway",
+    "model": "IVG",
+    "software": "DA1313R or later",
+    "identifier": "IVG001",
+    "company": "Omnitracs, LLC"
+  },
+  {
+    "device": "SmartRecorderª 4",
+    "model": "SR4B",
+    "software": "7.1 or later",
+    "identifier": "SR4002",
+    "company": "Omnitracs, LLC"
   },
   {
     "device": "J. J. Keller ELD - Android BYOD 2.0 and Compliance Tablet",
@@ -3556,6 +3514,13 @@
     "company": "Gorilla Fleet Safety, LLC"
   },
   {
+    "device": "GPSTab ELD Edition",
+    "model": "GELD01",
+    "software": "4.1.5",
+    "identifier": "GBFA01",
+    "company": "Utech Inc."
+  },
+  {
     "device": "In Time ELD",
     "model": "In Time ELD 23",
     "software": "1.1.4 or Higher",
@@ -3575,6 +3540,13 @@
     "software": "1",
     "identifier": "ELD880",
     "company": "ELD 88 LLC"
+  },
+  {
+    "device": "Hutch ELD",
+    "model": "Mercury",
+    "software": "1.2.5.11 - higher",
+    "identifier": "HELD16",
+    "company": "Hutch Systems Inc"
   },
   {
     "device": "RCO ELD",
@@ -4013,7 +3985,7 @@
   {
     "device": "Vista ELD (iOS)",
     "model": "PT30",
-    "software": "1.0.01",
+    "software": "1.0.01 or higher",
     "identifier": "VELD11",
     "company": "Vista ELD"
   },
@@ -4053,13 +4025,6 @@
     "company": "Matrack Inc."
   },
   {
-    "device": "GPSTab ELD Edition",
-    "model": "GELDW01",
-    "software": "4.1.5",
-    "identifier": "GWA001",
-    "company": "Utech Inc."
-  },
-  {
     "device": "FACTOR ELD",
     "model": "FRS",
     "software": "2.6.13 or higher",
@@ -4097,7 +4062,7 @@
   {
     "device": "GLOBCOM ELD",
     "model": "GC-X5",
-    "software": "2.22.15 and up",
+    "software": "2.118.3and up",
     "identifier": "GLC783",
     "company": "GLOBCOM ELD"
   },
@@ -4167,14 +4132,14 @@
   {
     "device": "FleetHunt ELD",
     "model": "Android & Xirgo 6300 Series",
-    "software": "Version 2.0.62+",
+    "software": "Version 2.0.90+",
     "identifier": "FHELD1",
     "company": "Fleethunt Technologies"
   },
   {
     "device": "FleetHunt ELD",
     "model": "iOS & Pacific Track",
-    "software": "Version 1.0.85+",
+    "software": "Version 1.0.121+",
     "identifier": "FHELD5",
     "company": "Fleethunt Technologies"
   },
@@ -4410,16 +4375,9 @@
     "company": "Monster ELD"
   },
   {
-    "device": "Omnitracs One with Active Mobile Gateway with Communications",
-    "model": "AMG-C-Android-Drive",
-    "software": "7.1 or Later",
-    "identifier": "AMG002",
-    "company": "Omnitracs, LLC"
-  },
-  {
     "device": "Geotab Drive for Freightliner Trucks",
     "model": "CTP2, CTP3",
-    "software": "11.80+",
+    "software": "11.85.292+",
     "identifier": "DAIM01",
     "company": "Geotab Inc."
   },
@@ -4436,6 +4394,13 @@
     "software": "1.0.0 or higher",
     "identifier": "E4TGPS",
     "company": "ELD4TRUCKS INC."
+  },
+  {
+    "device": "Omnitracs One with Active Mobile Gateway with Communications",
+    "model": "AMG-C-Android-Drive",
+    "software": "7.1 or Later",
+    "identifier": "AMG002",
+    "company": "Omnitracs, LLC"
   },
   {
     "device": "SUNRISER ELD",
@@ -4506,6 +4471,13 @@
     "software": "V1.5.8",
     "identifier": "GETK10",
     "company": "Global Telecommunication Services, Inc."
+  },
+  {
+    "device": "GPSTab ELD Edition",
+    "model": "GELDW01",
+    "software": "4.1.5",
+    "identifier": "GWA001",
+    "company": "Utech Inc."
   },
   {
     "device": "TruckSpot ELD",
@@ -5133,7 +5105,7 @@
   {
     "device": "FleetHunt ELD",
     "model": "Android & ATrack AK11 Series",
-    "software": "Version 2.0.62+",
+    "software": "Version 2.0.90+",
     "identifier": "FHELD3",
     "company": "Fleethunt Technologies"
   },
@@ -5366,7 +5338,7 @@
     "model": "Elite001",
     "software": "1.0.1",
     "identifier": "EAI001",
-    "company": "Elite Power Unit"
+    "company": "Elite Power Unit LLC"
   },
   {
     "device": "Fortune ELD iOS",
@@ -5392,16 +5364,9 @@
   {
     "device": "Geotab Drive for Volvo Trucks",
     "model": "TGW 2.1, TGW3",
-    "software": "11.20.188+",
+    "software": "11.85.292+",
     "identifier": "VOLVO1",
     "company": "Geotab Inc."
-  },
-  {
-    "device": "PINNACLE ELD",
-    "model": "BT-1",
-    "software": "1.0.0 or later",
-    "identifier": "P1NELD",
-    "company": "PINNACLE ELD INC"
   },
   {
     "device": "NovaELD",
@@ -5500,6 +5465,13 @@
     "software": "1.0.0",
     "identifier": "3PB27S",
     "company": "Logfleet"
+  },
+  {
+    "device": "PINNACLE ELD",
+    "model": "BT-1",
+    "software": "1.0.0 or later",
+    "identifier": "P1NELD",
+    "company": "PINNACLE ELD INC"
   },
   {
     "device": "Big Rig ELD",
@@ -5901,13 +5873,6 @@
     "company": "TOP ELD"
   },
   {
-    "device": "Garmin eLog",
-    "model": "GE1I01",
-    "software": "8.90 or later",
-    "identifier": "GE1I01",
-    "company": "Garmin International"
-  },
-  {
     "device": "\"\"HOS Reporter PLUS\"\"",
     "model": "XEL-003",
     "software": "215 or Higher",
@@ -5934,13 +5899,6 @@
     "software": "2.20-17 or above",
     "identifier": "PRS260",
     "company": "Spectrum X Logistics, LLC"
-  },
-  {
-    "device": "Freeway 247",
-    "model": "FELD01",
-    "software": "4.1.5",
-    "identifier": "FBFA01",
-    "company": "Utech Inc."
   },
   {
     "device": "AUTOGRI ELD",
@@ -5976,6 +5934,13 @@
     "software": "2.22.19 and later",
     "identifier": "BRS690",
     "company": "Brave Elogs Inc"
+  },
+  {
+    "device": "Garmin eLog",
+    "model": "GE1I01",
+    "software": "9.10 or later",
+    "identifier": "GE1I01",
+    "company": "Garmin International"
   },
   {
     "device": "MiX Hours of Service for Rovi IV",
@@ -6025,13 +5990,6 @@
     "software": "3.0.2220.230627",
     "identifier": "HOS001",
     "company": "Azuga, Inc."
-  },
-  {
-    "device": "MementoELD",
-    "model": "BT-1",
-    "software": "1.0.0 or later",
-    "identifier": "MEMBT1",
-    "company": "MEMENTO ELD INC"
   },
   {
     "device": "Xplore ELD",
@@ -6146,13 +6104,6 @@
     "company": "ThinAir Telematics LLC"
   },
   {
-    "device": "Core ELD",
-    "model": "T229LA",
-    "software": "4.2.7 or higher",
-    "identifier": "CORELD",
-    "company": "CORE LINES LLC"
-  },
-  {
     "device": "CLOVER ELD",
     "model": "G-LCK",
     "software": "2.87 and Up",
@@ -6172,13 +6123,6 @@
     "software": "iOS 1.1",
     "identifier": "UNIELD",
     "company": "UNI ELD"
-  },
-  {
-    "device": "Omnitracs One Active Mobile Gateway with Communications",
-    "model": "AMG-C",
-    "software": "7.1 or Later",
-    "identifier": "AMG001",
-    "company": "Omnitracs, LLC"
   },
   {
     "device": "FACTOR ELD",
@@ -6225,7 +6169,7 @@
   {
     "device": "Geotab Drive for Ford Trucks",
     "model": "Ford PassConnect",
-    "software": "11.20.188+",
+    "software": "11.85.292+",
     "identifier": "FORD01",
     "company": "Geotab Inc."
   },
@@ -6300,6 +6244,27 @@
     "company": "GPS Insight"
   },
   {
+    "device": "Freeway 247",
+    "model": "FELD01",
+    "software": "4.1.5",
+    "identifier": "FBFA01",
+    "company": "Utech Inc."
+  },
+  {
+    "device": "Omnitracs One Active Mobile Gateway with Communications",
+    "model": "AMG-C",
+    "software": "7.1 or Later",
+    "identifier": "AMG001",
+    "company": "Omnitracs, LLC"
+  },
+  {
+    "device": "Core ELD",
+    "model": "T229LA",
+    "software": "4.2.7 or higher",
+    "identifier": "CORELD",
+    "company": "CORE LINES LLC"
+  },
+  {
     "device": "STL ELD",
     "model": "STLAB7",
     "software": "4.4.7 and higher",
@@ -6312,6 +6277,13 @@
     "software": "3.0.2116.210920",
     "identifier": "OFIELD",
     "company": "Orion Security LSP LLC"
+  },
+  {
+    "device": "MementoELD",
+    "model": "BT-1",
+    "software": "1.0.0 or later",
+    "identifier": "MEMBT1",
+    "company": "MEMENTO ELD INC"
   },
   {
     "device": "Verizon Connect WorkPlan & HOS ELD (Android & iOS) - Formerly Telogis WorkPlan & HOS",
@@ -6783,20 +6755,6 @@
     "company": "DREAM ELD"
   },
   {
-    "device": "Garmin eLog",
-    "model": "GE1A01",
-    "software": "8.90 or later",
-    "identifier": "GE1A01",
-    "company": "Garmin International"
-  },
-  {
-    "device": "Garmin eLog - d_zl 780, d_zlCam 785, d_zl OTR/LGV 800, d_zl OTR/LGV 810, d_zl OTR/LGV 1000, d_zl OTR/LGV 1010",
-    "model": "GE1D01",
-    "software": "8.90 or later",
-    "identifier": "GE1D01",
-    "company": "Garmin International"
-  },
-  {
     "device": "Helios ELD",
     "model": "Helios VK",
     "software": "405011AND 40517IOS",
@@ -6902,6 +6860,20 @@
     "company": "Rapid Apps Group, LLC"
   },
   {
+    "device": "Garmin eLog - d_zl 780, d_zlCam 785, d_zl OTR/LGV 800, d_zl OTR/LGV 810, d_zl OTR/LGV 1000, d_zl OTR/LGV 1010",
+    "model": "GE1D01",
+    "software": "9.10 or later",
+    "identifier": "GE1D01",
+    "company": "Garmin International"
+  },
+  {
+    "device": "Garmin eLog",
+    "model": "GE1A01",
+    "software": "9.10 or later",
+    "identifier": "GE1A01",
+    "company": "Garmin International"
+  },
+  {
     "device": "Advaya ELD",
     "model": "ADV001",
     "software": "V1.0 and above",
@@ -6918,7 +6890,7 @@
   {
     "device": "FleetHunt ELD",
     "model": "iOS & Xirgo 6300 Series",
-    "software": "Version 1.0.85+",
+    "software": "Version 1.0.121+",
     "identifier": "FHELD6",
     "company": "Fleethunt Technologies"
   },
@@ -7091,20 +7063,6 @@
     "company": "ADA ELD"
   },
   {
-    "device": "GoodDealGPS",
-    "model": "GDELD1000",
-    "software": "9.29.0 or higher",
-    "identifier": "GDGGPS",
-    "company": "Bransys"
-  },
-  {
-    "device": "Green Light ELD",
-    "model": "PT30, IOSiX",
-    "software": "1.01.01",
-    "identifier": "GLEHOS",
-    "company": "Green Light ELD LLC"
-  },
-  {
     "device": "DriverConnect",
     "model": "ELD 50 9 pin",
     "software": "Android6.6.1;iOS2.6",
@@ -7126,13 +7084,6 @@
     "company": "Timetrack ELD"
   },
   {
-    "device": "TransitTrackingEld",
-    "model": "TTELD1000",
-    "software": "1.0.0",
-    "identifier": "TTGPS1",
-    "company": "Transit Tracking"
-  },
-  {
     "device": "LAST MINUTE ELD",
     "model": "360-LM",
     "software": "2.96.33 and up",
@@ -7152,13 +7103,6 @@
     "software": "1.1 or higher",
     "identifier": "STE100",
     "company": "Star Track"
-  },
-  {
-    "device": "SmartRecorderª 5",
-    "model": "SR5B",
-    "software": "7.1 or Later",
-    "identifier": "SR5002",
-    "company": "Omnitracs, LLC"
   },
   {
     "device": "Bright Technologies",
@@ -7224,6 +7168,27 @@
     "company": "XELD"
   },
   {
+    "device": "Green Light ELD",
+    "model": "PT30, IOSiX",
+    "software": "1.01.01",
+    "identifier": "GLEHOS",
+    "company": "Green Light ELD LLC"
+  },
+  {
+    "device": "SmartRecorderª 5",
+    "model": "SR5B",
+    "software": "7.1 or Later",
+    "identifier": "SR5002",
+    "company": "Omnitracs, LLC"
+  },
+  {
+    "device": "GoodDealGPS",
+    "model": "GDELD1000",
+    "software": "9.29.0 or higher",
+    "identifier": "GDGGPS",
+    "company": "Bransys"
+  },
+  {
     "device": "LOGSFLY",
     "model": "1FLY",
     "software": "1.01 or later",
@@ -7236,5 +7201,12 @@
     "software": "1.0.01 or higher",
     "identifier": "ENS329",
     "company": "Ensi Log"
+  },
+  {
+    "device": "TransitTrackingEld",
+    "model": "TTELD1000",
+    "software": "1.0.0",
+    "identifier": "TTGPS1",
+    "company": "Transit Tracking"
   }
 ]
