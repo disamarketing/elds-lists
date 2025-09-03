@@ -308,6 +308,13 @@
     "company": "Lorry Time"
   },
   {
+    "device": "PROELD",
+    "model": "WP 01004",
+    "software": "3.3 or higher",
+    "identifier": "WP0215",
+    "company": "Waypoint Solutions LLC"
+  },
+  {
     "device": "Linxup ELD",
     "model": "AGLX01",
     "software": "1.4.72 or higher",
@@ -502,6 +509,13 @@
     "software": "2.110.0 and up",
     "identifier": "SRE288",
     "company": "SR ELD LLC"
+  },
+  {
+    "device": "WALKER ELD",
+    "model": "WAL-R",
+    "software": "2.23-05 or higher",
+    "identifier": "WLK790",
+    "company": "Walker ELD System INC"
   },
   {
     "device": "GOLDEN ELD 2.0",
@@ -784,6 +798,13 @@
     "company": "Azuga, Inc."
   },
   {
+    "device": "Shell Telematics ELD",
+    "model": "SH9",
+    "software": "5.7.2002.XXX & up",
+    "identifier": "SHELL9",
+    "company": "Shell Fleet Solutions"
+  },
+  {
     "device": "Stoneridge EZ-ELD Android",
     "model": "ELD1.0",
     "software": "App 1.0 or higher",
@@ -845,6 +866,13 @@
     "software": "187110520",
     "identifier": "87-001",
     "company": "Lorry Time"
+  },
+  {
+    "device": "GOT ELD",
+    "model": "GTE-1",
+    "software": "2.1.0 or Higher",
+    "identifier": "GTE001",
+    "company": "ONE SYSTEM LLC"
   },
   {
     "device": "ISE Fleet Services powered by eFleetSuite",
@@ -1083,6 +1111,13 @@
     "software": "3.5",
     "identifier": "PRO400",
     "company": "ORBCOMM"
+  },
+  {
+    "device": "FREEDOM LOGBOOK",
+    "model": "SSLSD5",
+    "software": "2.99 and up",
+    "identifier": "FRD316",
+    "company": "Freedom Log Book LLC"
   },
   {
     "device": "Simplex ELD 2GO",
@@ -1498,6 +1533,13 @@
     "company": "UNIONE LLC"
   },
   {
+    "device": "One System ELD",
+    "model": "OSE 001",
+    "software": "1.3.0 or Higher",
+    "identifier": "OSE001",
+    "company": "ONE SYSTEM LLC"
+  },
+  {
     "device": "J. J. Keller ELD - Android Tablet 2.0",
     "model": "20C",
     "software": "Version 3 and higher",
@@ -1713,6 +1755,13 @@
     "software": "3.5",
     "identifier": "ELD850",
     "company": "ORBCOMM"
+  },
+  {
+    "device": "ABC PRO ELD",
+    "model": "ELDAC",
+    "software": "1.0.23",
+    "identifier": "ABC183",
+    "company": "ABC ELD LLC"
   },
   {
     "device": "Dumax ELD",
@@ -1985,7 +2034,7 @@
     "model": "EPU001",
     "software": "1",
     "identifier": "EPU001",
-    "company": "Elite Power Unit"
+    "company": "Elite Power Unit LLC"
   },
   {
     "device": "\"\"AT ELD\"\"",
