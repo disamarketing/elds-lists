@@ -252,6 +252,13 @@
     "company": "TT ELD Inc"
   },
   {
+    "device": "ROBINHOOD ELD",
+    "model": "R-HOOD",
+    "software": "2.0.0 or above",
+    "identifier": "RHD481",
+    "company": "ROBINHOOD ELD"
+  },
+  {
     "device": "11",
     "model": "22",
     "software": "33",
@@ -763,6 +770,13 @@
     "company": "ELD Solutions"
   },
   {
+    "device": "TT ELD PT30",
+    "model": "ARN752",
+    "software": "4.4.7 and higher",
+    "identifier": "CZGS10",
+    "company": "TT ELD Inc"
+  },
+  {
     "device": "MasterELD",
     "model": "MELD03",
     "software": "MELDA3.0",
@@ -1057,6 +1071,13 @@
     "company": "All Truckers ELD"
   },
   {
+    "device": "TT ELD iosix",
+    "model": "AA530G",
+    "software": "4.4.7 and higher",
+    "identifier": "HGB42X",
+    "company": "TT ELD Inc"
+  },
+  {
     "device": "STEER RIGHT ELD",
     "model": "STRID",
     "software": "2.15-15 or higher.",
@@ -1125,6 +1146,13 @@
     "software": "1.17.1 and above",
     "identifier": "SIM001",
     "company": "Gorilla Fleet Safety, LLC"
+  },
+  {
+    "device": "Royal Star ELD",
+    "model": "RSELD",
+    "software": "1.0.15 or higher",
+    "identifier": "SRE150",
+    "company": "ROYAL ELD"
   },
   {
     "device": "VDO RoadLog ELD",
@@ -1456,6 +1484,13 @@
     "company": "TOP ELD CORP"
   },
   {
+    "device": "RENAISSANCE ELD",
+    "model": "RNSSNC",
+    "software": "2.26.1 and up",
+    "identifier": "RNS592",
+    "company": "RENAISSANCE ELD"
+  },
+  {
     "device": "Hours Of Service",
     "model": "iOS & Atlas",
     "software": "2116.21092",
@@ -1643,6 +1678,13 @@
     "software": "AA1839R or Later",
     "identifier": "MCP200",
     "company": "Omnitracs, LLC"
+  },
+  {
+    "device": "ELOG42",
+    "model": "ERS",
+    "software": "2.29 and later",
+    "identifier": "ERS156",
+    "company": "Leko INC"
   },
   {
     "device": "WORLD TRUCKING ELD",
