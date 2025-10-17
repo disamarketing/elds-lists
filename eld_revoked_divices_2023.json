@@ -490,6 +490,13 @@
     "company": "Azuga, Inc."
   },
   {
+    "device": "EVO ELD 1",
+    "model": "EVO 1",
+    "software": "1.0.0",
+    "identifier": "G711H2",
+    "company": "Evo ELD Inc."
+  },
+  {
     "device": "Hours of Service",
     "model": "Android & Trackit",
     "software": "3.0.2116.210920",
@@ -1771,6 +1778,13 @@
     "company": "Columbus ELD"
   },
   {
+    "device": "KAMI ELD",
+    "model": "KAME-X456",
+    "software": "2.23-17 or later",
+    "identifier": "KAM683",
+    "company": "KAMI ELD"
+  },
+  {
     "device": "Hours Of Service",
     "model": "iOS & Xirgo",
     "software": "2116.21092",
@@ -1783,6 +1797,13 @@
     "software": "3.0.2116.210920",
     "identifier": "HOS001",
     "company": "Azuga, Inc."
+  },
+  {
+    "device": "Xplore ELD",
+    "model": "XPLELD",
+    "software": "3.25.0 and higher",
+    "identifier": "XPLORE",
+    "company": "Xplore Tech Inc"
   },
   {
     "device": "QUICK ELOGS",
@@ -1988,6 +2009,13 @@
     "company": "ALL-WAYS TRACK, LLC."
   },
   {
+    "device": "PREMIUM ELD",
+    "model": "PMM",
+    "software": "2.22.4 or above",
+    "identifier": "PMM492",
+    "company": "ART KILIM INC"
+  },
+  {
     "device": "Mountain ELD",
     "model": "MT01",
     "software": "4.1.6",
@@ -2035,6 +2063,13 @@
     "software": "7.1 or higher",
     "identifier": "MDL001",
     "company": "Trimble"
+  },
+  {
+    "device": "TRUE LOGBOOK",
+    "model": "2TRUL",
+    "software": "2.22-1 or up",
+    "identifier": "TRL584",
+    "company": "Clean Aura Corp"
   },
   {
     "device": "11",
