@@ -336,13 +336,6 @@
     "company": "Radius Telematics"
   },
   {
-    "device": "Vista ELD ( Android)",
-    "model": "PT30",
-    "software": "1.0.01 or higher",
-    "identifier": "VELD11",
-    "company": "Vista ELD"
-  },
-  {
     "device": "ISPP ELD DCE",
     "model": "ISPPC 2210",
     "software": "215 or Higher",
@@ -513,7 +506,7 @@
   {
     "device": "Geotab Drive for Mack Trucks",
     "model": "TGW 2.1, TGW3",
-    "software": "11.85.292+",
+    "software": "11.92.285+",
     "identifier": "MACK01",
     "company": "Geotab Inc."
   },
@@ -693,6 +686,13 @@
     "company": "TRACKPRO ELD LLC"
   },
   {
+    "device": "Vista ELD ( Android)",
+    "model": "PT30",
+    "software": "1.0.01 or higher",
+    "identifier": "VELD11",
+    "company": "Vista ELD"
+  },
+  {
     "device": "Enterprise ELD",
     "model": "GDELD1000",
     "software": "2.4.0 or later",
@@ -767,7 +767,7 @@
     "model": "REV 6",
     "software": "6.08.00 and Higher",
     "identifier": "DT4R06",
-    "company": "DriverTech LLC"
+    "company": "DriverTechTools LLC"
   },
   {
     "device": "Geowiz ELD",
@@ -782,13 +782,6 @@
     "software": "0.0.1",
     "identifier": "EZTELD",
     "company": "EZ TRACK"
-  },
-  {
-    "device": "FleetRover WiFi",
-    "model": "FleetRover ELD-WiFi",
-    "software": "1.44.7.2",
-    "identifier": "FR1427",
-    "company": "FLEETROVER INC. d.b.a. Class8"
   },
   {
     "device": "Uptake ELD",
@@ -1295,13 +1288,6 @@
     "company": "SIMBA ELD LLC"
   },
   {
-    "device": "EVO ELD 1",
-    "model": "EVO 1",
-    "software": "1.0.0",
-    "identifier": "G711H2",
-    "company": "Evo ELD Inc."
-  },
-  {
     "device": "PDSINC ELD",
     "model": "PDSINC",
     "software": "2.21.06 and higher",
@@ -1631,6 +1617,13 @@
     "company": "Hutch Systems Inc"
   },
   {
+    "device": "Class8 Built-In ELD",
+    "model": "CTP2, CTP3",
+    "software": "25.10.06",
+    "identifier": "C8DAIM",
+    "company": "FLEETROVER INC. d.b.a. Class8"
+  },
+  {
     "device": "Stellar ELD",
     "model": "7LQ2MZ",
     "software": "1.0 and up",
@@ -1740,7 +1733,7 @@
     "model": "REV 7",
     "software": "6.08.00 and Higher",
     "identifier": "DT4R07",
-    "company": "DriverTech LLC"
+    "company": "DriverTechTools LLC"
   },
   {
     "device": "EZ LYNK ELD iOS",
@@ -2056,13 +2049,6 @@
     "software": "215 or higher",
     "identifier": "ELGP22",
     "company": "E-Log Plus"
-  },
-  {
-    "device": "Swift ELD (Android)",
-    "model": "PT30",
-    "software": "1.0.01 or higher",
-    "identifier": "SWE001",
-    "company": "Swift ELD"
   },
   {
     "device": "Sprint ELD iOS",
@@ -2410,7 +2396,7 @@
   {
     "device": "Geotab Drive for International Trucks",
     "model": "N2",
-    "software": "11.85.292+",
+    "software": "11.92.285+",
     "identifier": "NVSRN2",
     "company": "Geotab Inc."
   },
@@ -2543,7 +2529,7 @@
   {
     "device": "\"\"AT ELD\"\"",
     "model": "ATELD1",
-    "software": "1.1 or higher",
+    "software": "1.0.0 or higher",
     "identifier": "ATELD7",
     "company": "AT ELD SERVICE"
   },
@@ -2581,6 +2567,13 @@
     "software": "2.0.545",
     "identifier": "674663",
     "company": "Praxis Technologies, Inc."
+  },
+  {
+    "device": "Swift ELD (Android)",
+    "model": "PT30",
+    "software": "1.0.01 or higher",
+    "identifier": "SWE001",
+    "company": "Swift ELD"
   },
   {
     "device": "OxemonEld",
@@ -2996,13 +2989,6 @@
     "company": "Ezlogz Inc"
   },
   {
-    "device": "Trendy ELD (Android)",
-    "model": "PT30",
-    "software": "1.0.01 or higher",
-    "identifier": "TREND1",
-    "company": "Trendy ELD"
-  },
-  {
     "device": "Amber ELD (iOS)",
     "model": "PT30",
     "software": "1.01.01",
@@ -3029,13 +3015,6 @@
     "software": "2.1.2 OR Above",
     "identifier": "LOF390",
     "company": "Eld Five LLC"
-  },
-  {
-    "device": "Alfa ELD (Android)",
-    "model": "PT30",
-    "software": "1.0.01 or higher",
-    "identifier": "ALFA01",
-    "company": "Alfa ELD"
   },
   {
     "device": "Rollingtrans ELD - ACCURATE 1.1",
@@ -3355,7 +3334,7 @@
   {
     "device": "Geotab Drive Cloud ELD",
     "model": "GO6, GO7, GO8, GO9, GO9B, PEP-GO7. PEP-GO8, or FL7 (Spireon), FL8 (Spireon) or RI7/8 (by BSM) or T7, T9, SH9",
-    "software": "11.85.292+",
+    "software": "11.92.285+",
     "identifier": "GEOTAB",
     "company": "Geotab Inc."
   },
@@ -3451,6 +3430,13 @@
     "company": "J. J. Keller & Associates, Inc."
   },
   {
+    "device": "Alfa ELD (Android)",
+    "model": "PT30",
+    "software": "1.0.01 or higher",
+    "identifier": "ALFA01",
+    "company": "Alfa ELD"
+  },
+  {
     "device": "LB technologies FleetTrack ELD",
     "model": "LBFTELD",
     "software": "2.0 and above",
@@ -3491,6 +3477,13 @@
     "software": "4.1.5",
     "identifier": "GBFA01",
     "company": "Utech Inc."
+  },
+  {
+    "device": "Trendy ELD (Android)",
+    "model": "PT30",
+    "software": "1.0.01 or higher",
+    "identifier": "TREND1",
+    "company": "Trendy ELD"
   },
   {
     "device": "In Time ELD",
@@ -3889,7 +3882,7 @@
     "model": "REV 8",
     "software": "6.08+",
     "identifier": "DT1R08",
-    "company": "DriverTech LLC"
+    "company": "DriverTechTools LLC"
   },
   {
     "device": "AAT HOS",
@@ -3934,13 +3927,6 @@
     "company": "YUSUF WORLD GLOBAL LLC"
   },
   {
-    "device": "Alfa ELD (iOS)",
-    "model": "PT30",
-    "software": "1.01.01 or higher",
-    "identifier": "ALFA01",
-    "company": "Alfa ELD"
-  },
-  {
     "device": "Trip ELD (Android)",
     "model": "PT30",
     "software": "1.0.01",
@@ -3953,13 +3939,6 @@
     "software": "2.20 and up",
     "identifier": "MRS255",
     "company": "UZB2USA INC"
-  },
-  {
-    "device": "Vista ELD (iOS)",
-    "model": "PT30",
-    "software": "1.0.01 or higher",
-    "identifier": "VELD11",
-    "company": "Vista ELD"
   },
   {
     "device": "ELDWISE",
@@ -4326,13 +4305,6 @@
     "company": "EquipmentShare"
   },
   {
-    "device": "TeraHubELD",
-    "model": "THELD1000",
-    "software": "1.0.0",
-    "identifier": "THGPS1",
-    "company": "Terahub"
-  },
-  {
     "device": "Synergy ELD",
     "model": "iOS & Geometris",
     "software": "1.0 and higher",
@@ -4349,7 +4321,7 @@
   {
     "device": "Geotab Drive for Freightliner Trucks",
     "model": "CTP2, CTP3",
-    "software": "11.85.292+",
+    "software": "11.92.285+",
     "identifier": "DAIM01",
     "company": "Geotab Inc."
   },
@@ -4394,6 +4366,13 @@
     "software": "1.0.0 and higher",
     "identifier": "7GTTLE",
     "company": "Reliable ELD Inc"
+  },
+  {
+    "device": "Alfa ELD (iOS)",
+    "model": "PT30",
+    "software": "1.01.01 or higher",
+    "identifier": "ALFA01",
+    "company": "Alfa ELD"
   },
   {
     "device": "ClutchELD",
@@ -4473,6 +4452,20 @@
     "company": "ClutchELD"
   },
   {
+    "device": "TeraHubELD",
+    "model": "THELD1000",
+    "software": "1.0.0",
+    "identifier": "THGPS1",
+    "company": "Terahub"
+  },
+  {
+    "device": "Vista ELD (iOS)",
+    "model": "PT30",
+    "software": "1.0.01 or higher",
+    "identifier": "VELD11",
+    "company": "Vista ELD"
+  },
+  {
     "device": "MAX ELD",
     "model": "MEA001",
     "software": "5.3.3",
@@ -4540,7 +4533,7 @@
     "model": "REV 5",
     "software": "6.08.00 and Higher",
     "identifier": "DT4R05",
-    "company": "DriverTech LLC"
+    "company": "DriverTechTools LLC"
   },
   {
     "device": "GPSi Fleet",
@@ -4806,7 +4799,7 @@
     "model": "REV 8",
     "software": "6.08+",
     "identifier": "DT4R08",
-    "company": "DriverTech LLC"
+    "company": "DriverTechTools LLC"
   },
   {
     "device": "Astus ELD",
@@ -4935,13 +4928,6 @@
     "company": "Lucid ELD"
   },
   {
-    "device": "Swift ELD (iOS)",
-    "model": "PT30",
-    "software": "1.01.01 or higher",
-    "identifier": "SWE001",
-    "company": "Swift ELD"
-  },
-  {
     "device": "RAND ELD",
     "model": "VL21",
     "software": "215 or higher",
@@ -4958,7 +4944,7 @@
   {
     "device": "Apollo ELD (at.eDash)",
     "model": "Apollo",
-    "software": "5.25.xxx (And-iOS)",
+    "software": "5.25.026 (And-iOS)",
     "identifier": "APOLLO",
     "company": "Apollo ELD"
   },
@@ -5273,7 +5259,7 @@
   {
     "device": "NOOR ELD",
     "model": "N-R700",
-    "software": "2.88 or up",
+    "software": "1.00 or higher",
     "identifier": "NRD631",
     "company": "Noor ELD Solutions LLC"
   },
@@ -5320,16 +5306,9 @@
     "company": "My Driver Book, Inc"
   },
   {
-    "device": "LEVEL ELD",
-    "model": "PT-30, IOSiX",
-    "software": "1.0.0",
-    "identifier": "LEVELE",
-    "company": "LEVEL ELD LLC"
-  },
-  {
     "device": "Geotab Drive for Volvo Trucks",
     "model": "TGW 2.1, TGW3",
-    "software": "11.85.292+",
+    "software": "11.92.285+",
     "identifier": "VOLVO1",
     "company": "Geotab Inc."
   },
@@ -5439,11 +5418,25 @@
     "company": "PINNACLE ELD INC"
   },
   {
+    "device": "Swift ELD (iOS)",
+    "model": "PT30",
+    "software": "1.01.01 or higher",
+    "identifier": "SWE001",
+    "company": "Swift ELD"
+  },
+  {
     "device": "Big Rig ELD",
     "model": "BRE 0010",
     "software": "3.3 or higher",
     "identifier": "BRE001",
     "company": "Big Rig Fleet Services"
+  },
+  {
+    "device": "LEVEL ELD",
+    "model": "PT-30, IOSiX",
+    "software": "1.0.0",
+    "identifier": "LEVELE",
+    "company": "LEVEL ELD LLC"
   },
   {
     "device": "RULER ELD",
@@ -5824,13 +5817,6 @@
     "company": "LB Technology Inc."
   },
   {
-    "device": "Trendy ELD (iOS)",
-    "model": "PT30",
-    "software": "1.01.01 or higher",
-    "identifier": "TREND1",
-    "company": "Trendy ELD"
-  },
-  {
     "device": "JUST ELD",
     "model": "JST",
     "software": "later than 2.25.04",
@@ -5943,25 +5929,11 @@
     "company": "Limo & Bus Compliance LLC"
   },
   {
-    "device": "KAMI ELD",
-    "model": "KAME-X456",
-    "software": "2.23-17 or later",
-    "identifier": "KAM683",
-    "company": "KAMI ELD"
-  },
-  {
     "device": "Azuga ELD",
     "model": "Android & Danlaw",
     "software": "3.0.2220.230627",
     "identifier": "HOS001",
     "company": "Azuga, Inc."
-  },
-  {
-    "device": "Xplore ELD",
-    "model": "XPLELD",
-    "software": "3.25.0 and higher",
-    "identifier": "XPLORE",
-    "company": "Xplore Tech Inc"
   },
   {
     "device": "TruckSpy ELD (Android)",
@@ -6134,7 +6106,7 @@
   {
     "device": "Geotab Drive for Ford Trucks",
     "model": "Ford PassConnect",
-    "software": "11.85.292+",
+    "software": "11.92.285+",
     "identifier": "FORD01",
     "company": "Geotab Inc."
   },
@@ -6214,6 +6186,13 @@
     "software": "4.1.5",
     "identifier": "FBFA01",
     "company": "Utech Inc."
+  },
+  {
+    "device": "Trendy ELD (iOS)",
+    "model": "PT30",
+    "software": "1.01.01 or higher",
+    "identifier": "TREND1",
+    "company": "Trendy ELD"
   },
   {
     "device": "Omnitracs One Active Mobile Gateway with Communications",
@@ -6727,13 +6706,6 @@
     "company": "Apollo ELD"
   },
   {
-    "device": "PREMIUM ELD",
-    "model": "PMM",
-    "software": "2.22.4 or above",
-    "identifier": "PMM492",
-    "company": "ART KILIM INC"
-  },
-  {
     "device": "BITEC ELD",
     "model": "BRS",
     "software": "2.0 or higher",
@@ -6935,13 +6907,6 @@
     "software": "1.1 or higher",
     "identifier": "RTLS71",
     "company": "AL SOFT DEVELOPMENT"
-  },
-  {
-    "device": "TRUE LOGBOOK",
-    "model": "2TRUL",
-    "software": "2.22-1 or up",
-    "identifier": "TRL584",
-    "company": "Clean Aura Corp"
   },
   {
     "device": "Zippy ELD PT30 for Android",
