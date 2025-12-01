@@ -42,6 +42,13 @@
     "company": "Navistar, Inc."
   },
   {
+    "device": "ELD365",
+    "model": "ELD386",
+    "software": "2.1.399",
+    "identifier": "ATS001",
+    "company": "ELD365"
+  },
+  {
     "device": "Trimble Oil & Gas - WinCE ELD",
     "model": "5531+PD4",
     "software": "20043 or higher",
@@ -889,11 +896,11 @@
     "company": "Lorry Time"
   },
   {
-    "device": "GOT ELD",
-    "model": "GTE-1",
-    "software": "2.1.0 or Higher",
-    "identifier": "GTE001",
-    "company": "ONE SYSTEM LLC"
+    "device": "Sahara ELD",
+    "model": "GDELD1000",
+    "software": "2.0.8",
+    "identifier": "SAHELD",
+    "company": "SAHARA ELD LLC"
   },
   {
     "device": "ISE Fleet Services powered by eFleetSuite",
@@ -978,13 +985,6 @@
     "software": "2.0 or higher",
     "identifier": "FRS115",
     "company": "Fast and Safe llc"
-  },
-  {
-    "device": "FMCSA TEST",
-    "model": "TEST 1",
-    "software": "1.1",
-    "identifier": "TES123",
-    "company": "TEST3, INC."
   },
   {
     "device": "PRO DRIVER ELD",
@@ -1083,6 +1083,13 @@
     "software": "4.4.7 and higher",
     "identifier": "HGB42X",
     "company": "TT ELD Inc"
+  },
+  {
+    "device": "PHOENIX ELD",
+    "model": "PHOELD",
+    "software": "2.109.81 and later",
+    "identifier": "PRS973",
+    "company": "Phoenix ELD"
   },
   {
     "device": "STEER RIGHT ELD",
@@ -1285,7 +1292,14 @@
     "model": "FRS",
     "software": "2.6.13 or higher",
     "identifier": "FRS278",
-    "company": "FACTOR ELD"
+    "company": "HOST ELD LLC"
+  },
+  {
+    "device": "ELDWISE",
+    "model": "EWS",
+    "software": "2.20.1 or up",
+    "identifier": "EWS092",
+    "company": "ELDWISE"
   },
   {
     "device": "Keep Tracking",
@@ -1335,6 +1349,13 @@
     "software": "4.38 and higher",
     "identifier": "ELD001",
     "company": "ORBCOMM"
+  },
+  {
+    "device": "Ontime Logs PT",
+    "model": "OTL100",
+    "software": "1.2.6 and higher",
+    "identifier": "c3ac23",
+    "company": "ONTIME LOGS INC"
   },
   {
     "device": "LorryTM ELD",
@@ -1547,6 +1568,13 @@
     "company": "ROAD STAR INC."
   },
   {
+    "device": "USFAST ELD",
+    "model": "USFASTELD1",
+    "software": "1.0.0 or higher",
+    "identifier": "UFE021",
+    "company": "USFAST ELD"
+  },
+  {
     "device": "LorryTM ELD",
     "model": "LTM-TRK-002",
     "software": "0.6.0",
@@ -1573,13 +1601,6 @@
     "software": "1.1.6",
     "identifier": "UNI001",
     "company": "UNIONE LLC"
-  },
-  {
-    "device": "One System ELD",
-    "model": "OSE 001",
-    "software": "1.3.0 or Higher",
-    "identifier": "OSE001",
-    "company": "ONE SYSTEM LLC"
   },
   {
     "device": "J. J. Keller ELD - Android Tablet 2.0",
@@ -2119,5 +2140,12 @@
     "software": "1.1 or higher",
     "identifier": "ATELD7",
     "company": "AT ELD SERVICE"
+  },
+  {
+    "device": "Green Light ELD",
+    "model": "PT30, IOSiX",
+    "software": "1.01.01 or higher",
+    "identifier": "GLEHOS",
+    "company": "Green Light ELD LLC"
   }
 ]
