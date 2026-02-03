@@ -360,6 +360,14 @@
     "": ""
   },
   {
+    "device": "STATE ELOGS 2",
+    "model": "PT-30",
+    "software": "1.1.1 or higher",
+    "identifier": "STE384",
+    "company": "STATE ELOG LLC",
+    "": ""
+  },
+  {
     "device": "LorryTM ELD",
     "model": "LTM-TRK-001",
     "software": "187110520",
@@ -1592,11 +1600,35 @@
     "": ""
   },
   {
+    "device": "STATE ELOGS",
+    "model": "ST8-E",
+    "software": "2.93.19 or later",
+    "identifier": "STE384",
+    "company": "STATE ELOG LLC",
+    "": ""
+  },
+  {
     "device": "LorryTM ELD",
     "model": "LTM-TRK-001",
     "software": "0.2.3",
     "identifier": "87-001",
     "company": "Lorry Time",
+    "": ""
+  },
+  {
+    "device": "SUNSET LOGBOOK",
+    "model": "SSET10",
+    "software": "2.96 or up",
+    "identifier": "SNS617",
+    "company": "Sunset Logbook LLC",
+    "": ""
+  },
+  {
+    "device": "Sunset Logs",
+    "model": "PT-30",
+    "software": "1.1.1 or higher",
+    "identifier": "BGY652",
+    "company": "Sunset Logbook LLC",
     "": ""
   },
   {
@@ -1896,6 +1928,14 @@
     "": ""
   },
   {
+    "device": "SP Logbook",
+    "model": "VTSSPLB",
+    "software": "1.0 or higher",
+    "identifier": "SPLB01",
+    "company": "IntelliShift",
+    "": ""
+  },
+  {
     "device": "J. J. Keller ELD - Android Tablet 2.0",
     "model": "20C",
     "software": "Version 3 and higher",
@@ -2021,6 +2061,14 @@
     "software": "2.29 and later",
     "identifier": "ERS156",
     "company": "Leko INC",
+    "": ""
+  },
+  {
+    "device": "FIRST ELD",
+    "model": "FRST",
+    "software": "2.20.08 or higher.",
+    "identifier": "FRS185",
+    "company": "FIRST ELD LLC",
     "": ""
   },
   {
