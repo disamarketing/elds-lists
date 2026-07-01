@@ -518,6 +518,13 @@
     "company": "Trak iT Wireless Inc"
   },
   {
+    "device": "TRUCKSTAFF ELD",
+    "model": "TRKSF",
+    "software": "2.22.01 and later",
+    "identifier": "TRS227",
+    "company": "Truckstaff ELD"
+  },
+  {
     "device": "Linxup VT ELD",
     "model": "iOS & Geometris 87/88",
     "software": "2120.211209 & up",
@@ -567,11 +574,18 @@
     "company": "Azuga, Inc."
   },
   {
+    "device": "Light and Travel ELD",
+    "model": "LNTRA",
+    "software": "2.19.08 and later",
+    "identifier": "LNT780",
+    "company": "LIGHT AND TRAVEL LLC"
+  },
+  {
     "device": "EVO ELD 1",
     "model": "EVO 1",
     "software": "1.0.0",
     "identifier": "G711H2",
-    "company": "Evo ELD Inc."
+    "company": "Ev ELD Inc."
   },
   {
     "device": "Hours of Service",
@@ -1477,13 +1491,6 @@
     "company": "A to Z Appliance Services Inc."
   },
   {
-    "device": "FACTOR ELD",
-    "model": "FRS",
-    "software": "2.6.13 or higher",
-    "identifier": "FRS278",
-    "company": "HOST ELD LLC"
-  },
-  {
     "device": "ELDWISE",
     "model": "EWS",
     "software": "2.20.1 or up",
@@ -1897,6 +1904,13 @@
     "company": "Global Telecommunication Services, Inc."
   },
   {
+    "device": "Light and Travel ELD",
+    "model": "LNTRA",
+    "software": "2.19.08 and later",
+    "identifier": "LNT780",
+    "company": "LIGHT AND TRAVEL LLC"
+  },
+  {
     "device": "RT ELD Plus - ACCURATE ELITE",
     "model": "RT-ELITE-BLE3647",
     "software": "1.4",
@@ -1909,6 +1923,13 @@
     "software": "Andr 5.10, iOS 5.10",
     "identifier": "TTSP3T",
     "company": "Top Tracking System LLC"
+  },
+  {
+    "device": "My Driver Book",
+    "model": "MDB-BLE-V1",
+    "software": "1.0.0",
+    "identifier": "DB-BLE",
+    "company": "My Driver Book, Inc"
   },
   {
     "device": "Club ELD / Android",
