@@ -231,32 +231,11 @@
     "company": "TrackEnsure Incorporated"
   },
   {
-    "device": "Hours Of Service",
-    "model": "iOS & GenEx GNX-6",
-    "software": "2116.21092",
-    "identifier": "HOS002",
-    "company": "Azuga, Inc."
-  },
-  {
-    "device": "Hours Of Service",
-    "model": "Android & IOSiX",
-    "software": "3.0.2116.210920",
-    "identifier": "HOS002",
-    "company": "Azuga, Inc."
-  },
-  {
     "device": "AirELD",
     "model": "Android & Xirgo 6300 Series",
     "software": "Version 1+",
     "identifier": "ARELD1",
     "company": "Aireld Technologies"
-  },
-  {
-    "device": "Hours Of Service",
-    "model": "iOS & CalAmp4230",
-    "software": "2116.21092",
-    "identifier": "HOS002",
-    "company": "Azuga, Inc."
   },
   {
     "device": "TT ELD 30",
@@ -285,6 +264,20 @@
     "software": "33",
     "identifier": "123456",
     "company": "SOAR Solutions, Inc."
+  },
+  {
+    "device": "Ontime Logs iosix",
+    "model": "OTL101",
+    "software": "1.2.6 and higher",
+    "identifier": "24b11f",
+    "company": "ONTIME LOGS INC"
+  },
+  {
+    "device": "2BRO ELD",
+    "model": "2BRO002",
+    "software": "54.34.77",
+    "identifier": "2BRELD",
+    "company": "TWO BRO SECURITY & IT SOLUTIONS"
   },
   {
     "device": "MYWAY ELD",
@@ -567,13 +560,6 @@
     "company": "Aireld Technologies"
   },
   {
-    "device": "Hours Of Service",
-    "model": "Android & Atlas",
-    "software": "3.0.2116.210920",
-    "identifier": "HOS002",
-    "company": "Azuga, Inc."
-  },
-  {
     "device": "Light and Travel ELD",
     "model": "LNTRA",
     "software": "2.19.08 and later",
@@ -586,20 +572,6 @@
     "software": "1.0.0",
     "identifier": "G711H2",
     "company": "Ev ELD Inc."
-  },
-  {
-    "device": "Hours of Service",
-    "model": "Android & Trackit",
-    "software": "3.0.2116.210920",
-    "identifier": "HOS002",
-    "company": "Azuga, Inc."
-  },
-  {
-    "device": "Hours Of Service",
-    "model": "Android & Astus",
-    "software": "3.0.2116.210920",
-    "identifier": "HOS002",
-    "company": "Azuga, Inc."
   },
   {
     "device": "Hours Of Service",
@@ -798,6 +770,20 @@
     "company": "GPS Trackit"
   },
   {
+    "device": "Locus ELD",
+    "model": "ELD004",
+    "software": "2116.21092",
+    "identifier": "ELD001",
+    "company": "Locus GPS"
+  },
+  {
+    "device": "Locus ELD",
+    "model": "ELD001",
+    "software": "3.0.2116.210920",
+    "identifier": "ELD001",
+    "company": "Locus GPS"
+  },
+  {
     "device": "ELD Fleet",
     "model": "Android & CalAmp 4230",
     "software": "3.0.2116.210920 & up",
@@ -831,6 +817,13 @@
     "software": "2116.210920 & up",
     "identifier": "FlexCX",
     "company": "CyntrX"
+  },
+  {
+    "device": "Geotab Drive for Platform Science",
+    "model": "PSG5000",
+    "software": "5.7.2001 or Above",
+    "identifier": "PG5000",
+    "company": "Platform Science"
   },
   {
     "device": "Log n Drive (Android and Calamp LMU4230)",
@@ -957,6 +950,13 @@
     "software": "2116.21092",
     "identifier": "HOS002",
     "company": "Azuga, Inc."
+  },
+  {
+    "device": "305 ELD",
+    "model": "305002",
+    "software": "789.171",
+    "identifier": "2BR305",
+    "company": "TWO BRO SECURITY & IT SOLUTIONS"
   },
   {
     "device": "ELD MANDATE PLUS",
@@ -1197,6 +1197,13 @@
     "company": "InTouch"
   },
   {
+    "device": "Locus ELD",
+    "model": "ELD003",
+    "software": "2116.21092",
+    "identifier": "ELD001",
+    "company": "Locus GPS"
+  },
+  {
     "device": "LiveViewGPS Hours Of Service",
     "model": "ELD-OBD-LE",
     "software": "3.0.2116.210920 min",
@@ -1225,10 +1232,10 @@
     "company": "All Truckers ELD"
   },
   {
-    "device": "TT ELD iosix",
-    "model": "AA530G",
-    "software": "4.4.7 and higher",
-    "identifier": "HGB42X",
+    "device": "TT ELD 40",
+    "model": "PT40",
+    "software": "5.0.1 and higher",
+    "identifier": "TTAH49",
     "company": "TT ELD Inc"
   },
   {
@@ -1358,6 +1365,13 @@
     "company": "AVID GROUP SERVICES LLC"
   },
   {
+    "device": "Porter ELD",
+    "model": "Porter 1",
+    "software": "1",
+    "identifier": "POR247",
+    "company": "Porter ELD"
+  },
+  {
     "device": "VDO RoadLog ELD",
     "model": "3290",
     "software": "12.01.00 and above",
@@ -1442,6 +1456,13 @@
     "company": "AAMP Global (Formerly M2M In Motion)"
   },
   {
+    "device": "Locus ELD",
+    "model": "ELD002",
+    "software": "3.0.2116.210920",
+    "identifier": "ELD001",
+    "company": "Locus GPS"
+  },
+  {
     "device": "Atlas-Pro",
     "model": "XEL-002",
     "software": "2020.201026 or above",
@@ -1482,6 +1503,13 @@
     "software": "GTU",
     "identifier": "GTU882",
     "company": "GT ELD"
+  },
+  {
+    "device": "MOONLIGHT ELD",
+    "model": "MRS",
+    "software": "2.200.311",
+    "identifier": "MRS255",
+    "company": "UZB2USA INC"
   },
   {
     "device": "A to Z ELD",
@@ -1526,6 +1554,13 @@
     "company": "Azuga, Inc."
   },
   {
+    "device": "PREMIERRIDE LOGS",
+    "model": "1RIDE",
+    "software": "2.200.259 or later",
+    "identifier": "PRD391",
+    "company": "PREMIERRIDE LOGS LLC"
+  },
+  {
     "device": "Hours Of Service",
     "model": "Android & Xirgo",
     "software": "3.0.2116.210920",
@@ -1559,6 +1594,13 @@
     "software": "4.38 and higher",
     "identifier": "ELD001",
     "company": "ORBCOMM"
+  },
+  {
+    "device": "Zee HOS Compliance",
+    "model": "TTELD101",
+    "software": "1.0.0",
+    "identifier": "F594EF",
+    "company": "Zee App"
   },
   {
     "device": "Ontime Logs PT",
@@ -1608,6 +1650,13 @@
     "software": "1.1.1 or higher",
     "identifier": "BGY652",
     "company": "Sunset Logbook LLC"
+  },
+  {
+    "device": "AccuGPS",
+    "model": "OBD-Smart-19",
+    "software": "1.1",
+    "identifier": "ACCU19",
+    "company": "AccuGPS"
   },
   {
     "device": "ZED ELD",
@@ -1853,6 +1902,13 @@
     "software": "2.6 and Above",
     "identifier": "PEELD1",
     "company": "Gorilla Fleet Safety, LLC"
+  },
+  {
+    "device": "EV ELD IOSIX",
+    "model": "EV 2",
+    "software": "2.0 or higher",
+    "identifier": "G711H3",
+    "company": "Ev ELD Inc."
   },
   {
     "device": "Safe ELD",
@@ -2541,11 +2597,11 @@
     "company": "Elite Power Unit LLC"
   },
   {
-    "device": "\"\"AT ELD\"\"",
-    "model": "ATELD1",
-    "software": "1.1 or higher",
-    "identifier": "ATELD7",
-    "company": "AT ELD SERVICE"
+    "device": "LAST MINUTE ELD",
+    "model": "360-LM",
+    "software": "2.96.33 and up",
+    "identifier": "LMN932",
+    "company": "Last Minute ELD"
   },
   {
     "device": "Green Light ELD",
