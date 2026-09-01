@@ -161,6 +161,13 @@
     "company": "Arion Tech Inc."
   },
   {
+    "device": "HGRS ELD",
+    "model": "HGR",
+    "software": "2.220.402",
+    "identifier": "HRS169",
+    "company": "HGRS"
+  },
+  {
     "device": "KSK ELD",
     "model": "KSK1.0",
     "software": "android4.4&iOS3.4&up",
@@ -229,6 +236,13 @@
     "software": "3.0.59 or higher",
     "identifier": "TE0101",
     "company": "TrackEnsure Incorporated"
+  },
+  {
+    "device": "TRUCKFORD ELD",
+    "model": "TRS",
+    "software": "2.0 or higher",
+    "identifier": "TRS263",
+    "company": "Truckford ELD"
   },
   {
     "device": "AirELD",
@@ -448,6 +462,20 @@
     "company": "LiRCTek Inc"
   },
   {
+    "device": "SwissLog Lite",
+    "model": "G3000",
+    "software": "3.0.2116.210920",
+    "identifier": "IIMP30",
+    "company": "IIMSWISS CORP."
+  },
+  {
+    "device": "Datasmart ELD",
+    "model": "DSTTG-1710",
+    "software": "3.0.2116.210920",
+    "identifier": "DSE001",
+    "company": "Datasmart ELD"
+  },
+  {
     "device": "ELD Fleet",
     "model": "iOS & IOSiX",
     "software": "2116.210920 & up",
@@ -637,6 +665,13 @@
     "company": "DSG TRACKING LLC"
   },
   {
+    "device": "Sparkle ELD",
+    "model": "PT40SIM",
+    "software": "3.6.0 and higher",
+    "identifier": "SPARK6",
+    "company": "Spark Technologies Inc."
+  },
+  {
     "device": "Fleetwatcher E-Logs",
     "model": "GS4230",
     "software": "1.0.1",
@@ -740,6 +775,13 @@
     "software": "1.0.1905.190710 & up",
     "identifier": "LM423X",
     "company": "Focus fleet and fuel management inc"
+  },
+  {
+    "device": "Compliance Now",
+    "model": "Android & Geometris",
+    "software": "1.0.1905.190710",
+    "identifier": "GEO001",
+    "company": "Geosavi ELD"
   },
   {
     "device": "ELD Fleet",
@@ -1302,6 +1344,13 @@
     "company": "Azuga, Inc."
   },
   {
+    "device": "HIGHEST ELD",
+    "model": "HIG4ES",
+    "software": "2.220.423",
+    "identifier": "HIG385",
+    "company": "HGRS"
+  },
+  {
     "device": "Inthinc Connect",
     "model": "Pro400",
     "software": "3.5",
@@ -1407,6 +1456,13 @@
     "company": "Vnomics Corp"
   },
   {
+    "device": "Compliance Now",
+    "model": "Android & Pacific Tracks",
+    "software": "1.0.1905.190710",
+    "identifier": "GEO001",
+    "company": "Geosavi ELD"
+  },
+  {
     "device": "InTouch ELD - iOS",
     "model": "CalAmp 4230",
     "software": "2116.210920 & up",
@@ -1433,6 +1489,13 @@
     "software": "1.0.1905.190710 & up",
     "identifier": "LM423X",
     "company": "Focus fleet and fuel management inc"
+  },
+  {
+    "device": "Compliance Now",
+    "model": "iOS & Pacific Tracks",
+    "software": "1905.19071",
+    "identifier": "GEO001",
+    "company": "Geosavi ELD"
   },
   {
     "device": "ELD Fleet",
@@ -1509,7 +1572,7 @@
     "model": "MRS",
     "software": "2.200.311",
     "identifier": "MRS255",
-    "company": "UZB2USA INC"
+    "company": "None"
   },
   {
     "device": "A to Z ELD",
@@ -1895,6 +1958,13 @@
     "software": "4.4.5",
     "identifier": "UEI002",
     "company": "ROAD STAR INC."
+  },
+  {
+    "device": "Novalinq ELD",
+    "model": "NE100",
+    "software": "1.0.0",
+    "identifier": "NELD10",
+    "company": "Novalinq, Inc."
   },
   {
     "device": "Patriot ELD",
@@ -2371,6 +2441,13 @@
     "software": "2.34 and up.",
     "identifier": "RRS121",
     "company": "Reliable ELD Inc"
+  },
+  {
+    "device": "Compliance Now",
+    "model": "Android & CalAmp Veosphere",
+    "software": "1.0.1905.190710",
+    "identifier": "GEO001",
+    "company": "Geosavi ELD"
   },
   {
     "device": "HCSSELD",
